@@ -1,2 +1,2 @@
 # music-recommendation
-music recommendation system using reinforced learning
+A Simple session-based music recommendation system that uses a simple algorithm to predict the user's current mood.
