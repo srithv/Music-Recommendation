@@ -1,0 +1,2201 @@
+year,name,artists,acousticness,danceability,energy,liveness,speechiness,weight
+2010,Good Evening,['Mac Miller'],0.0496,0.531,0.78,0.363,0.426,0
+2010,Im a Dog (feat. Gucci Mane),"['D.G. Yola', 'Gucci']",0.268,0.813,0.559,0.144,0.207,0
+2010,Ironic,['Bo Burnham'],0.876,0.523,0.65,0.698,0.336,0
+2010,Ramona,['Beck'],0.0359,0.413,0.565,0.139,0.0288,0
+2010,Can't Forget You,['My Darkest Days'],0.00374,0.333,0.704,0.0848,0.0378,0
+2010,Pentagon,['Sean Murray'],0.101,0.422,0.207,0.159,0.0287,0
+2010,The Greatest Story Ever Told,['Ice Nine Kills'],0.0159,0.322,0.934,0.418,0.12,0
+2010,Old Devil Moon,['Chet Baker'],0.9,0.578,0.22,0.107,0.0545,0
+2010,Far Away,['Junip'],0.595,0.442,0.605,0.131,0.0333,0
+2010,Cumbia el Mamut,['Conjunto Brio Norteño'],0.314,0.599,0.799,0.143,0.0496,0
+2010,Mojado,['Ricardo Arjona'],0.395,0.672,0.593,0.077,0.111,0
+2010,I Can't Hear You,['The Dead Weather'],0.0482,0.529,0.754,0.108,0.182,0
+2010,25 de Diciembre,['Régulo Caro'],0.565,0.716,0.913,0.0829,0.0532,0
+2010,Flyin' High (feat. Zac Brown),"['Kid Rock', 'Zac Brown']",0.146,0.517,0.771,0.111,0.0384,0
+2010,Beauty School,['Deftones'],0.000059,0.397,0.9,0.228,0.0589,0
+2010,Halo / Walking On Sunshine (Glee Cast Version),['Glee Cast'],0.0679,0.242,0.91,0.137,0.113,0
+2010,Stomp,['The Stone Foxes'],0.1,0.742,0.455,0.213,0.0524,0
+2010,Elizabeth,['Ghost'],0.0549,0.514,0.921,0.236,0.0496,0
+2010,Miss Nothing,['The Pretty Reckless'],0.0000131,0.416,0.949,0.219,0.193,0
+2010,Hello Good Morning,"['Diddy - Dirty Money', 'T.I.']",0.0597,0.616,0.954,0.669,0.239,0
+2010,"Tchaikovsky: The Nutcracker, Op. 71, Act 2: No. 12 Divertissement - Tea - Chinese Dance","['Pyotr Ilyich Tchaikovsky', 'Sir Simon Rattle', 'Berliner Philharmoniker']",0.941,0.451,0.127,0.185,0.0338,0
+2010,Animal Tracks,['Mountain Man'],0.722,0.443,0.206,0.195,0.0318,0
+2010,"Tchaikovsky: The Nutcracker, Op. 71, Act 2: No. 12 Divertissement - Coffee - Arabian Dance","['Pyotr Ilyich Tchaikovsky', 'Sir Simon Rattle', 'Berliner Philharmoniker']",0.957,0.147,0.00477,0.118,0.0391,0
+2010,Show Me A Good Time,['Drake'],0.0385,0.665,0.734,0.116,0.117,0
+2010,With You in My Head (feat. The Black Angels),['UNKLE'],0.0113,0.424,0.841,0.0972,0.0549,0
+2010,Long Flight,['Future Islands'],0.0875,0.445,0.77,0.854,0.0345,0
+2010,Summertime,['Sex Bob-Omb'],0.187,0.552,0.823,0.088,0.0484,0
+2010,Time of Our Lives,['Tyrone Wells'],0.734,0.474,0.388,0.107,0.026,0
+2010,Toxic (Glee Cast Version),['Glee Cast'],0.131,0.607,0.74,0.0797,0.0561,0
+2010,Girlfriend,['Ty Segall'],0.000596,0.224,0.925,0.0663,0.0834,0
+2010,Extraction Point,['Hans Zimmer'],0.00148,0.449,0.663,0.106,0.0303,0
+2010,No Matter What,['Papa Roach'],0.00191,0.488,0.925,0.0845,0.0535,0
+2010,The Gaudy Side of Town,['Gayngs'],0.723,0.688,0.421,0.0734,0.0445,0
+2010,Don't Rock The Jukebox,['Alan Jackson'],0.103,0.63,0.756,0.318,0.0256,0
+2010,Bibbidi-Bobbidi-Boo (The Magic Song) - As heard in the Netflix series The Umbrella Academy,['Perry Como'],0.971,0.666,0.143,0.0967,0.183,0
+2010,Goodbye Earl,['The Chicks'],0.0242,0.703,0.689,0.0757,0.0293,0
+2010,H.O.C,['Kendrick Lamar'],0.105,0.613,0.591,0.191,0.391,0
+2010,Coat of Arms,['Sabaton'],0.00585,0.374,0.986,0.15,0.302,0
+2010,No Way,['The Naked And Famous'],0.00135,0.448,0.85,0.232,0.0416,0
+2010,Sheila Ki Jawani,"['Sunidhi Chauhan', 'Vishal Dadlani']",0.305,0.803,0.859,0.553,0.185,0
+2010,Heart For Brains,['Roar'],0.814,0.342,0.22,0.0707,0.0318,0
+2010,Get Off Me,['Gorilla Zoe'],0.392,0.747,0.869,0.0637,0.223,0
+2010,Invincible,['Two Steps from Hell'],0.00128,0.412,0.778,0.0753,0.033,0
+2010,143,"['Bobby Brackins', 'Ray J']",0.0113,0.833,0.751,0.0235,0.0854,0
+2010,Into Some Spirit World,['Geotic'],0.928,0.163,0.0998,0.0832,0.0416,0
+2010,Polvo Y Nada,['Calibre 50'],0.297,0.657,0.732,0.0906,0.0429,0
+2010,El Michoacano,['Los Alegres Del Barranco'],0.729,0.745,0.688,0.0728,0.154,0
+2010,Take Me Away,['Keyshia Cole'],0.213,0.649,0.719,0.255,0.0321,0
+2010,Walk in the Park,['Beach House'],0.061,0.637,0.549,0.0785,0.0253,0
+2010,Numb,['MARINA'],0.396,0.462,0.461,0.0707,0.0314,0
+2010,Duck Or Ape,['Roar'],0.00335,0.326,0.482,0.128,0.0351,0
+2010,Lux Aurumque,"['Eric Whitacre', 'Eric Whitacre Singers']",0.986,0.0783,0.0262,0.11,0.0489,0
+2010,To Darkness / Kripa,"['Dharohar Project', 'Laura Marling', 'Mumford & Sons']",0.0499,0.323,0.605,0.242,0.0478,0
+2010,Right Above It - Edited,"['Lil Wayne', 'Drake']",0.0354,0.439,0.775,0.291,0.326,0
+2010,Days Like These,['Jason Aldean'],0.0413,0.401,0.863,0.0689,0.0482,0
+2010,C.L.U.,['Daft Punk'],0.343,0.353,0.511,0.228,0.0341,0
+2010,Good Looking,['Don Omar'],0.00879,0.629,0.88,0.814,0.156,0
+2010,A Place Where You Belong,['Bullet For My Valentine'],0.0000502,0.312,0.83,0.148,0.0364,0
+2010,Buzzin Remix - Remix,"['Mann', '50 Cent']",0.118,0.723,0.937,0.328,0.138,0
+2010,Glass House,"['Wiz Khalifa', 'Curren$y', 'Big K.R.I.T.']",0.103,0.742,0.908,0.223,0.148,0
+2010,If She Could See Me Now,['Jason Aldean'],0.0017,0.632,0.866,0.153,0.0331,0
+2010,Southern Voice,['Tim McGraw'],0.0446,0.63,0.877,0.113,0.0321,0
+2010,Southern Constellations,['Pierce The Veil'],0.601,0.261,0.258,0.29,0.0291,0
+2010,Stereo Love - Extended Mix,"['Edward Maya', 'Vika Jigulina']",0.0283,0.78,0.776,0.0829,0.0374,0
+2010,This Woman and This Man,['Clay Walker'],0.0366,0.586,0.581,0.0428,0.0345,0
+2010,I Like To Move It,['Madagascar 5'],0.148,0.615,0.989,0.0645,0.173,0
+2010,Tu Historia Fue Conmigo,['La Arrolladora Banda El Limón De Rene Camacho'],0.507,0.732,0.538,0.0616,0.0276,0
+2010,The Stranger,['Lord Huron'],0.277,0.244,0.595,0.222,0.0343,0
+2010,Cloud Watching,['Paul Hardcastle'],0.564,0.634,0.523,0.0555,0.0286,0
+2010,"The Nutcracker - Ballet, Op.71, Act I: No. 7 - The Battle","['Pyotr Ilyich Tchaikovsky', 'Sir Simon Rattle', 'Berliner Philharmoniker']",0.96,0.392,0.386,0.218,0.0666,0
+2010,All I Want for Christmas,['Big Time Rush'],0.0025,0.471,0.872,0.297,0.0488,0
+2010,Isolation,['Alter Bridge'],0.00000653,0.431,0.964,0.0941,0.0745,0
+2010,And the Birds Sing,['Tyrone Wells'],0.707,0.751,0.385,0.0944,0.032,0
+2010,La Reunión De Los Vaqueros,"['Wisin & Yandel', 'Cosculluela', 'Tego Calderon', 'De La Ghetto', 'Franco ""El Gorilla""']",0.198,0.845,0.845,0.126,0.136,0
+2010,You Kill Me (In a Good Way),['Sleeping With Sirens'],0.0000609,0.38,0.907,0.103,0.062,0
+2010,Right On,"['The Roots', 'Joanna Newsom', 'STS']",0.0136,0.817,0.769,0.456,0.151,0
+2010,Talamak,['Toro y Moi'],0.626,0.575,0.677,0.12,0.447,0
+2010,It's My Life / Confessions Part II (Glee Cast Version),['Glee Cast'],0.0385,0.586,0.882,0.32,0.0487,0
+2010,Mi Amigo,['Kings of Leon'],0.0818,0.587,0.625,0.147,0.0356,0
+2010,Bruised Orange (Chain of Sorrow),['Justin Vernon'],0.988,0.169,0.424,0.0648,0.0586,0
+2010,Dinosaur,['Kesha'],0.0532,0.863,0.88,0.0706,0.175,0
+2010,Fire,['Bruce Springsteen'],0.0292,0.731,0.535,0.0705,0.0424,0
+2010,The Seal Lullaby,"['Eric Whitacre', 'Eric Whitacre Singers']",0.988,0.233,0.0217,0.0836,0.0413,0
+2010,Love That Lets Go,"['Hannah Montana', 'Billy Ray Cyrus']",0.271,0.547,0.547,0.0875,0.0282,0
+2010,Who Let The Ghosts Out,['The Hit Crew Kids'],0.601,0.862,0.889,0.405,0.064,0
+2010,Set It On Fire,['My Darkest Days'],0.00156,0.496,0.949,0.0977,0.0537,0
+2010,I Got Nothin',['Darius Rucker'],0.169,0.554,0.621,0.086,0.0325,0
+2010,El Alamo,['Los Cuates de Sinaloa'],0.136,0.804,0.765,0.0588,0.0378,0
+2010,Dulce Soledad,['Enjambre'],0.00193,0.405,0.908,0.128,0.0508,0
+2010,San Cristóbal,['Mal Blum'],0.887,0.516,0.292,0.101,0.0598,0
+2010,24 Horas,['24 Horas'],0.206,0.814,0.68,0.101,0.043,0
+2010,God Only Knows - EP Version,['JR JR'],0.717,0.505,0.567,0.172,0.0282,0
+2010,Sticks & Stones,['Jónsi'],0.00369,0.399,0.727,0.16,0.0486,0
+2010,La Tragedia de Iguala,['Los Armadillos de la Sierra'],0.801,0.86,0.402,0.0844,0.0592,0
+2010,Siento Que Te Quiero,['Zacarias Ferreira'],0.256,0.82,0.456,0.0843,0.0613,0
+2010,Casi un Hechizo,['Jerry Rivera'],0.714,0.68,0.715,0.0541,0.0409,0
+2010,Sukiyaki,['Kyu Sakamoto'],0.707,0.415,0.359,0.319,0.0334,0
+2010,Black Mud,['The Black Keys'],0.253,0.515,0.502,0.345,0.058,0
+2010,Mowgli's Road,['MARINA'],0.00639,0.621,0.808,0.503,0.0454,0
+2010,Ambling Alp,['Yeasayer'],0.00838,0.587,0.866,0.15,0.0816,0
+2010,Devils,['Boosie Badazz'],0.0564,0.781,0.747,0.355,0.0862,0
+2010,Last Friday Night (T.G.I.F.),['Katy Perry'],0.00125,0.652,0.812,0.667,0.0409,0
+2010,Hermit the Frog,['MARINA'],0.265,0.617,0.654,0.151,0.0295,0
+2010,Buscándote,['Los Llayras'],0.584,0.768,0.683,0.119,0.0461,0
+2010,Give Peace A Chance - Remastered 2010,"['John Lennon', 'Yoko Ono']",0.323,0.451,0.875,0.682,0.121,0
+2010,England,['The National'],0.701,0.491,0.645,0.106,0.0398,0
+2010,Attero Dominatus,['Sabaton'],0.0000102,0.201,0.731,0.0868,0.0529,0
+2010,"Pink Elephants on Parade - From ""Dumbo""",['Disney Studio Chorus'],0.935,0.649,0.519,0.318,0.226,0
+2010,"Tear it Down - From ""Camp Rock 2: The Final Jam""","['Meaghan Martin', 'Matthew ""Mdot"" Finley']",0.00183,0.484,0.947,0.205,0.16,0
+2010,Don't Let It Pass,['Junip'],0.69,0.674,0.481,0.125,0.0297,0
+2010,only my railgun,['fripSide'],0.221,0.57,0.998,0.317,0.159,0
+2010,I WILL SURVIVE,['Gloria Gaynor'],0.126,0.772,0.794,0.322,0.0632,0
+2010,"Starve The Ego, Feed The Soul",['The Glitch Mob'],0.582,0.415,0.528,0.498,0.158,0
+2010,Jolene,['The White Stripes'],0.636,0.278,0.752,0.394,0.163,0
+2010,Harry Potter - Prologue,['The London Fox Players'],0.85,0.262,0.252,0.208,0.0341,0
+2010,"Coca Coca (feat. Rocko, OJ Da Juiceman, Waka Flocka Flame, Shawty Lo, Yo Gotti, & Nicki Minaj)","['Gucci Mane', 'Nicki Minaj', 'OJ Da Juiceman', 'Rocko', 'Shawty Lo', 'Waka Flocka Flame', 'Yo Gotti']",0.00416,0.81,0.56,0.143,0.162,0
+2010,Til The Last Shot's Fired,['Trace Adkins'],0.506,0.416,0.465,0.104,0.035,0
+2010,Cold Hearted,['Zac Brown Band'],0.414,0.4,0.465,0.0739,0.0264,0
+2010,Cupid,['Sam Cooke'],0.476,0.485,0.433,0.0861,0.0342,0
+2010,Face In The Crowd,['Mac Miller'],0.23,0.407,0.918,0.254,0.482,0
+2010,Drops Of Jupiter - Live/2011,['Taylor Swift'],0.806,0.374,0.504,0.76,0.0392,0
+2010,Your Biggest Fan,"['Jonas Brothers', 'China Anne McClain']",0.0389,0.723,0.62,0.263,0.0685,0
+2010,"The Nutcracker - Ballet, Op.71, Act II: No. 10 - The Kingdom of Sweets","['Pyotr Ilyich Tchaikovsky', 'Sir Simon Rattle', 'Berliner Philharmoniker']",0.915,0.136,0.173,0.0991,0.0383,0
+2010,I Go To Sleep,['Anika'],0.0233,0.597,0.492,0.0828,0.032,0
+2010,Surah Al-Fatiha,['Sheikh Mishary Rashid Alfasay'],0.936,0.35,0.197,0.163,0.0323,0
+2010,Only Look At Me (나만 바라봐),['TAEYANG'],0.27,0.707,0.675,0.332,0.0336,0
+2010,Relentless Chaos,['Miss May I'],0.000139,0.458,0.99,0.454,0.136,0
+2010,Hanging On By A Thread,['The Letter Black'],0.00000359,0.434,0.94,0.0959,0.0546,0
+2010,"Don't Think Twice, It's Alright",['Emilie-Claire Barlow'],0.906,0.66,0.437,0.101,0.0466,0
+2010,Kickstarts,['Example'],0.00374,0.61,0.836,0.358,0.0573,0
+2010,La Carcacha,['Selena'],0.13,0.696,0.8,0.361,0.0671,0
+2010,Cuenta Conmigo,['Jerry Rivera'],0.591,0.58,0.727,0.223,0.0393,0
+2010,Not Afraid,['Eminem'],0.537,0.852,0.955,0.356,0.275,0
+2010,Farewell to Dobby,['Alexandre Desplat'],0.953,0.0865,0.0621,0.0903,0.0392,0
+2010,Boasting,"['Lecrae', 'Anthony Evans']",0.215,0.399,0.74,0.369,0.284,0
+2010,Skin,['Sade'],0.0279,0.803,0.384,0.112,0.0493,0
+2010,Angels we have heard on high,['Chanticleer'],0.995,0.159,0.122,0.139,0.0447,0
+2010,7 Shots,['Volbeat'],0.0000412,0.289,0.929,0.119,0.0914,0
+2010,Celebrity,['Brad Paisley'],0.379,0.643,0.837,0.18,0.0316,0
+2010,Feel Like Making Love,['Bad Company'],0.153,0.452,0.635,0.754,0.0321,0
+2010,Angels We Have Heard On High (Glee Cast Version),['Glee Cast'],0.0349,0.365,0.805,0.107,0.0615,0
+2010,Fallen Angel feat. Aimee B,"['Mitsunori Ikeda', 'Aimee B']",0.21,0.804,0.765,0.0993,0.0584,0
+2010,La del Vestido Rojo,['Acapulco Tropical'],0.28,0.694,0.81,0.316,0.0323,0
+2010,Vaporize,['Broken Bells'],0.0236,0.557,0.588,0.523,0.0293,0
+2010,I Rep The West,['Ice Cube'],0.00657,0.716,0.885,0.0928,0.303,0
+2010,I Think Ur A Contra,['Vampire Weekend'],0.924,0.366,0.329,0.0819,0.0394,0
+2010,El Ritmo No Perdona - Bonus Track,['Daddy Yankee'],0.0625,0.769,0.923,0.12,0.0968,0
+2010,Yesterday (feat. Trey Songz) - Toni/Trey Version,"['Toni Braxton', 'Trey Songz']",0.182,0.436,0.679,0.304,0.0435,0
+2010,"The Nutcracker - Ballet, Op.71, Act II, No. 12 - Divertissement:: Chocolate: Spanish Dance","['Pyotr Ilyich Tchaikovsky', 'Sir Simon Rattle', 'Berliner Philharmoniker']",0.583,0.396,0.294,0.142,0.041,0
+2010,Hoy Lo Siento,"['Zion & Lennox', 'Tony Dize']",0.0746,0.771,0.784,0.0555,0.0928,0
+2010,Estilo Especial,['Régulo Caro'],0.48,0.519,0.897,0.233,0.111,0
+2010,A Cold Freezin' Night,['The Books'],0.409,0.688,0.816,0.338,0.259,0
+2010,Lay Your Hands On Me,['Bon Jovi'],0.177,0.332,0.967,0.308,0.0679,0
+2010,You and I (Park Bom),['2NE1'],0.018,0.66,0.784,0.0844,0.0514,0
+2010,Tu Angelito,['Chino & Nacho'],0.382,0.834,0.868,0.203,0.0415,0
+2010,Cornbread and Butterbeans,['Carolina Chocolate Drops'],0.853,0.67,0.454,0.119,0.0367,0
+2010,Hello World,['Lady A'],0.0555,0.427,0.531,0.0835,0.0297,0
+2010,Eres Rey de los Cielos,['Marco Barrientos'],0.243,0.598,0.494,0.708,0.0264,0
+2010,Mírame,['Daddy Yankee'],0.19,0.794,0.749,0.11,0.101,0
+2010,Drop It Low feat Ester Dean,['Lil Wayne'],0.0248,0.619,0.674,0.0972,0.395,0
+2010,Love Is Not Enough,['Yelawolf'],0.174,0.836,0.547,0.125,0.205,0
+2010,Whoop A Man's Ass,['Trace Adkins'],0.00306,0.529,0.933,0.0953,0.0719,0
+2010,The Sky Under the Sea,['Pierce The Veil'],0.000133,0.36,0.968,0.397,0.142,0
+2010,Stand by Him,['Ghost'],0.112,0.56,0.902,0.101,0.0463,0
+2010,La Cumbia Rebaja,['Aniceto Molina'],0.126,0.69,0.828,0.0539,0.0478,0
+2010,Y la Felicidad Qué,['Canserbero'],0.434,0.72,0.827,0.263,0.384,0
+2010,Holidays (feat. Alan Palomo),"['Miami Horror', 'Alan Palomo']",0.103,0.667,0.926,0.229,0.0526,0
+2010,"You're Only Second Rate - From ""The Return of Jafar""",['Jonathan Freeman'],0.575,0.479,0.7,0.29,0.366,0
+2010,Song for Dan Treacy,['MGMT'],0.00314,0.453,0.977,0.106,0.102,0
+2010,Faithfully (Glee Cast Version),['Glee Cast'],0.144,0.412,0.54,0.111,0.0289,0
+2010,Bricksquad (feat. Gudda Gudda),"['Waka Flocka Flame', 'Gudda Gudda']",0.0169,0.676,0.681,0.241,0.188,0
+2010,Make It Without You,['Andrew Belle'],0.92,0.456,0.205,0.149,0.0313,0
+2010,El Cero Dos,['Los Alegres Del Barranco'],0.313,0.869,0.818,0.0637,0.0761,0
+2010,Billionaire (feat. Bruno Mars) - Acoustic Version,['Travie McCoy'],0.794,0.687,0.542,0.0822,0.15,0
+2010,Get MuNNY,['Erykah Badu'],0.162,0.791,0.592,0.623,0.0474,0
+2010,Swim Until You Can't See Land,['Frightened Rabbit'],0.0438,0.347,0.874,0.116,0.0351,0
+2010,Draw Your Swords,['Angus & Julia Stone'],0.167,0.694,0.303,0.0831,0.0275,0
+2010,No Quiero Saber - 1996 Version,['Selena'],0.0256,0.778,0.815,0.248,0.0398,0
+2010,Nobody,['Wonder Girls'],0.161,0.901,0.74,0.155,0.0751,0
+2010,La Gente Del Chapo,['Los Alegres Del Barranco'],0.442,0.804,0.762,0.108,0.0674,0
+2010,Shreveport,['Turnpike Troubadours'],0.0118,0.554,0.797,0.274,0.0307,0
+2010,Africa,['TOTO'],0.415,0.668,0.43,0.0569,0.0311,0
+2010,One More Night In Brooklyn,['Justin Townes Earle'],0.52,0.762,0.376,0.108,0.0396,0
+2010,The Masochism Tango,['Tom Lehrer'],0.701,0.55,0.383,0.0955,0.115,0
+2010,Night by Night,['Chromeo'],0.00646,0.684,0.896,0.0924,0.0349,0
+2010,American Slang,['The Gaslight Anthem'],0.000243,0.56,0.821,0.144,0.0325,0
+2010,There's Your Trouble,['The Chicks'],0.502,0.738,0.791,0.308,0.026,0
+2010,Kansas City Southern,['Turnpike Troubadours'],0.0166,0.571,0.802,0.14,0.0258,0
+2010,Down On Me,"['Jeremih', '50 Cent']",0.0369,0.7,0.598,0.111,0.114,0
+2010,All I Want Is You,['Mac Miller'],0.113,0.589,0.768,0.129,0.205,0
+2010,Eye of the Tiger,['Survivor'],0.236,0.821,0.477,0.0771,0.0349,0
+2010,Me Duele,['Roberto Tapia'],0.353,0.698,0.566,0.0683,0.0444,0
+2010,Reach For The Stars - Opening Theme - Vocals by Jean Paul Makhlouf of Cash Cash,"['SEGA SOUND TEAM', 'Tomoya Ohtani']",0.0000866,0.445,0.978,0.291,0.0896,0
+2010,My Body Is A Cage,['Peter Gabriel'],0.851,0.341,0.114,0.104,0.0342,0
+2010,I'm In Here,['Sia'],0.0582,0.564,0.784,0.114,0.0568,0
+2010,Left Of Me,['The Lacs'],0.199,0.705,0.675,0.274,0.043,0
+2010,Olvídala,['Conjunto Atardecer'],0.14,0.518,0.759,0.133,0.0404,0
+2010,Like It's Her Birthday,['Good Charlotte'],0.00884,0.592,0.868,0.144,0.0679,0
+2010,I Put a Spell on You (feat. Joss Stone),"['Jeff Beck', 'Joss Stone']",0.433,0.681,0.335,0.219,0.0865,0
+2010,Happily Ever After,['He Is We'],0.0267,0.569,0.706,0.0947,0.0265,0
+2011,We Are The Champions - Remastered 2011,['Queen'],0.378,0.268,0.459,0.119,0.0346,0
+2011,Violin,['Amos Lee'],0.705,0.459,0.341,0.291,0.0285,0
+2011,The Duck Song (The Duck and the Lemonade Stand),['Bryant Oden'],0.911,0.455,0.522,0.171,0.119,0
+2011,Casi q' me pierdo,['Los Cafres'],0.0216,0.697,0.638,0.103,0.091,0
+2011,Goodbye (with Soap & Skin),"['Apparat', 'Soap&Skin']",0.444,0.469,0.449,0.334,0.0512,0
+2011,"Do Right Woman, Do Right Man",['Etta James'],0.581,0.449,0.412,0.452,0.0297,0
+2011,Pink Fluffy Unicorns Dancing On Rainbows,['Songs To Wear Pants To'],0.29,0.964,0.554,0.0911,0.0598,0
+2011,I'm Yours,['Vitamin String Quartet'],0.673,0.675,0.134,0.158,0.0402,0
+2011,Spooks,['Dance Gavin Dance'],0.000371,0.166,0.988,0.167,0.23,0
+2011,Deep Theta 7 Hz,['Steven Halpern'],0.989,0.213,0.00667,0.0918,0.0418,0
+2011,Danza Kuduro,"['Don Omar', 'Lucenzo']",0.0866,0.701,0.896,0.0572,0.0814,0
+2011,Life's A Happy Song,"['Mickey Rooney', 'Feist', 'Amy Adams', 'Jason Segel', 'Walter']",0.452,0.631,0.545,0.266,0.127,0
+2011,Ajustando Cuentas,"['Diana Reyes', 'Jenni Rivera']",0.68,0.75,0.718,0.204,0.0356,0
+2011,"If You Think This Song Is About You, It Probably Is",['Destroy Rebuild Until God Shows'],0.00279,0.597,0.97,0.354,0.161,0
+2011,Pvp,['Ken Ashcorp'],0.00333,0.565,0.574,0.291,0.0789,0
+2011,Holy Is The Lord,['Chris Tomlin'],0.000992,0.467,0.708,0.238,0.0269,0
+2011,We Wish You a Merry Christmas (Live),['The Oscar Brown Jazz Trio'],0.708,0.519,0.429,0.0929,0.0397,0
+2011,給我一個理由忘記,['A-Lin'],0.583,0.399,0.512,0.104,0.0357,0
+2011,Gangsta Sexy,['Hollywood Undead'],0.000215,0.677,0.859,0.331,0.0701,0
+2011,The Show Goes On,['Lupe Fiasco'],0.0388,0.625,0.856,0.163,0.121,0
+2011,Going Down - Radio Edit,['Eden James'],0.0543,0.522,0.866,0.108,0.0339,0
+2011,Real In Rio,"['Jesse Eisenberg', 'Jamie Foxx', 'Anne Hathaway', 'George Lopez', 'will.i.am', 'The Rio Singers']",0.198,0.525,0.718,0.298,0.363,0
+2011,Start Over,['Beyoncé'],0.193,0.474,0.797,0.322,0.191,0
+2011,Everything Goes My Way,['Metronomy'],0.102,0.864,0.558,0.178,0.0399,0
+2011,I Gotta Go,['Robert Earl Keen'],0.206,0.754,0.781,0.248,0.0353,0
+2011,The Resurrection Stone,['Alexandre Desplat'],0.876,0.159,0.0428,0.0976,0.0407,0
+2011,Bernadette,['IAMX'],0.175,0.168,0.684,0.0886,0.0425,0
+2011,Change On Me,['Cynthia'],0.00187,0.649,0.648,0.106,0.0458,0
+2011,BTSTU - Edit,['Jai Paul'],0.784,0.658,0.38,0.426,0.438,0
+2011,Lover To Lover,['Florence + The Machine'],0.0909,0.588,0.809,0.347,0.0309,0
+2011,"Violin Concerto in E Minor, Op. 64, MWV O 14: 1. Allegro molto appassionato","['Felix Mendelssohn', 'Kyung Wha Chung', 'Orchestre Symphonique de Montréal', 'Charles Dutoit']",0.919,0.287,0.145,0.0987,0.0406,0
+2011,Lead Me To The Cross,['Hillsong UNITED'],0.0479,0.411,0.558,0.0977,0.0295,0
+2011,"Flor Hermosa (Eres Flor, Eres Hermosa)",['Los Originales De San Juan'],0.339,0.452,0.787,0.59,0.189,0
+2011,Survivor Guilt,['Rise Against'],0.000556,0.273,0.966,0.0524,0.0934,0
+2011,因為愛情,"['Eason Chan', 'Faye Wong']",0.858,0.412,0.205,0.104,0.0316,0
+2011,Adolescents,['Incubus'],0.0567,0.525,0.758,0.0944,0.0323,0
+2011,Everything Moves,['Bronze Radio Return'],0.11,0.63,0.679,0.237,0.0418,0
+2011,Jesus Messiah,['Chris Tomlin'],0.0951,0.293,0.743,0.107,0.031,0
+2011,We Move Lightly,"[""Dustin O'Halloran""]",0.972,0.179,0.133,0.0712,0.0419,0
+2011,Too Many Rappers - New Reactionaries Version,"['Beastie Boys', 'Nas']",0.00566,0.627,0.872,0.522,0.158,0
+2011,We Belong,['Tom Felton'],0.615,0.584,0.539,0.124,0.0268,0
+2011,El Primer Lugar,['La Original Banda El Limón de Salvador Lizárraga'],0.581,0.633,0.588,0.0583,0.0289,0
+2011,Interlude,"['Lil Wayne', 'Tech N9ne']",0.0197,0.665,0.905,0.209,0.267,0
+2011,How to Make Gravy,['Paul Kelly'],0.0537,0.374,0.742,0.238,0.0351,0
+2011,Man I Think I Love Her,['Stereo Skyline'],0.0117,0.585,0.927,0.0889,0.0572,0
+2011,THISKIDSNOTALRIGHT,['AWOLNATION'],0.0259,0.483,0.826,0.408,0.0705,0
+2011,"Here I Am, Lord",['Collin Raye'],0.945,0.505,0.136,0.133,0.029,0
+2011,Me Caíste Del Cielo,['Los Huracanes del Norte'],0.29,0.478,0.477,0.0688,0.077,0
+2011,Summer Tiime,['Vybz Kartel'],0.313,0.857,0.798,0.316,0.0651,0
+2011,Criticize,['Adelitas Way'],0.0000705,0.509,0.992,0.35,0.0724,0
+2011,Ruby,['Foster The People'],0.148,0.733,0.42,0.0524,0.0255,0
+2011,Dance (A$$),['Big Sean'],0.0203,0.769,0.696,0.13,0.34,0
+2011,A Place Only You Can Go,['NEEDTOBREATHE'],0.283,0.342,0.35,0.107,0.0281,0
+2011,Dirt Road Anthem (Remix) [feat. Ludacris],"['Jason Aldean', 'Ludacris']",0.186,0.696,0.776,0.25,0.0409,0
+2011,Lightweight,['Demi Lovato'],0.514,0.558,0.544,0.106,0.0289,0
+2011,Dejémoslo Así,['Edith Márquez'],0.763,0.531,0.548,0.115,0.0327,0
+2011,Sverker,['Corvus Corax'],0.247,0.499,0.725,0.117,0.0535,0
+2011,Take Over Control (Dutch Edit) [feat. Eva Simons],"['Afrojack', 'Eva Simons']",0.23,0.704,0.806,0.0977,0.121,0
+2011,Skylight,['Gramatik'],0.0983,0.667,0.608,0.336,0.11,0
+2011,The Parking Ticket,['Patton Oswalt'],0.788,0.653,0.944,0.957,0.891,0
+2011,The Poop Song,['The Toilet Bowl Cleaners'],0.976,0.799,0.178,0.17,0.0763,0
+2011,Put Your Hearts Up,['Ariana Grande'],0.1,0.597,0.815,0.112,0.0457,0
+2011,Attaboy,"['Stuart Duncan', 'Edgar Meyer', 'Chris Thile', 'Yo-Yo Ma']",0.823,0.465,0.384,0.182,0.0379,0
+2011,Off With Her Head,['Icon For Hire'],0.00055,0.57,0.904,0.379,0.0746,0
+2011,She Is,['Ben Rector'],0.0104,0.471,0.811,0.335,0.0524,0
+2011,How Can You Swallow So Much Sleep,['Bombay Bicycle Club'],0.377,0.517,0.829,0.0985,0.0443,0
+2011,The Hellcat Spangled Shalalala,['Arctic Monkeys'],0.000793,0.449,0.872,0.0642,0.0507,0
+2011,Undone,"['Brian Tuey', 'James McCawley', 'Kevin Sherwood', 'Treyarch Sound']",0.217,0.594,0.647,0.126,0.0275,0
+2011,Who Do You Voodoo (From Dead Island),"['Josef ""J7"" Lord', 'Christopher H. Knight']",0.273,0.751,0.805,0.0766,0.303,0
+2011,"Someone, Somewhere",['Asking Alexandria'],0.00000539,0.285,0.995,0.288,0.0938,0
+2011,Wanted You More,['Lady A'],0.319,0.461,0.71,0.104,0.0422,0
+2011,Take You Higher - Radio Edit,"['Goodwill', 'Hook N Sling']",0.0391,0.674,0.708,0.114,0.0281,0
+2011,Right Before My Eyes,['Cage The Elephant'],0.000282,0.488,0.903,0.131,0.0373,0
+2011,Interlude,['J. Cole'],0.936,0.521,0.285,0.115,0.105,0
+2011,It Takes Time to Be a Man,['The Rapture'],0.18,0.53,0.593,0.118,0.0352,0
+2011,Detrás de Mi Ventana - Banda,['Jenni Rivera'],0.503,0.725,0.529,0.312,0.0286,0
+2011,Paris,['M|O|O|N'],0.105,0.65,0.666,0.096,0.0463,0
+2011,The Champ,['Nelly'],0.212,0.548,0.883,0.0828,0.0766,0
+2011,Time Well Spent,['Tom Felton'],0.252,0.67,0.609,0.0916,0.0302,0
+2011,Gangsta,['Tune-Yards'],0.0983,0.698,0.758,0.79,0.086,0
+2011,The Chair,['George Strait'],0.442,0.65,0.468,0.311,0.024,0
+2011,Renuévame,['Marcos Witt'],0.899,0.667,0.522,0.758,0.0341,0
+2011,Somos Más Americanos,"['Los Tigres Del Norte', 'Zack De La Rocha']",0.222,0.557,0.628,0.707,0.0405,0
+2011,Endtapes - Soundtrack Version,['The Joy Formidable'],0.0218,0.54,0.746,0.122,0.0454,0
+2011,The Gospel (According to Fishermen),['Tyler Childers'],0.924,0.612,0.16,0.104,0.0518,0
+2011,El Hijo Desobediente,['Jorge Gamboa'],0.13,0.622,0.638,0.192,0.0503,0
+2011,Shy Ronnie 2: Ronnie & Clyde,"['The Lonely Island', 'Rihanna']",0.00257,0.624,0.77,0.295,0.209,0
+2011,Wepa,['Gloria Estefan'],0.0248,0.789,0.751,0.103,0.318,0
+2011,Two Shots,['Lil Wayne'],0.00484,0.419,0.615,0.13,0.197,0
+2011,Bizness,['Tune-Yards'],0.196,0.76,0.76,0.113,0.0509,0
+2011,Seis Pies Abajo,['Los Cadetes'],0.278,0.804,0.683,0.0535,0.0732,0
+2011,Antidote - Radio Edit,"['Swedish House Mafia', 'Knife Party']",0.00645,0.648,0.859,0.135,0.111,0
+2011,Dogwood Blossom,['Fionn Regan'],0.916,0.466,0.0264,0.0893,0.0553,0
+2011,Against All Odds (Take A Look at Me Now) (feat. Westlife),"['Mariah Carey', 'Westlife']",0.584,0.471,0.514,0.103,0.0315,0
+2011,"Chakra Expansion and Balance: Great for Holistic Healers, Reiki Masters",['Premium Sounds'],0.833,0.195,0.0128,0.111,0.0476,0
+2011,Two Sleepy People,"['Marcus Gilmore', 'Danny Grissett', 'Vicente Archer']",0.965,0.445,0.0978,0.121,0.0397,0
+2011,Drummer Boy,"['Justin Bieber', 'Busta Rhymes']",0.025,0.752,0.85,0.149,0.0819,0
+2011,Exceptional,['China Anne McClain'],0.00215,0.675,0.888,0.197,0.0428,0
+2011,Through The Dark,['Alexi Murdoch'],0.958,0.566,0.127,0.111,0.0439,0
+2011,Mi Adolescencia A Los Cuarenta,"['Miguel Y Miguel', 'Serapio Ramirez']",0.355,0.709,0.529,0.282,0.0341,0
+2011,Settle Down,['Kimbra'],0.0791,0.763,0.666,0.0733,0.0537,0
+2011,One for My Baby (And One More for the Road),"['Tony Bennett', 'John Mayer']",0.82,0.573,0.324,0.0618,0.039,0
+2011,That's How Country Boys Roll,['Billy Currington'],0.0579,0.674,0.919,0.113,0.0347,0
+2011,Star of the Show (feat. Chevy Woods),"['Wiz Khalifa', 'Chevy Woods']",0.48,0.495,0.851,0.148,0.259,0
+2011,Intro,['Lil Wayne'],0.00185,0.622,0.811,0.149,0.207,0
+2011,Love Will Take You,['Angus & Julia Stone'],0.119,0.572,0.534,0.0816,0.0352,0
+2011,"Baby, It's Cold Outside",['She & Him'],0.809,0.483,0.5,0.292,0.133,0
+2011,Innocence,['NERO'],0.00126,0.377,0.736,0.0849,0.0623,0
+2011,Rhode Island,['The Front Bottoms'],0.00192,0.556,0.814,0.197,0.0311,0
+2011,Lucky Now,['Ryan Adams'],0.671,0.599,0.34,0.094,0.0418,0
+2011,The A Team,['Ed Sheeran'],0.669,0.642,0.289,0.18,0.0367,0
+2011,I Don't Give A Fuck,"['Lil Jon & The East Side Boyz', 'Mystikal', 'Krayzie Bone']",0.102,0.789,0.82,0.0873,0.334,0
+2011,All By My Lonely,"['Kutt Calhoun', 'BG Bulletwound']",0.0474,0.697,0.275,0.183,0.0837,0
+2011,Blue Monday - 2011 Total Version,['New Order'],0.000611,0.792,0.713,0.0855,0.0539,0
+2011,All I Have Is Christ,['Sovereign Grace Music'],0.129,0.263,0.401,0.67,0.0315,0
+2011,Deer In The Headlights,['Owl City'],0.0287,0.574,0.981,0.0697,0.0485,0
+2011,Winter Wonderland (feat. Jack Jezzro),['Jack Jezzro'],0.934,0.701,0.258,0.106,0.0552,0
+2011,El Paso Del Gigante,['Grupo Sonador'],0.00688,0.552,0.954,0.0853,0.0807,0
+2011,I Hate Everything,['George Strait'],0.404,0.587,0.635,0.239,0.0283,0
+2011,Screaming Bloody Murder,['Sum 41'],0.000413,0.36,0.987,0.283,0.157,0
+2011,Alive,['Adelitas Way'],0.00357,0.524,0.976,0.102,0.0459,0
+2011,Honeybee,['Seahaven'],0.885,0.754,0.0382,0.166,0.0411,0
+2011,Atrae Mi Corazón,"['Marcos Brunet', 'Toma Tu Lugar']",0.86,0.502,0.152,0.317,0.0317,0
+2011,Abortion,['Lil Wayne'],0.0154,0.329,0.866,0.221,0.268,0
+2011,The Aviators,['Helen Jane Long'],0.866,0.22,0.0295,0.0752,0.0397,0
+2011,All I Wanna Do Is Make Love to You - EP Version,['Halestorm'],0.0162,0.523,0.793,0.0967,0.0334,0
+2011,Rio,['Low Cut Connie'],0.139,0.477,0.957,0.0632,0.0385,0
+2011,That's My Girl,['Russell Dickerson'],0.115,0.482,0.795,0.125,0.0319,0
+2011,Lucid Truth,['Blackmill'],0.0402,0.641,0.913,0.116,0.0346,0
+2011,BTSTU (Demo),['Jai Paul'],0.73,0.644,0.291,0.0963,0.211,0
+2011,We Don't Have To Take Our Clothes Off,['Jermaine Stewart'],0.0244,0.816,0.707,0.0469,0.0363,0
+2011,Amor Fati,['Washed Out'],0.138,0.507,0.821,0.308,0.102,0
+2011,No One But You (Only The Good Die Young) - Remastered 2011,['Queen'],0.555,0.522,0.408,0.095,0.0294,0
+2011,Beso Tus Pies,"['Marcos Brunet', 'Toma Tu Lugar']",0.969,0.311,0.124,0.126,0.0368,0
+2011,Revolting Children,['Matilda the Musical Original Cast'],0.469,0.715,0.703,0.288,0.059,0
+2011,Mi Ranchito,['Estrellas De Tuzantla'],0.614,0.618,0.447,0.14,0.0452,0
+2011,Miss Me,['Andy Grammer'],0.000689,0.525,0.772,0.161,0.0274,0
+2011,Beastly,['Vulfpeck'],0.795,0.651,0.671,0.106,0.0472,0
+2011,Spectrum,['Florence + The Machine'],0.0792,0.573,0.873,0.1,0.0506,0
+2011,Too Damn Young,['Luke Bryan'],0.409,0.626,0.627,0.108,0.0265,0
+2011,John the Revelator,"['Curtis Stigers', 'The Forest Rangers']",0.541,0.547,0.61,0.0945,0.0317,0
+2011,Get Paid,['Emphatic'],0.0118,0.488,0.931,0.24,0.0392,0
+2011,Original Sin,['INXS'],0.0129,0.689,0.629,0.0579,0.0384,0
+2011,We Do It For Fun Pt.1,['Tha Joker'],0.0333,0.799,0.573,0.103,0.439,0
+2011,Like a Star,['Mike Krol'],0.00163,0.406,0.792,0.357,0.0585,0
+2011,"Bills, Bills, Bills (Glee Cast Version) (feat. Darren Criss)","['Glee Cast', 'Darren Criss']",0.392,0.833,0.441,0.149,0.152,0
+2011,While My Guitar Gently Weeps,"['Tom Petty', 'Jeff Lynne', 'Steve Winwood', 'Dhani Harrison', 'Prince']",0.287,0.21,0.85,0.912,0.0587,0
+2011,El Muletas (En Vivo),['Gerardo Ortiz'],0.45,0.586,0.929,0.233,0.129,0
+2011,Amaranthine,['Amaranthe'],0.00414,0.349,0.755,0.184,0.0677,0
+2011,Santa Baby,['Glee Cast'],0.6,0.706,0.308,0.254,0.0343,0
+2011,Indescribable - Live,"['Kierra Sheard', 'BRL']",0.116,0.274,0.399,0.0792,0.0424,0
+2011,I Love You,['Avril Lavigne'],0.021,0.596,0.801,0.318,0.0307,0
+2011,Right There,"['Nicole Scherzinger', '50 Cent']",0.155,0.751,0.799,0.427,0.27,0
+2011,Rain,['Brian Crain'],0.96,0.322,0.194,0.0959,0.0357,0
+2011,Yuh Love,['Vybz Kartel'],0.232,0.502,0.685,0.148,0.347,0
+2011,The Truth Is... (I Lied About Everything),['Theory of a Deadman'],0.00561,0.511,0.913,0.0766,0.0637,0
+2011,Champagne Showers,"['LMFAO', 'Natalia Kills']",0.000826,0.59,0.824,0.636,0.386,0
+2011,The Cascades,['Fleet Foxes'],0.858,0.271,0.274,0.103,0.0303,0
+2011,Livin' On a High Wire,"['Adam Hicks', 'Bridgit Mendler', 'Naomi Scott']",0.0378,0.526,0.919,0.171,0.0496,0
+2011,I'm Still In Love,['Alton Ellis'],0.0693,0.835,0.466,0.243,0.227,0
+2011,Putting The Dog To Sleep,['The Antlers'],0.496,0.476,0.405,0.208,0.0355,0
+2011,Severus and Lily,['Alexandre Desplat'],0.809,0.0647,0.0763,0.105,0.0478,0
+2011,What About Now,['Lonestar'],0.498,0.739,0.688,0.17,0.0349,0
+2011,Viol,['Gesaffelstein'],0.0000759,0.597,0.839,0.55,0.0377,0
+2011,No Ordinary Love - Remastered,['Sade'],0.641,0.619,0.486,0.0918,0.0396,0
+2011,Daughters,['The Story So Far'],0.0000531,0.355,0.994,0.354,0.131,0
+2011,North Side Gal,['JD McPherson'],0.523,0.687,0.64,0.327,0.0515,0
+2011,Body and Soul,"['Tony Bennett', 'Amy Winehouse']",0.87,0.342,0.249,0.152,0.0277,0
+2011,Breathless,['Asking Alexandria'],0.0000497,0.315,0.995,0.105,0.231,0
+2011,Blow Me Away - Featuring Valora,"['Breaking Benjamin', 'Valora']",0.0000325,0.535,0.93,0.0787,0.0545,0
+2011,Relaxing Rain and Thunderstorm,['Nature Sounds'],0.0058,0.0645,0.596,0.348,0.215,0
+2011,Who Do You Love,['Bernard Wright'],0.186,0.71,0.682,0.0614,0.0499,0
+2011,Mas Que Tu Amigo,['Sonora Candela'],0.146,0.817,0.6,0.077,0.0423,0
+2011,Dear Rosemary,['Foo Fighters'],0.0000205,0.514,0.864,0.313,0.0378,0
+2011,You Don't Know Jack,['Luke Bryan'],0.549,0.593,0.549,0.141,0.0268,0
+2011,Bloody Mary,['Lady Gaga'],0.0137,0.584,0.638,0.101,0.0302,0
+2011,Think Of You,['Bleached'],0.078,0.219,0.906,0.265,0.0392,0
+2011,Sweeter,['Gavin DeGraw'],0.0942,0.683,0.86,0.156,0.0364,0
+2011,On The Rocks,['Grieves'],0.0421,0.592,0.509,0.0814,0.376,0
+2011,Circles,['Hollywood Undead'],0.66,0.635,0.47,0.941,0.0287,0
+2011,So Gone [What My Mind Says] - feat. Paul Wall,"['Jill Scott', 'Paul Wall']",0.197,0.746,0.5,0.194,0.0669,0
+2011,Weekend,['Smith Westerns'],0.000761,0.396,0.851,0.0736,0.0312,0
+2011,Crystals,['M|O|O|N'],0.367,0.779,0.465,0.107,0.191,0
+2011,Crank It Up (feat. Akon),"['David Guetta', 'Akon']",0.0119,0.725,0.879,0.367,0.0551,0
+2011,Silver Bells,['She & Him'],0.972,0.662,0.0691,0.178,0.0573,0
+2011,We've Had Our Fun,['Tyler Childers'],0.865,0.574,0.306,0.117,0.0292,0
+2011,"Hey Hey, My My",['Battleme'],0.986,0.48,0.141,0.0604,0.0546,0
+2011,Lil' Red Riding Hood,['Sam The Sham & The Pharaohs'],0.727,0.756,0.39,0.0952,0.0346,0
+2011,New York,['Snow Patrol'],0.27,0.353,0.511,0.0827,0.0299,0
+2011,Hosanna,['Kirk Franklin'],0.127,0.693,0.961,0.711,0.149,0
+2011,Fathers and Daughters,['Kristin Chenoweth'],0.851,0.448,0.23,0.112,0.0287,0
+2011,Shell Suite,['Chad Valley'],0.000325,0.422,0.674,0.148,0.0295,0
+2011,Rolling In The Deep (Glee Cast Version) (feat. Jonathan Groff),"['Glee Cast', 'Jonathan Groff']",0.755,0.621,0.455,0.334,0.0371,0
+2011,Home For The Holidays (feat. Jack Jezzro),['Jack Jezzro'],0.902,0.701,0.243,0.0904,0.0495,0
+2011,Whirring,['The Joy Formidable'],0.000129,0.335,0.968,0.341,0.0505,0
+2011,Slumber,['NEEDTOBREATHE'],0.112,0.619,0.839,0.112,0.0601,0
+2011,Love Don't Run,['Steve Holy'],0.475,0.512,0.532,0.0993,0.0301,0
+2011,Baggage Claim - Radio Edit,['Miranda Lambert'],0.0657,0.701,0.934,0.0671,0.0403,0
+2011,Second Chance,['Peter Bjorn and John'],0.0204,0.587,0.965,0.097,0.0885,0
+2011,De Contrabando,['Jenni Rivera'],0.823,0.757,0.669,0.0834,0.0499,0
+2012,The Sun Is Rising,['Britt Nicole'],0.463,0.427,0.625,0.0923,0.0353,0
+2012,El Esqueleto,['Victimas Del Doctor Cerebro'],0.0402,0.556,0.872,0.151,0.174,0
+2012,Something To Believe In,"['Jeremy Jordan', 'Kara Lindsay']",0.423,0.463,0.302,0.0996,0.0296,0
+2012,2012,['Chris Brown'],0.283,0.592,0.415,0.0883,0.13,0
+2012,C'est La Mort,['Canserbero'],0.417,0.735,0.732,0.0911,0.282,0
+2012,1 Threw 8,['Mac Miller'],0.0123,0.443,0.666,0.115,0.375,0
+2012,Wicked Game,['HIM'],0.00243,0.513,0.875,0.105,0.0484,0
+2012,Heart Sutra,['Wah!'],0.89,0.156,0.216,0.111,0.0419,0
+2012,good kid,['Kendrick Lamar'],0.0623,0.451,0.831,0.185,0.307,0
+2012,Glad You Came,['The Wanted'],0.056,0.61,0.841,0.118,0.0692,0
+2012,Living in the Moment,['Jason Mraz'],0.0482,0.65,0.628,0.119,0.0232,0
+2012,Try 'n Hold Me Back,['Rob Bailey & The Hustle Standard'],0.179,0.548,0.853,0.272,0.0837,0
+2012,Can't Shake You,['Gloriana'],0.247,0.651,0.696,0.114,0.0331,0
+2012,Half Naked & Almost Famous,['Machine Gun Kelly'],0.00339,0.758,0.817,0.138,0.106,0
+2012,Assassin's Creed III Main Theme,['Lorne Balfe'],0.0305,0.413,0.881,0.0789,0.118,0
+2012,El Toro Mambo,['Banda La Jaripera Vol.1'],0.201,0.621,0.602,0.144,0.0437,0
+2012,FANTASTIC BABY - Japanese ver.,['BIGBANG'],0.00455,0.723,0.828,0.0405,0.0729,0
+2012,The Realm of Golden Helix,['Thierry David'],0.673,0.161,0.133,0.112,0.0437,0
+2012,The One,['Deuce'],0.00749,0.614,0.754,0.0919,0.0255,0
+2012,The Lion from the North - English Version,['Sabaton'],0.0000665,0.492,0.954,0.258,0.0507,0
+2012,Little Road to Bethlehem,"['Rose Cousins', 'Don Brownrigg']",0.928,0.484,0.183,0.0971,0.0309,0
+2012,Twerk It - Original,['V.I.C.'],0.0704,0.833,0.879,0.0829,0.223,0
+2012,3 Spirituals for Orchestra: No. 2. Kum Bab Yah,"['Adolphus Hailstork', 'Virginia Symphony Orchestra', 'Joann Falletta']",0.945,0.141,0.00268,0.0756,0.0427,0
+2012,Better Dig Two,['The Band Perry'],0.383,0.639,0.697,0.0891,0.054,0
+2012,Ishq Wala Love,"['Vishal-Shekhar', 'Salim Merchant', 'Neeti Mohan', 'Shekhar Ravjiani']",0.533,0.711,0.295,0.0782,0.0334,0
+2012,Rize of the Fenix,['Tenacious D'],0.021,0.42,0.688,0.131,0.0542,0
+2012,Someone Like You,['Boyce Avenue'],0.614,0.439,0.207,0.187,0.0296,0
+2012,Third Eye Sh*t,"['Joey Bada$$', 'PRO ERA', 'Capital Steez', 'CJ Fly', 'Chuck Strangers', 'Dyemond Lewis', 'Nyck Caution', 'Kirk Knight', 'Rokamouth', ""T'nah Apex"", 'Dessy Hinds']",0.62,0.612,0.665,0.104,0.412,0
+2012,Be Mine,['Alabama Shakes'],0.176,0.442,0.791,0.121,0.0596,0
+2012,"The Great Divide (from ""Secret of the Wings"")",['McClain Sisters'],0.0123,0.694,0.758,0.0622,0.0942,0
+2012,Un Millón De Primaveras,['Joan Sebastian'],0.631,0.529,0.457,0.0703,0.0381,0
+2012,"Song Of Mor'du - From ""Brave""/Soundtrack","['Patrick Doyle', 'Billy Connolly', 'Alex Norton', 'Carey Wilson', 'Scott Davies', 'Gordon Neville']",0.338,0.547,0.741,0.0602,0.125,0
+2012,Rain With Light Thunderstorm,['Nature Sounds'],0.00583,0.158,0.574,0.347,0.179,0
+2012,Ready Or Not,"['Britt Nicole', 'Lecrae']",0.0392,0.549,0.806,0.0909,0.102,0
+2012,Wandering Sadhu,['Desert Dwellers'],0.226,0.561,0.551,0.0971,0.0354,0
+2012,Singing In The Rain / Umbrella (Glee Cast Version) (feat. Gwyneth Paltrow),"['Glee Cast', 'Gwyneth Paltrow']",0.00724,0.596,0.74,0.357,0.0486,0
+2012,Hand-Made,['alt-J'],0.965,0.363,0.114,0.113,0.0359,0
+2012,If I Ever Get Around To Living,['John Mayer'],0.532,0.559,0.468,0.257,0.0284,0
+2012,Run,['Daughter'],0.658,0.352,0.38,0.0841,0.036,0
+2012,Tonight I’m Getting Over You,['Carly Rae Jepsen'],0.00549,0.72,0.776,0.365,0.043,0
+2012,Amaryllis,['Shinedown'],0.000502,0.398,0.907,0.109,0.0407,0
+2012,Live Like a Warrior,['Matisyahu'],0.0719,0.288,0.812,0.329,0.156,0
+2012,Radio,['Lana Del Rey'],0.217,0.312,0.841,0.0876,0.0846,0
+2012,Por un Caminito,['Brazeros Musical De Durango'],0.0135,0.652,0.909,0.73,0.0489,0
+2012,Amiga Si Lo Ves,['Jenni Rivera'],0.712,0.636,0.48,0.103,0.0389,0
+2012,Los Muros Caerán,['Miel San Marcos'],0.0112,0.46,0.962,0.915,0.157,0
+2012,Kingdom,['Devin Townsend Project'],0.00000787,0.329,0.882,0.208,0.0639,0
+2012,Pigskin,['Hollywood Undead'],0.000253,0.636,0.802,0.175,0.0318,0
+2012,Dervish Dream,['Karunesh'],0.751,0.625,0.534,0.0934,0.042,0
+2012,Morning Time (feat. Nicki Bluhm),"['The Brothers Comatose', 'Nicki Bluhm']",0.873,0.425,0.33,0.0871,0.031,0
+2012,Rolling Stone,['The Weeknd'],0.405,0.693,0.323,0.149,0.0306,0
+2012,Daughter Of The Moon,['Adriana Figueroa'],0.971,0.441,0.113,0.0773,0.0346,0
+2012,LDLHAIBCSYWA,['Twiztid'],0.165,0.402,0.857,0.113,0.155,0
+2012,Te Ves Fatal,['El Trono de Mexico'],0.352,0.754,0.696,0.184,0.0321,0
+2012,Ass Back Home,['Secrets'],0.000894,0.528,0.929,0.149,0.0493,0
+2012,Tu Mirada,['Reik'],0.00236,0.722,0.687,0.13,0.0288,0
+2012,The Veldt - 8 Minute Edit,"['deadmau5', 'Chris James']",0.16,0.742,0.631,0.0685,0.0321,0
+2012,Knock Knock,['Scattle'],0.358,0.747,0.751,0.143,0.0662,0
+2012,Invincible,"['Machine Gun Kelly', 'Ester Dean']",0.0285,0.479,0.859,0.152,0.368,0
+2012,Let Yourself Go,['Green Day'],0.00376,0.627,0.971,0.246,0.0376,0
+2012,Mariposa de Barrio,['Jenni Rivera'],0.464,0.705,0.448,0.0702,0.0677,0
+2012,For You,['Keith Urban'],0.0116,0.416,0.747,0.0625,0.0519,0
+2012,Walk of Shame,['P!nk'],0.00112,0.667,0.902,0.0624,0.0988,0
+2012,It's Nothin (feat. 2 Chainz),"['Wiz Khalifa', '2 Chainz']",0.0716,0.833,0.753,0.637,0.232,0
+2012,Man In The Mirror,['Keke Palmer'],0.419,0.712,0.492,0.108,0.0656,0
+2012,Angeleyes,['ABBA'],0.497,0.711,0.827,0.0822,0.0331,0
+2012,Barrett's Privateers,['The Real McKenzies'],0.355,0.93,0.817,0.105,0.184,0
+2012,Mundo de Piedra,['Canserbero'],0.00523,0.784,0.73,0.107,0.191,0
+2012,Leathers,['Deftones'],0.0000561,0.28,0.861,0.0798,0.0647,0
+2012,"Rella (feat. Hodgy, Domo Genesis & Tyler, The Creator)","['Odd Future', 'Hodgy', 'Domo Genesis', 'Tyler, The Creator']",0.159,0.545,0.75,0.147,0.312,0
+2012,Aliens Fighting Robots,"['Mac Miller', 'Sir Michael Rocks']",0.264,0.645,0.804,0.208,0.221,0
+2012,The Hurt & The Healer,['MercyMe'],0.0167,0.449,0.82,0.0931,0.0402,0
+2012,Sails to the Wind,['Dirty Heads'],0.296,0.838,0.693,0.14,0.118,0
+2012,D.D.,['The Weeknd'],0.479,0.68,0.707,0.511,0.0987,0
+2012,Every Night,['Imagine Dragons'],0.0508,0.445,0.599,0.178,0.0298,0
+2012,Burn (feat. Big Sean),"['Meek Mill', 'Big Sean']",0.327,0.67,0.895,0.269,0.349,0
+2012,Still I Love You - Radio Version,['Gigi'],0.21,0.7,0.795,0.106,0.0786,0
+2012,America,['Imagine Dragons'],0.00309,0.567,0.543,0.163,0.0313,0
+2012,Don't Worry Baby,['The Beach Boys'],0.364,0.505,0.388,0.168,0.0302,0
+2012,Bullseye,['KDrew'],0.000851,0.66,0.729,0.108,0.0529,0
+2012,Uleleley - Radio Version,['Gigi'],0.0298,0.744,0.702,0.33,0.129,0
+2012,Not Done Yet,['SOJA'],0.105,0.687,0.614,0.134,0.0427,0
+2012,"Bitch, Don’t Kill My Vibe - Remix","['Kendrick Lamar', 'JAY-Z']",0.0479,0.625,0.773,0.201,0.235,0
+2012,Thunderheads,['Cody Jinks'],0.0129,0.558,0.864,0.296,0.0621,0
+2012,Rise To The Sun,['Alabama Shakes'],0.627,0.472,0.823,0.0924,0.0842,0
+2012,You Are I Am,['MercyMe'],0.116,0.493,0.811,0.104,0.0457,0
+2012,Werkin' Girls,['Angel Haze'],0.135,0.651,0.876,0.224,0.357,0
+2012,Do Something,['Matthew West'],0.00153,0.574,0.919,0.0689,0.041,0
+2012,Song of the Caged Bird,['Lindsey Stirling'],0.0265,0.476,0.643,0.109,0.0345,0
+2012,Days Go By,['The Offspring'],0.0029,0.402,0.976,0.116,0.0712,0
+2012,Saturday Night,['Wade Bowen'],0.00556,0.624,0.86,0.223,0.032,0
+2012,Diamonds,['Rihanna'],0.00125,0.564,0.71,0.109,0.0461,0
+2012,Gott Mit Uns - English Version,['Sabaton'],0.00128,0.436,0.942,0.406,0.0516,0
+2012,Doggin Lover Piano Version - Piano Version,['Gigi'],0.039,0.804,0.76,0.244,0.162,0
+2012,Fallin in Love,['King Lil G'],0.303,0.466,0.542,0.113,0.102,0
+2012,Doggin Lover - Radio Version,['Gigi'],0.342,0.805,0.606,0.165,0.128,0
+2012,Winter Wonderland,['Kenny G'],0.561,0.468,0.456,0.243,0.0285,0
+2012,Uncaged,['Zac Brown Band'],0.00732,0.524,0.889,0.147,0.0513,0
+2012,Theme from Beauty and the Beast,['Steven Bear'],0.993,0.453,0.0775,0.103,0.0514,0
+2012,Chicka Chiquita - Radio Version,['Gigi'],0.000596,0.763,0.748,0.104,0.071,0
+2012,Nuclear Family,['Green Day'],0.000074,0.437,0.988,0.599,0.0727,0
+2012,The Hours,['Beach House'],0.0899,0.346,0.524,0.31,0.028,0
+2012,Beso Al Aire (feat. América Sierra & Smoky),"['3BallMTY', 'América Sierra', 'Smoky']",0.0854,0.665,0.916,0.205,0.299,0
+2012,Sunlight,"['Mac Miller', 'Iman Omari']",0.542,0.787,0.785,0.298,0.237,0
+2012,Dios sabe lo que hace,['Samuel Hernández'],0.551,0.373,0.541,0.107,0.0287,0
+2012,Dreams and Nightmares,['Meek Mill'],0.468,0.631,0.774,0.281,0.3,0
+2012,Dig Gravedigger Dig,['Corb Lund'],0.456,0.732,0.424,0.13,0.0442,0
+2012,This Ole Boy,['Craig Morgan'],0.0754,0.591,0.88,0.0434,0.0532,0
+2012,Valley of the Dolls,['MARINA'],0.000314,0.552,0.669,0.113,0.0269,0
+2012,Rain With Distant Thunderstorm,['Nature Sounds'],0.00583,0.158,0.574,0.347,0.179,0
+2012,Jingle Bells,['Beegie Adair'],0.692,0.705,0.284,0.114,0.0374,0
+2012,Gracias,['Moderatto'],0.0379,0.525,0.914,0.102,0.0362,0
+2012,Don't Stop the Party (feat. TJR),"['Pitbull', 'Tjr']",0.0073,0.714,0.952,0.387,0.0894,0
+2012,Taciturn,['Stone Sour'],0.0627,0.286,0.547,0.112,0.0318,0
+2012,The Road,['Aaron Lewis'],0.16,0.632,0.667,0.123,0.0359,0
+2012,Heart Of Stone,['Iko'],0.954,0.333,0.0839,0.0975,0.0407,0
+2012,Dive Bar Beauty Queen (feat. Danny Boone & Pruno),"['Moonshine Bandits', 'Pruno', 'Danny Boone']",0.00454,0.867,0.671,0.096,0.169,0
+2012,Nillili Mambo,['Block B'],0.0119,0.755,0.839,0.0905,0.0538,0
+2012,Fuck The Po-Po - Live,['Corey Smith'],0.715,0.554,0.655,0.966,0.0363,0
+2012,Losing,['Tenth Avenue North'],0.118,0.621,0.571,0.0961,0.0328,0
+2012,Piano Concerto No. 2 Op. 102 in F Major: II. Andante,"['Dmitri Shostakovich', 'Alexander Melnikov', 'Mahler Chamber Orchestra', 'Teodor Currentzis']",0.983,0.186,0.00228,0.0718,0.0424,0
+2012,Good As New,['Vacationer'],0.1,0.515,0.79,0.192,0.0665,0
+2012,Wild Boy - Remix,"['Machine Gun Kelly', '2 Chainz', 'French Montana', 'Meek Mill', 'Mystikal', 'Steve O', 'Yo Gotti']",0.0287,0.77,0.605,0.221,0.195,0
+2012,Lonely Star,['The Weeknd'],0.395,0.458,0.705,0.601,0.0672,0
+2012,Forgiveness,['Matthew West'],0.00737,0.407,0.669,0.135,0.0337,0
+2012,Waves,['Electric Guest'],0.0255,0.768,0.833,0.0975,0.0367,0
+2012,Jesus In Disguise,['Brandon Heath'],0.183,0.514,0.697,0.358,0.026,0
+2012,Hard Way Home,['Brandi Carlile'],0.482,0.726,0.667,0.0446,0.0491,0
+2012,Breakn' a Sweat - Zedd Remix,"['Skrillex', 'The Doors', 'Zedd']",0.00675,0.58,0.952,0.278,0.0646,0
+2012,Right Behind You Baby,['Ray Smith'],0.766,0.611,0.847,0.138,0.0613,0
+2012,Angels (When She Shuts Her Eyes),['Mac Miller'],0.158,0.528,0.726,0.532,0.206,0
+2012,Cheap Beer,['FIDLAR'],0.000199,0.284,0.961,0.365,0.0567,0
+2012,The Tempest,['The Real McKenzies'],0.0649,0.476,0.539,0.243,0.0571,0
+2012,Use Me,['Miguel'],0.0532,0.432,0.867,0.247,0.0593,0
+2012,Kids in America,['The Muffs'],0.00363,0.372,0.821,0.0706,0.0822,0
+2012,La Luz de Tus Ojos,['Los Armadillos de la Sierra'],0.594,0.945,0.477,0.0891,0.0575,0
+2012,Underdog,['Imagine Dragons'],0.0038,0.685,0.831,0.124,0.042,0
+2012,Clarks,"['Vybz Kartel', 'Popcaan', 'Gaza Slim']",0.0886,0.631,0.802,0.103,0.373,0
+2012,Rock Show,['Halestorm'],0.0104,0.549,0.939,0.074,0.0482,0
+2012,Ghost Assassin - Original Mix,"['Maduk', 'Veela']",0.00809,0.483,0.923,0.0929,0.0475,0
+2012,Double Take,['Austin Moon'],0.00104,0.708,0.897,0.141,0.0466,0
+2012,All Alright,['fun.'],0.00158,0.321,0.786,0.105,0.0516,0
+2012,Don't Let the Green Grass Fool You (Live),['The California Honeydrops'],0.457,0.533,0.524,0.604,0.0712,0
+2012,Change,['Alex G'],0.961,0.668,0.314,0.108,0.0479,0
+2012,Wake Me,['Message To Bears'],0.516,0.35,0.563,0.0984,0.0279,0
+2012,Don't Front,"['Joey Bada$$', 'CJ Fly']",0.381,0.613,0.808,0.262,0.248,0
+2012,Morgan Street,['Turnpike Troubadours'],0.0155,0.659,0.621,0.213,0.0247,0
+2012,Brother,['Matt Corby'],0.215,0.59,0.754,0.109,0.0402,0
+2012,Montana,['Pierce Edens'],0.53,0.627,0.566,0.111,0.0362,0
+2012,One Day / Reckoning Song (Wankelmut Remix) - Radio Edit,"['Asaf Avidan', 'The Mojos', 'Wankelmut']",0.223,0.826,0.668,0.167,0.0571,0
+2012,All Around The World,"['Justin Bieber', 'Ludacris']",0.019,0.689,0.816,0.181,0.178,0
+2012,Narco Corridos,['King Lil G'],0.059,0.72,0.688,0.0961,0.264,0
+2012,Forest Green (feat. Mike G),"['Odd Future', 'Mike G']",0.127,0.57,0.803,0.662,0.334,0
+2012,Let It Burn,['Avatar'],0.00013,0.597,0.942,0.15,0.031,0
+2012,Let's Get Lost,"['Beck', 'Bat For Lashes']",0.0621,0.614,0.783,0.0756,0.0417,0
+2012,El Microbito,['Fobia'],0.13,0.701,0.926,0.111,0.0327,0
+2012,Locked,['Four Tet'],0.00237,0.783,0.745,0.102,0.0839,0
+2012,Butterfly,"['Bassnectar', 'Mimi Page']",0.00231,0.32,0.624,0.0851,0.0321,0
+2012,Million Voices,['Otto Knows'],0.00533,0.679,0.732,0.088,0.0526,0
+2012,Love Love Love - AU Master,['Avalanche City'],0.188,0.519,0.494,0.159,0.0263,0
+2012,Quién Diría,['Ricardo Arjona'],0.407,0.626,0.574,0.17,0.03,0
+2012,Santa Claus Is Coming To Town,['Rod Stewart'],0.598,0.749,0.466,0.27,0.0514,0
+2012,Swan Lake,['Blackalicious'],0.121,0.894,0.53,0.353,0.22,0
+2012,Lucky Strike,['Maroon 5'],0.000637,0.674,0.74,0.111,0.0419,0
+2012,On the Sea,['Beach House'],0.725,0.247,0.521,0.0938,0.0334,0
+2012,Something To Dance For,['Zendaya'],0.00471,0.67,0.939,0.316,0.0647,0
+2012,M.I.A.,"['Omarion', 'Wale']",0.0847,0.549,0.57,0.304,0.199,0
+2012,Young & Gettin' It (feat. Kirko Bangz),"['Meek Mill', 'Kirko Bangz']",0.244,0.624,0.752,0.131,0.121,0
+2012,Makeshift Chemistry,['Crown The Empire'],0.00026,0.525,0.958,0.391,0.0653,0
+2012,If You Wanna Be Happy,['Jimmy Soul'],0.695,0.673,0.866,0.328,0.0391,0
+2012,Capitol (feat. 2 Chainz),"['Curren$y', '2 Chainz']",0.131,0.704,0.569,0.111,0.0598,0
+2012,Drive,['Incubus'],0.0661,0.639,0.849,0.15,0.0361,0
+2012,The Game (Triple H),"['WWE', 'Motörhead']",0.00653,0.303,0.978,0.0958,0.122,0
+2012,Must Be Nice (feat. Johanna Fay),"['G-Eazy', 'Johanna Fay']",0.00982,0.455,0.54,0.0972,0.0971,0
+2012,Mind Of A Junkie,['Anders Osborne'],0.182,0.532,0.594,0.116,0.0301,0
+2012,Go Your Own Way,['Lissie'],0.0158,0.509,0.456,0.108,0.0308,0
+2012,Lace Up,"['Machine Gun Kelly', 'Lil Jon']",0.00131,0.82,0.9,0.189,0.0976,0
+2012,Business Man,['Mother Mother'],0.0031,0.473,0.738,0.103,0.0426,0
+2012,Special Victims And Ice-T,['John Mulaney'],0.743,0.504,0.884,0.758,0.95,0
+2012,Gold,['Owl City'],0.107,0.502,0.931,0.0928,0.054,0
+2012,Soothing Approaching Storm with Warning Thunder Rolls,['Nature Sounds'],0.148,0.0647,0.479,0.386,0.0518,0
+2012,Still Livin',['Freddie Gibbs'],0.287,0.622,0.88,0.265,0.153,0
+2012,All Night,['Parov Stelar'],0.223,0.793,0.578,0.293,0.0428,0
+2012,We Are Young (Glee Cast Version),['Glee Cast'],0.0504,0.378,0.555,0.199,0.0498,0
+2012,Death's Door,['Uncle Acid & The Deadbeats'],0.0269,0.235,0.92,0.231,0.071,0
+2012,Beauty and the Beast (Beauty and the Beast),['Lullabyes'],0.928,0.668,0.162,0.101,0.115,0
+2012,She Just Won't Believe Me,['Tame Impala'],0.219,0.138,0.28,0.37,0.0368,0
+2012,Pearl Diver,['Mitski'],0.911,0.346,0.152,0.0957,0.0388,0
+2012,You're Here,['Francesca Battistelli'],0.753,0.373,0.367,0.197,0.0283,0
+2012,Y Qué Me Importa,['Conjunto Primavera'],0.172,0.662,0.752,0.134,0.0314,0
+2012,Once Upon Another Time,['Sara Bareilles'],0.896,0.275,0.216,0.231,0.0493,0
+2012,"Pani Da Rang Male (From ""Vicky Donor"")",['Ayushmann Khurrana'],0.272,0.679,0.622,0.106,0.0328,0
+2012,Automovil,"['Ñejo', 'Dalmata']",0.278,0.79,0.765,0.0721,0.188,0
+2012,Life & Favor (You Don't Know My Story),['John P Kee & New Life'],0.488,0.557,0.707,0.406,0.0559,0
+2012,O I Long to Feel Your Arms Around Me,['Father John Misty'],0.389,0.426,0.453,0.123,0.027,0
+2012,March to the Sea,['Baroness'],0.000821,0.537,0.908,0.108,0.0693,0
+2012,(I Just) Died in Your Arms,['Throw The Fight'],0.000062,0.338,0.882,0.0684,0.108,0
+2012,Shiver Shiver,['WALK THE MOON'],0.00282,0.629,0.721,0.128,0.0326,0
+2012,Dickhead,['Madchild'],0.0652,0.875,0.66,0.0682,0.117,0
+2012,Summer Knights,['Joey Bada$$'],0.513,0.485,0.596,0.239,0.11,0
+2013,24/Seven,['Big Time Rush'],0.00684,0.664,0.739,0.0439,0.0713,0
+2013,All the People Said Amen,['Matt Maher'],0.0247,0.685,0.875,0.0874,0.056,0
+2013,Lord of the Rings,['The Piano Guys'],0.916,0.172,0.298,0.104,0.0332,0
+2013,So Much Better,['Eminem'],0.252,0.719,0.858,0.628,0.25,0
+2013,River Water,['Moon Taxi'],0.0727,0.679,0.696,0.235,0.031,0
+2013,"Untouchable (feat. Logic, Kirk Knight)",['Dizzy Wright'],0.00318,0.648,0.882,0.423,0.297,0
+2013,Outrun This!,['Arcade High'],0.000159,0.395,0.817,0.392,0.0392,0
+2013,A Real Life,['Greek Fire'],0.000234,0.457,0.948,0.0744,0.075,0
+2013,Aura,['Lady Gaga'],0.0252,0.71,0.822,0.173,0.0631,0
+2013,El Motopsycho,['Los Inquietos Del Norte'],0.0875,0.787,0.901,0.0909,0.0807,0
+2013,Biome Fest,['C418'],0.977,0.152,0.159,0.0771,0.0372,0
+2013,Hold Onto Me,['Mayday Parade'],0.00324,0.46,0.621,0.131,0.0303,0
+2013,Flight,['Hans Zimmer'],0.246,0.0777,0.363,0.129,0.0487,0
+2013,Popular Song,"['MIKA', 'Ariana Grande']",0.156,0.665,0.809,0.0613,0.0464,0
+2013,If You Have Ghosts,['Ghost'],0.00271,0.508,0.782,0.0812,0.0385,0
+2013,Knight (feat. Domo Genesis),"['Earl Sweatshirt', 'Domo Genesis']",0.446,0.478,0.801,0.362,0.456,0
+2013,Right There,"['Ariana Grande', 'Big Sean']",0.127,0.621,0.834,0.0854,0.105,0
+2013,Nerds - Studio,['Bo Burnham'],0.32,0.764,0.722,0.0787,0.106,0
+2013,Jealous of the Angels,['Donna Taggart'],0.953,0.589,0.129,0.107,0.0384,0
+2013,God Man Blues,['Kolton Moore & the Clever Few'],0.472,0.595,0.378,0.0783,0.0602,0
+2013,Atomic Bomb,['William Onyeabor'],0.0286,0.76,0.391,0.0582,0.0353,0
+2013,We Like to Party - Original Mix,['Showtek'],0.000212,0.587,0.906,0.104,0.0419,0
+2013,White Christmas,['Frank Sinatra'],0.77,0.288,0.193,0.164,0.0301,0
+2013,American Girl,['Bonnie McKee'],0.00976,0.66,0.816,0.59,0.0344,0
+2013,Recovery,['James Arthur'],0.00532,0.385,0.632,0.138,0.0488,0
+2013,Critter,['B.E.N.D'],0.508,0.752,0.525,0.356,0.22,0
+2013,California Sway,['Smooth Hound Smith'],0.366,0.638,0.441,0.36,0.0287,0
+2013,Red Like Roses (Red Trailer) [feat. Casey Lee Williams],"['Jeff Williams', 'Casey Lee Williams']",0.0521,0.359,0.776,0.148,0.101,0
+2013,This Train is Bound for Glory,"['Old Crow Medicine Show', 'Joel Rafael', 'Jimmy LaFave', 'Donovan', 'Rosanne Cash', 'John Leventhal', 'Sweet Honey In The Rock', 'Lucinda Williams', 'Judy Collins', 'Tom Morello', 'Ani DiFranco', 'Ry Cooder', 'Dan Gellert', 'Jackson Browne', 'The Del McCoury Band', 'Tony Trischka', ""Tim O'Brien"", 'John Mellencamp', ""Ramblin' Jack Elliott""]",0.158,0.392,0.942,0.802,0.559,0
+2013,One Summer Night,['The Danleers'],0.883,0.421,0.356,0.288,0.0286,0
+2013,Pretty Little Psycho,['maaargarete'],0.00369,0.561,0.776,0.0696,0.0763,0
+2013,"Twinkle, Twinkle, Little Star",['The Wiggles'],0.536,0.302,0.385,0.224,0.0293,0
+2013,Bird Call,['Mac Miller'],0.225,0.688,0.791,0.396,0.267,0
+2013,Sophie,"[""Bear's Den""]",0.799,0.586,0.276,0.192,0.0323,0
+2013,Don't Hold the Wall,['Justin Timberlake'],0.262,0.702,0.621,0.53,0.0988,0
+2013,The Jerall Mountains,['Jeremy Soule'],0.97,0.152,0.185,0.0964,0.0398,0
+2013,Flexin & Finessin,['Speaker Knockerz'],0.0191,0.688,0.773,0.496,0.0416,0
+2013,Tuscan Leather,['Drake'],0.114,0.522,0.679,0.231,0.405,0
+2013,Jodye,['A$AP Rocky'],0.0192,0.706,0.525,0.112,0.204,0
+2013,Guillaume Tell (William Tell): Overture (arr. F. Wrede for 2 pianos 8 hands): Andante -,"['Gioachino Rossini', 'Ferdinand Wrede', '12 Pianists']",0.991,0.414,0.0187,0.0513,0.0557,0
+2013,Masser,['Jeremy Soule'],0.979,0.0746,0.0749,0.0744,0.0477,0
+2013,It'z Just What We Do,['Florida Georgia Line'],0.0167,0.505,0.918,0.611,0.0469,0
+2013,Through It All,['Spoken'],0.000189,0.511,0.884,0.0899,0.0412,0
+2013,Lead Me Out of the Dark,['Crown The Empire'],0.893,0.473,0.468,0.363,0.0503,0
+2013,No Pares,['Tierra Cali'],0.161,0.781,0.647,0.315,0.0395,0
+2013,"Because Dreaming Costs Money, My Dear",['Mitski'],0.975,0.355,0.169,0.138,0.0338,0
+2013,Super Mario Kart (Title Theme),['8-Bit Arcade'],0.762,0.712,0.818,0.126,0.047,0
+2013,El Señor de los Cielos,['Los Cuates de Sinaloa'],0.498,0.821,0.64,0.158,0.0349,0
+2013,If There's Time,['ODESZA'],0.0016,0.47,0.633,0.257,0.0323,0
+2013,Birthday,['Selena Gomez'],0.00494,0.642,0.839,0.534,0.0455,0
+2013,Space Unicorn,['Parry Gripp'],0.00138,0.66,0.924,0.108,0.0865,0
+2013,Butterflies,['Zendaya'],0.231,0.606,0.855,0.155,0.0804,0
+2013,Crimson Day,['Avenged Sevenfold'],0.00271,0.537,0.627,0.115,0.0288,0
+2013,God Is Dead?,['Black Sabbath'],0.000193,0.379,0.726,0.0578,0.0332,0
+2013,Take Me,['RÜFÜS DU SOL'],0.168,0.719,0.773,0.0952,0.0463,0
+2013,Grapefruit,['Yuno'],0.21,0.61,0.588,0.0998,0.025,0
+2013,Recordando a Mi Padre,['Traviezoz de la Zierra'],0.339,0.611,0.514,0.245,0.0596,0
+2013,La Vie En Rose,['Gypsy Jazz Caravan'],0.564,0.589,0.226,0.0829,0.0579,0
+2013,Gypsy,['Lady Gaga'],0.0124,0.564,0.745,0.146,0.0403,0
+2013,Together,['The xx'],0.436,0.604,0.315,0.101,0.0247,0
+2013,Miss Movin' On,['Fifth Harmony'],0.0297,0.464,0.845,0.302,0.0508,0
+2013,Killing You,['Asking Alexandria'],0.0000864,0.354,0.985,0.902,0.19,0
+2013,Keys 2 the City,['Nipsey Hussle'],0.0435,0.479,0.908,0.493,0.372,0
+2013,Smooth Sailing,['Queens of the Stone Age'],0.0546,0.587,0.874,0.0511,0.0544,0
+2013,White Lies - EP Version,['Max Frost'],0.153,0.695,0.878,0.0764,0.0441,0
+2013,Badtameez Dil,"['Benny Dayal', 'Shefali Alvares']",0.24,0.805,0.932,0.216,0.0684,0
+2013,Next,['Emily Rubye'],0.905,0.401,0.0963,0.134,0.0355,0
+2013,Tiny Raindrop,['Balance And Composure'],0.0000277,0.512,0.951,0.252,0.0661,0
+2013,LoveHate Thing (feat. Sam Dew),"['Wale', 'Sam Dew']",0.0771,0.736,0.691,0.0422,0.169,0
+2013,Shine Your Way,"['Owl City', 'Yuna']",0.00756,0.696,0.45,0.0687,0.0482,0
+2013,Leaving With Me,['J Boog'],0.0249,0.758,0.598,0.0368,0.0465,0
+2013,"As Long As You're Mine - From ""Wicked"" Original Broadway Cast Recording/2003","['Idina Menzel', 'Leo Norbert Butz']",0.752,0.472,0.449,0.113,0.0314,0
+2013,Wild Out (feat. Waka Flocka Flame & Paige),"['Borgore', 'Waka Flocka Flame', 'Paige']",0.0254,0.644,0.926,0.186,0.0566,0
+2013,Comeback Kid (That's My Dog),['Brett Dennen'],0.0239,0.475,0.822,0.101,0.0433,0
+2013,Get It,['Run The Jewels'],0.00251,0.801,0.69,0.124,0.0989,0
+2013,Young Love,['Kip Moore'],0.00398,0.419,0.621,0.14,0.0297,0
+2013,Holes,['Passenger'],0.506,0.431,0.484,0.117,0.0583,0
+2013,House of Stone,['Mandolin Orange'],0.926,0.441,0.2,0.0864,0.0287,0
+2013,Skinnamarink,['Sing n Play'],0.37,0.77,0.476,0.0984,0.0365,0
+2013,See Me,"['Tech N9ne', 'Wiz Khalifa', 'B.o.B']",0.00923,0.761,0.76,0.469,0.378,0
+2013,Bad Blood,['Bastille'],0.0157,0.663,0.777,0.0755,0.0375,0
+2013,Fantastic Man,['William Onyeabor'],0.00182,0.7,0.756,0.0575,0.0575,0
+2013,"There, There",['The Wonder Years'],0.0119,0.399,0.737,0.204,0.0408,0
+2013,Doc McStuffins Theme Song,['China Anne McClain'],0.341,0.781,0.783,0.115,0.0458,0
+2013,Fuck Faces - Mixed,['Scarface'],0.155,0.766,0.906,0.243,0.199,0
+2013,Hold Up (feat. Nipsey Hustle),"['Marion Band$', 'Nipsey Hustle']",0.385,0.714,0.654,0.0895,0.316,0
+2013,Shark Attack,['Grouplove'],0.000264,0.449,0.635,0.332,0.0397,0
+2013,How Do I Live,['Trisha Yearwood'],0.627,0.566,0.452,0.118,0.0267,0
+2013,Soy el Mismo,['Prince Royce'],0.132,0.733,0.654,0.137,0.0447,0
+2013,Fuck You,['Bad Religion'],0.00146,0.563,0.952,0.348,0.0962,0
+2013,Out for a Rip,['Shark Tank'],0.0392,0.515,0.942,0.373,0.564,0
+2013,"O Come, O Come, Emmanuel",['The Piano Guys'],0.954,0.124,0.22,0.0931,0.042,0
+2013,Satellites,['Kevin Gates'],0.0453,0.711,0.887,0.164,0.128,0
+2013,Surf Crazy,"['Spencer Lee', 'Keely Hawkes', 'Teen Beach Movie Cast']",0.155,0.426,0.953,0.132,0.106,0
+2013,Tell Me How You Like It,['Florida Georgia Line'],0.0251,0.37,0.827,0.16,0.0307,0
+2013,Waiting All Night (feat. Ella Eyre),"['Rudimental', 'Ella Eyre']",0.00264,0.544,0.728,0.427,0.05,0
+2013,Part II (On The Run),"['JAY-Z', 'Beyoncé']",0.279,0.601,0.636,0.455,0.0938,0
+2013,Con El,['Jenni Rivera'],0.662,0.751,0.526,0.253,0.0351,0
+2013,Your Side Of The Bed,['Little Big Town'],0.676,0.61,0.383,0.0949,0.0322,0
+2013,Fuck It!,['Days N Daze'],0.561,0.513,0.428,0.462,0.0642,0
+2013,Tattooed Heart,['Ariana Grande'],0.414,0.535,0.519,0.142,0.0273,0
+2013,Haunt Muskie,['C418'],0.894,0.518,0.278,0.0763,0.0337,0
+2013,"Some Time Alone, Alone","[""Melody's Echo Chamber""]",0.00898,0.446,0.959,0.28,0.0485,0
+2013,Me and My Cello (Happy Together),['The Piano Guys'],0.915,0.595,0.349,0.067,0.0392,0
+2013,Without Me,"['Fantasia', 'Kelly Rowland', 'Missy Elliott']",0.129,0.713,0.687,0.214,0.21,0
+2013,Mamita (feat. Natalia Lafourcade),"['Rawayana', 'Natalia Lafourcade']",0.0637,0.817,0.526,0.107,0.0374,0
+2013,What He Don't Know,['Anarbor'],0.000552,0.591,0.922,0.083,0.0614,0
+2013,Hey Now - When I Give You All My Lovin',['Romare'],0.786,0.866,0.342,0.178,0.0527,0
+2013,Intro,['C418'],0.739,0.194,0.105,0.16,0.0449,0
+2013,Una Entre Un Millón,['Banda Rancho Viejo De Julio Aramburo La Bandononona'],0.467,0.734,0.483,0.105,0.031,0
+2013,In the House - In a Heartbeat,['John Murphy'],0.0208,0.433,0.111,0.0594,0.035,0
+2013,Bad (feat. Tiara Thomas),"['Wale', 'Tiara Thomas']",0.015,0.867,0.638,0.157,0.0643,0
+2013,Journey's End,['Jeremy Soule'],0.95,0.125,0.085,0.0915,0.0405,0
+2013,Short Crush,['B.E.N.D'],0.543,0.561,0.411,0.268,0.0318,0
+2013,Rock City,['Kings of Leon'],0.00857,0.424,0.708,0.178,0.0787,0
+2013,Forget To Forget You,['Scotty McCreery'],0.394,0.623,0.738,0.284,0.0303,0
+2013,Let the Groove Get In,['Justin Timberlake'],0.204,0.785,0.841,0.29,0.064,0
+2013,Stone,['Alice In Chains'],0.0000061,0.456,0.867,0.0914,0.0399,0
+2013,Evil Twin,['Eminem'],0.0529,0.648,0.91,0.0834,0.363,0
+2013,The Summer,['Citizen'],0.000137,0.276,0.835,0.186,0.0508,0
+2013,That XX,['G-DRAGON'],0.533,0.763,0.47,0.133,0.0433,0
+2013,Looking Like This,['Lyre Le Temps'],0.0657,0.74,0.762,0.182,0.158,0
+2013,Taswell,['C418'],0.452,0.422,0.274,0.0496,0.0348,0
+2013,Power Glove,['Knife Party'],0.000105,0.674,0.953,0.498,0.0835,0
+2013,The Boys Are Back,['Dropkick Murphys'],0.000154,0.188,0.949,0.261,0.0613,0
+2013,Si No Te Quisiera,"['Juan Magán', 'Belinda', 'Lapiz Conciente']",0.181,0.707,0.869,0.0669,0.0706,0
+2013,All Alright,['Zac Brown Band'],0.072,0.445,0.554,0.111,0.0264,0
+2013,Woody Allen,['AJR'],0.000676,0.536,0.81,0.331,0.0298,0
+2013,LIFE,['Jon Bellion'],0.065,0.431,0.649,0.0998,0.0679,0
+2013,Breaking Down,['Mini Thin'],0.183,0.738,0.582,0.305,0.126,0
+2013,Fehu,['Wardruna'],0.14,0.53,0.7,0.393,0.0349,0
+2013,post traumatic all-night-long,['salvia palth'],0.69,0.352,0.619,0.111,0.0341,0
+2013,Skeleton,['The Front Bottoms'],0.00858,0.419,0.931,0.0991,0.068,0
+2013,Melodies,['Madison Beer'],0.0501,0.477,0.919,0.539,0.218,0
+2013,Life Round Here,['James Blake'],0.455,0.605,0.661,0.109,0.0443,0
+2013,Smoke the Weed (feat. Collie Buddz),"['Snoop Lion', 'Collie Buddz']",0.016,0.645,0.821,0.156,0.153,0
+2013,Seasons Of Love (Glee Cast Version),['Glee Cast'],0.618,0.605,0.507,0.122,0.0259,0
+2013,Can't Believe It (feat. Pitbull),"['Flo Rida', 'Pitbull']",0.0214,0.747,0.83,0.0639,0.0899,0
+2013,One Of Those Nights,['Tim McGraw'],0.0114,0.525,0.776,0.117,0.0321,0
+2013,Halo,"['Ane Brun', 'Linnea Olsson']",0.951,0.579,0.133,0.138,0.0384,0
+2013,Volver a Comenzar,['Marc Anthony'],0.567,0.422,0.881,0.137,0.0389,0
+2013,Let Me Know,['Hi-C'],0.0806,0.553,0.665,0.358,0.455,0
+2013,Meth Labs & Moonshine,['Mini Thin'],0.422,0.616,0.679,0.0718,0.541,0
+2013,The White River,['Jeremy Soule'],0.989,0.0594,0.0356,0.0896,0.0456,0
+2013,Will You Still Love Me Tomorrow,['Leslie Grace'],0.258,0.627,0.778,0.108,0.0491,0
+2013,Last Chance,"['Kaskade', 'Project 46']",0.0613,0.413,0.851,0.107,0.0605,0
+2013,Voy a Pistearme el Dolor,['Régulo Caro'],0.168,0.605,0.663,0.072,0.0414,0
+2013,Bugatti,"['Ace Hood', 'Wiz Khalifa', 'T.I.', 'Meek Mill', 'French Montana', '2 Chainz', 'Future', 'DJ Khaled', 'Birdman']",0.0818,0.675,0.648,0.584,0.161,0
+2013,Belief,['Ben Fankhauser'],0.666,0.463,0.431,0.131,0.0368,0
+2013,Ain't No Reason,['Brett Dennen'],0.641,0.672,0.377,0.12,0.0467,0
+2013,Crockpot,['Slothrust'],0.00263,0.38,0.537,0.148,0.0383,0
+2013,Give It All To Me,"['Mavado', 'Nicki Minaj']",0.0158,0.477,0.707,0.129,0.342,0
+2013,20 Wave Caps (feat. Domo Genesis),"['Earl Sweatshirt', 'Domo Genesis']",0.0582,0.498,0.748,0.281,0.434,0
+2013,Pressure,['The 1975'],0.0484,0.492,0.846,0.0768,0.067,0
+2013,Elevate,['St. Lucia'],0.00767,0.541,0.982,0.291,0.107,0
+2013,Violence (Enough Is Enough),['A Day To Remember'],0.0000482,0.176,0.993,0.0996,0.162,0
+2013,Dead City Radio And The New Gods Of Supertown,['Rob Zombie'],0.000434,0.514,0.955,0.461,0.0857,0
+2013,Galway Girl,['The High Kings'],0.542,0.477,0.789,0.192,0.0499,0
+2013,"Frío, Frío - En Vivo Estadio Olímpico De República Dominicana/2012","['Juan Luis Guerra 4.40', 'Romeo Santos']",0.753,0.574,0.879,0.952,0.0387,0
+2013,Paldogangsan,['BTS'],0.0789,0.564,0.945,0.0873,0.243,0
+2013,Young Volcanoes,['Fall Out Boy'],0.00123,0.599,0.853,0.37,0.0365,0
+2013,Motherboard,['Daft Punk'],0.512,0.548,0.707,0.105,0.0352,0
+2013,Stupid,['Kacey Musgraves'],0.401,0.613,0.798,0.0847,0.033,0
+2013,Your Glory / Nothing But The Blood - Live,['All Sons & Daughters'],0.171,0.384,0.391,0.701,0.0312,0
+2013,Versace,['Migos'],0.0384,0.841,0.729,0.276,0.239,0
+2013,"Heimr Àrnadalr - From ""Frozen""/Score",['Christophe Beck'],0.994,0.162,0.0757,0.246,0.0389,0
+2013,We Must Go On,['Pretty Lights'],0.0391,0.64,0.775,0.19,0.041,0
+2013,Young Lady,"['Kid Cudi', 'Father John Misty']",0.00384,0.526,0.971,0.312,0.0457,0
+2013,El Felino,['Grupo Laberinto'],0.4,0.657,0.456,0.0969,0.042,0
+2013,Step Out,['José González'],0.0142,0.432,0.583,0.159,0.0448,0
+2013,New York City,['Current Joys'],0.542,0.607,0.659,0.0625,0.0351,0
+2013,Entertainment,['Phoenix'],0.00133,0.402,0.72,0.325,0.0473,0
+2013,Control,['King Kendrick'],0.207,0.508,0.927,0.298,0.389,0
+2013,The Nexus,['Amaranthe'],0.000121,0.503,0.963,0.0916,0.124,0
+2013,Blood on the Risers (Gory Gory What a Helluva Way to Die),['American Paratrooper'],0.963,0.6,0.297,0.5,0.0537,0
+2013,I Knew This Would Be Love,['Imaginary Future'],0.958,0.643,0.117,0.108,0.0355,0
+2013,This Down Here (feat. Colt Ford),"['Lil Wyte', 'Jelly Roll', 'Colt Ford']",0.085,0.648,0.55,0.147,0.0369,0
+2013,Fine Again,['Seether'],0.00046,0.434,0.852,0.214,0.0294,0
+2013,Says,['Nils Frahm'],0.862,0.217,0.23,0.725,0.0324,0
+2013,What I Believe,['Skillet'],0.0518,0.466,0.928,0.0629,0.0657,0
+2013,DEJA VU - Extended ver.,['dave rodgers'],0.102,0.568,0.966,0.105,0.0626,0
+2013,Angus McFife,['Gloryhammer'],0.000229,0.495,0.961,0.338,0.0356,0
+2013,How Does It Feel?,['Citizen'],0.0018,0.409,0.577,0.491,0.035,0
+2013,American Hero,['Rainbow Kitten Surprise'],0.0362,0.702,0.533,0.0831,0.0855,0
+2013,Carrion,"['Treyarch', 'Clark S. Nova']",0.0000405,0.512,0.89,0.305,0.051,0
+2013,Almost Lover,['Jasmine Thompson'],0.97,0.479,0.189,0.0948,0.0465,0
+2013,If I Could Change Your Mind,['HAIM'],0.0183,0.671,0.85,0.0766,0.0426,0
+2013,Ding Dong! Merrily on High,"['Choir of Clare College, Cambridge', 'Orchestra of Clare College, Cambridge', 'John Rutter']",0.989,0.296,0.256,0.0594,0.0451,0
+2013,"Don't Call It Love - 12"" Version",['Zero 7'],0.056,0.821,0.53,0.15,0.0348,0
+2013,Tranquila,['J Balvin'],0.0298,0.718,0.679,0.126,0.197,0
+2013,Blood Brothers,['Luke Bryan'],0.16,0.54,0.724,0.0341,0.0446,0
+2013,Lights - Single Version,['Ellie Goulding'],0.0323,0.68,0.799,0.123,0.0347,0
+2013,Stairway to Heaven (Live At The Kennedy Center Honors),['Heart'],0.22,0.236,0.508,0.983,0.0601,0
+2013,Hipocresía,['Marc Anthony'],0.591,0.646,0.807,0.029,0.0316,0
+2013,Vacation,['G.R.L.'],0.0171,0.488,0.811,0.52,0.16,0
+2013,I'll Be Home For Christmas (If Only In My Dreams),['Frank Sinatra'],0.93,0.295,0.147,0.117,0.0308,0
+2013,Back On The Map,['Kacey Musgraves'],0.224,0.704,0.636,0.156,0.0236,0
+2013,Waltz in C Minor (Only for Piano),['Yiruma'],0.993,0.377,0.0725,0.174,0.0584,0
+2013,Empty Chairs At Empty Tables,['Eddie Redmayne'],0.944,0.386,0.0688,0.101,0.0496,0
+2013,Wish the Wind Would Blow Me,['Bob Schneider'],0.593,0.473,0.198,0.108,0.0374,0
+2014,Be Prepared,"['Jeremy Irons', 'Whoopi Goldberg', 'Cheech Marin', 'Jim Cummings']",0.139,0.687,0.628,0.102,0.13,0
+2014,Source,['Fever the Ghost'],0.0542,0.612,0.77,0.608,0.0353,0
+2014,Secrets,['Mary Lambert'],0.026,0.789,0.555,0.215,0.041,0
+2014,JDNT,['Glass Animals'],0.152,0.486,0.49,0.0778,0.0347,0
+2014,"EYES, NOSE, LIPS",['TAEYANG'],0.686,0.645,0.536,0.0736,0.0363,0
+2014,Voices,['Sturgill Simpson'],0.602,0.573,0.352,0.229,0.0419,0
+2014,Love Again (Akinyele Back),"['Run The Jewels', 'Gangsta Boo']",0.135,0.789,0.678,0.0738,0.303,0
+2014,Cheat Codes,['Nitro Fun'],0.000287,0.626,0.96,0.894,0.0837,0
+2014,Feel The Volume,['Jauz'],0.153,0.725,0.918,0.113,0.0676,0
+2014,Cut Your Bangs,['Radiator Hospital'],0.149,0.551,0.735,0.204,0.0274,0
+2014,Agony,"['Chris Pine', 'Billy Magnussen']",0.912,0.449,0.19,0.107,0.0479,0
+2014,West,['Sleeping At Last'],0.926,0.419,0.139,0.112,0.0383,0
+2014,El Señor de los Cielos,['Ariel Camacho y Los Plebes Del Rancho'],0.742,0.684,0.677,0.0805,0.042,0
+2014,Home/Dirty Paws,['Gardiner Sisters'],0.85,0.663,0.208,0.114,0.0313,0
+2014,Don't Say Goodnight,['Hot Chelle Rae'],0.0064,0.599,0.791,0.0924,0.0585,0
+2014,Hollywood,"['RAC', 'Penguin Prison']",0.119,0.945,0.546,0.121,0.0519,0
+2014,"Show Me (feat. Trey Songz, Juicy J, 2 Chainz & Chris Brown) - Remix","['Kid Ink', 'Trey Songz', 'Juicy J', '2 Chainz', 'Chris Brown']",0.0224,0.787,0.485,0.246,0.114,0
+2014,El Mentado,['Ariel Camacho y Los Plebes Del Rancho'],0.663,0.61,0.542,0.111,0.0438,0
+2014,Limos,"['Vince Staples', 'Teyana Taylor']",0.307,0.594,0.732,0.111,0.417,0
+2014,My Sidepiece,"['The Louisiana Blues Brothas', 'Pokey', 'Major Clark Jr.']",0.227,0.675,0.742,0.287,0.032,0
+2014,Undefeated,"['KB', 'Derek Minor']",0.256,0.687,0.7,0.206,0.305,0
+2014,Watch,['Curtis Williams'],0.0452,0.874,0.419,0.144,0.228,0
+2014,Go Solo,['Tom Rosenthal'],0.985,0.586,0.0907,0.126,0.0384,0
+2014,After the Disco,['Broken Bells'],0.00226,0.729,0.74,0.13,0.0258,0
+2014,Deeper,['Freddie Gibbs'],0.261,0.388,0.79,0.464,0.38,0
+2014,That Life,['Ñengo Flow Ft Dvice y Gaona'],0.0778,0.414,0.914,0.469,0.303,0
+2014,Pantyhose,['TV Girl'],0.505,0.522,0.847,0.217,0.0395,0
+2014,Ain't Nothin' Free,['SMO'],0.0137,0.53,0.565,0.274,0.255,0
+2014,Promise To Love,['Kem'],0.318,0.612,0.504,0.108,0.108,0
+2014,Outro: Do You Think It Makes Sense?,['BTS'],0.0698,0.634,0.814,0.146,0.0406,0
+2014,Alone Again (Naturally),"['Diana Krall', 'Michael Bublé']",0.951,0.608,0.208,0.131,0.0316,0
+2014,Conrad,['Ben Howard'],0.91,0.574,0.322,0.0836,0.0264,0
+2014,Appreciated,['Rixton'],0.00742,0.573,0.769,0.101,0.0364,0
+2014,Horsey,['Macross 82-99'],0.0154,0.484,0.829,0.548,0.0996,0
+2014,Pepperoni Playboy,['Mac DeMarco'],0.546,0.645,0.526,0.297,0.0448,0
+2014,Liar mask,['Freezzy'],0.145,0.463,0.854,0.268,0.0623,0
+2014,Old MacDonald Had a Farm,['Nursery Rhymes'],0.914,0.618,0.237,0.14,0.0442,0
+2014,Rockabye Baby,['The Kiboomers'],0.913,0.678,0.293,0.107,0.0284,0
+2014,It's The Hard-Knock Life,"['Quvenzhané Wallis', 'Zoe Margaret Colletti', 'Nicolette Pierini', 'Eden Duncan-Smith', 'Amanda Troya']",0.0452,0.736,0.841,0.03,0.0928,0
+2014,Trouble,"['Iggy Azalea', 'Jennifer Hudson']",0.0948,0.96,0.699,0.0812,0.132,0
+2014,Cookie Thumper!,['Die Antwoord'],0.0891,0.784,0.795,0.326,0.225,0
+2014,Relax / Divide,['Hail The Sun'],0.401,0.467,0.347,0.0839,0.0346,0
+2014,Mr.Mr.,"[""Girls' Generation""]",0.114,0.701,0.964,0.153,0.127,0
+2014,Slacks,['St. South'],0.767,0.737,0.528,0.0782,0.0981,0
+2014,I Told You So - feat. Randy Travis,"['Carrie Underwood', 'Randy Travis']",0.544,0.393,0.552,0.101,0.0283,0
+2014,Smile,['Florida Georgia Line'],0.00505,0.558,0.875,0.0419,0.0323,0
+2014,Bliss,['Cindy Bradley'],0.461,0.617,0.594,0.122,0.0345,0
+2014,Banana Goo Pie (Bonus Track),"['Sam Lachow', 'Sky Blaow', 'Ryan Campbell', 'Jbyrd']",0.304,0.726,0.571,0.101,0.258,0
+2014,The Mission / How Great Thou Art,['The Piano Guys'],0.988,0.138,0.194,0.127,0.0392,0
+2014,Feeling Myself,"['Nicki Minaj', 'Beyoncé']",0.435,0.681,0.703,0.357,0.196,0
+2014,Bartender,['Lady A'],0.0209,0.63,0.937,0.331,0.0339,0
+2014,Take Flight,['Lindsey Stirling'],0.00674,0.436,0.9,0.225,0.0577,0
+2014,50 Mentadas,['Ariel Camacho y Los Plebes Del Rancho'],0.711,0.658,0.525,0.08,0.0376,0
+2014,The Wheel,['SOHN'],0.304,0.669,0.431,0.0829,0.0498,0
+2014,Sunday Morning,['Jelly Roll'],0.078,0.527,0.657,0.242,0.112,0
+2014,Descansa Mi Amor,['El Komander'],0.567,0.438,0.393,0.13,0.0318,0
+2014,Goodbye Weekend,['Mac DeMarco'],0.174,0.559,0.793,0.329,0.0346,0
+2014,One Day (Vandaag) - Radio Edit,['Bakermat'],0.716,0.656,0.594,0.376,0.0307,0
+2014,Shepherd of My Soul,['Rivers & Robots'],0.306,0.44,0.644,0.0968,0.0377,0
+2014,Bounce,"['Rittz', 'Twista']",0.078,0.827,0.725,0.182,0.0999,0
+2014,I Love You Too Much,"['Gustavo Santaolalla', 'Diego Luna']",0.854,0.403,0.255,0.198,0.0428,0
+2014,聖者たち,['People In The Box'],0.000867,0.539,0.762,0.133,0.0288,0
+2014,Adhd,['Truslow'],0.285,0.64,0.849,0.0768,0.0526,0
+2014,Life,['The Walters'],0.575,0.513,0.379,0.0895,0.034,0
+2014,Cold,['Novo Amor'],0.791,0.411,0.304,0.0896,0.0345,0
+2014,Beyond the Veil,['Lindsey Stirling'],0.00382,0.38,0.904,0.0485,0.0452,0
+2014,Guns And Roses,['Lana Del Rey'],0.3,0.533,0.666,0.115,0.0448,0
+2014,Feels Like Forever,['Of Mice & Men'],0.0000353,0.482,0.716,0.0649,0.0392,0
+2014,Had To Hear,['Real Estate'],0.135,0.556,0.765,0.149,0.0319,0
+2014,Steady,['Giant Panda Guerilla Dub Squad'],0.0952,0.618,0.628,0.157,0.0864,0
+2014,Maybe,"['Teyana Taylor', 'Pusha T', 'Yo Gotti']",0.647,0.478,0.505,0.161,0.298,0
+2014,Forget the Lies,['Quietdrive'],0.0242,0.484,0.64,0.235,0.0283,0
+2014,Never Back Down,['Nine Lashes'],0.0000923,0.455,0.861,0.0711,0.0397,0
+2014,He'e Roa,['Kolohe Kai'],0.311,0.836,0.544,0.0967,0.0532,0
+2014,This Is the End,['The Ghost of Paul Revere'],0.405,0.563,0.432,0.0581,0.0294,0
+2014,More Love,['Rebelution'],0.236,0.79,0.493,0.29,0.0567,0
+2014,Looped,['Kiasmos'],0.023,0.804,0.406,0.106,0.0472,0
+2014,可惜沒如果,['JJ Lin'],0.617,0.486,0.424,0.116,0.0262,0
+2014,Out Of My Limit,['5 Seconds of Summer'],0.000559,0.562,0.895,0.102,0.11,0
+2014,Every Breaking Wave,['U2'],0.00991,0.672,0.441,0.109,0.0268,0
+2014,Riot,['Rascal Flatts'],0.495,0.489,0.683,0.069,0.0283,0
+2014,If We're Honest,['Francesca Battistelli'],0.632,0.597,0.363,0.134,0.0258,0
+2014,Pug Life - Instrumental,"['Beatslingers', 'Chad Bogus']",0.0771,0.758,0.902,0.367,0.056,0
+2014,Luh You,['Anderson .Paak'],0.0954,0.697,0.719,0.0819,0.353,0
+2014,World On Fire,"['Slash', 'Myles Kennedy And The Conspirators']",0.0000481,0.434,0.977,0.372,0.0832,0
+2014,Wasted Time,['Vance Joy'],0.408,0.602,0.603,0.157,0.0328,0
+2014,Blank Space,['I Prevail'],0.00302,0.437,0.863,0.144,0.0941,0
+2014,Old No. 7,"['Jez Dior', 'G-Eazy']",0.0000829,0.561,0.597,0.107,0.0464,0
+2014,El Niño De Oro,['Grupo Laberinto'],0.264,0.766,0.476,0.0427,0.0483,0
+2014,BTSTU (Edit),['Jai Paul'],0.786,0.658,0.381,0.426,0.438,0
+2014,My Dead Gay Son,"['Anthony Crivello', 'Daniel Cooney']",0.677,0.671,0.628,0.321,0.239,0
+2014,Hollow Man,['C-Mob'],0.109,0.843,0.848,0.0714,0.24,0
+2014,Yebisu - Yung Bae Edit,"['Yung Bae', 'Macross 82-99']",0.0111,0.5,0.951,0.0589,0.218,0
+2014,Take Me Home Tonight,['Eddie Money'],0.102,0.593,0.856,0.106,0.0398,0
+2014,Bullyar,['Cartel De Santa'],0.133,0.772,0.776,0.0503,0.224,0
+2014,GCN Mushroom Bridge,['The Greatest Bits'],0.0139,0.47,0.902,0.259,0.0303,0
+2014,Beam Me Up - Radio Edit,['CAZZETTE'],0.00876,0.568,0.867,0.0779,0.0458,0
+2014,Fly,['San Holo'],0.0121,0.676,0.716,0.124,0.0425,0
+2014,Good Fight,['Unspoken'],0.0043,0.499,0.881,0.0613,0.0602,0
+2014,A Man Who Was Gonna Die Young,['Eric Church'],0.951,0.511,0.0971,0.106,0.0442,0
+2014,Pacifier,['Catfish and the Bottlemen'],0.000491,0.459,0.883,0.118,0.0476,0
+2014,Real American,['Rick Derringer'],0.084,0.62,0.858,0.691,0.0433,0
+2014,Back To The Shack,['Weezer'],0.00686,0.441,0.69,0.0375,0.044,0
+2014,The Heart,['NEEDTOBREATHE'],0.0199,0.555,0.86,0.327,0.0243,0
+2014,Coalescence,['Chris Christodoulou'],0.0256,0.571,0.574,0.513,0.0326,0
+2014,Boy Oh Boy,"['Diplo', 'Good Times Ahead']",0.00224,0.539,0.954,0.0623,0.12,0
+2014,3AM,['AJR'],0.715,0.515,0.428,0.107,0.0736,0
+2014,For The Dancing And The Dreaming,"['Gerard Butler', 'Craig Ferguson', 'Mary Jane Wells']",0.471,0.294,0.0682,0.0645,0.131,0
+2014,1965,['Danny Boone'],0.0381,0.544,0.833,0.272,0.0396,0
+2014,Bartender (feat. Akon),"['T-Pain', 'Akon']",0.0663,0.828,0.392,0.162,0.0742,0
+2014,Doctor,['Truslow'],0.0456,0.619,0.799,0.183,0.0416,0
+2014,Animals,['Maroon 5'],0.000185,0.279,0.742,0.593,0.0898,0
+2014,Deck the Halls,['Mannheim Steamroller'],0.0258,0.473,0.785,0.117,0.0275,0
+2014,"Suite Bergamasque, L. 75: III. Clair de lune","['Claude Debussy', 'Khatia Buniatishvili']",0.993,0.278,0.00448,0.0579,0.0528,0
+2014,LA MUERTE DE MANUELON,"['Mario ""El Cachorro"" Delgado']",0.708,0.687,0.882,0.364,0.0665,0
+2014,R.I.P. Kevin Miller,['Isaiah Rashad'],0.227,0.703,0.835,0.135,0.27,0
+2014,Deceivers,['I Prevail'],0.00317,0.223,0.958,0.275,0.193,0
+2014,The Itsy Bitsy Spider,['Nursery Rhymes'],0.857,0.717,0.396,0.103,0.0318,0
+2014,"Rainbow in the Dark (feat. Jason Christopher, Christian Martucci, Roy Mayorga, Satchel)","['Corey Taylor', 'Jason Christopher', 'Christian Martucci', 'Roy Mayorga', 'Satchell']",0.000966,0.53,0.975,0.188,0.0786,0
+2014,Die,"['Jeff Williams', 'Casey Lee Williams']",0.0000877,0.484,0.911,0.133,0.114,0
+2014,I Can't Stop Drinking About You,['Bebe Rexha'],0.0444,0.502,0.837,0.101,0.0448,0
+2014,Dogwood,['Whiskey Myers'],0.00918,0.34,0.832,0.353,0.036,0
+2014,She Won't Be Lonely Long,['Clay Walker'],0.00643,0.635,0.758,0.229,0.0243,0
+2014,Trainwreck 1979 - Moulder Mix with in/out fades,['Death From Above 1979'],0.000021,0.522,0.934,0.253,0.0617,0
+2014,Backwoods,['Kill Bill: The Rapper'],0.211,0.426,0.87,0.105,0.442,0
+2014,On That Day,['Ásgeir'],0.91,0.603,0.194,0.115,0.0282,0
+2014,"I'm Free (Heaven Helps the Man) - From ""Footloose"" Soundtrack",['Kenny Loggins'],0.0901,0.585,0.807,0.27,0.039,0
+2014,An Ocean In Between The Waves,['The War On Drugs'],0.0117,0.463,0.827,0.504,0.0307,0
+2014,My Heart I Surrender,['I Prevail'],0.608,0.503,0.513,0.0845,0.0277,0
+2014,How Sweet the Sound,['Citizen Way'],0.115,0.451,0.669,0.105,0.0288,0
+2014,Hard to Do,['K. Michelle'],0.0595,0.566,0.425,0.127,0.193,0
+2014,Tus Besos,['Juan Luis Guerra 4.40'],0.752,0.71,0.772,0.242,0.0791,0
+2014,Get Up,['All Good Things'],0.000449,0.391,0.784,0.154,0.0415,0
+2014,Nothing's Over,['Three Legged Fox'],0.178,0.718,0.646,0.111,0.0411,0
+2014,I Won't Let You Down,['OK Go'],0.0257,0.755,0.915,0.0351,0.105,0
+2014,Black Mambo,['Glass Animals'],0.298,0.675,0.41,0.133,0.0444,0
+2014,Always This Late,['ODESZA'],0.0141,0.542,0.585,0.0929,0.0474,0
+2014,El Destino (with Juan Gabriel),"['Rocío Dúrcal', 'Juan Gabriel']",0.41,0.632,0.386,0.203,0.0235,0
+2014,Dr. Greenthumb,['Cypress Hill'],0.0467,0.804,0.549,0.0751,0.286,0
+2014,Turn up the Speakers - Radio Edit,"['Afrojack', 'Martin Garrix']",0.0989,0.694,0.9,0.473,0.0456,0
+2014,Years Of War,"['Porter Robinson', 'Breanne Düren', 'Sean Caskey']",0.00574,0.517,0.74,0.109,0.0341,0
+2014,Menea Tu Chapa,['Wilo D New'],0.0798,0.873,0.924,0.0393,0.0539,0
+2014,All The Way,['Timeflies'],0.018,0.56,0.856,0.0404,0.0728,0
+2014,Man in the Sixties,['Balue'],0.00408,0.394,0.842,0.268,0.0363,0
+2014,Outro: Propose,['BTS'],0.467,0.398,0.847,0.205,0.159,0
+2014,Abba,['Jonathan David Helser'],0.906,0.296,0.185,0.0981,0.0352,0
+2014,Some (feat.Geeks Lil Boi),['SOYOU & Junggigo'],0.446,0.738,0.676,0.253,0.0507,0
+2014,Decidiste Dejarme,['Camila'],0.0132,0.599,0.752,0.242,0.0327,0
+2014,In Your Arms,['Sunbeam Sound Machine'],0.0295,0.332,0.786,0.418,0.0334,0
+2014,Say Fuck It,['Buckcherry'],0.000919,0.545,0.836,0.13,0.0476,0
+2014,Flannel,['The Cardboard Swords'],0.455,0.585,0.443,0.144,0.187,0
+2014,Sleepless - Radio Edit,"['CAZZETTE', 'The High']",0.143,0.723,0.602,0.299,0.0451,0
+2014,Dress,['Sylvan Esso'],0.857,0.672,0.578,0.105,0.229,0
+2014,Born Slippy (Nuxx),['Underworld'],0.00106,0.576,0.953,0.474,0.0362,0
+2014,La La Latch,['Pentatonix'],0.0332,0.694,0.512,0.152,0.0451,0
+2014,Autumn Leaves,['Leslie Odom Jr.'],0.8,0.456,0.547,0.0926,0.0292,0
+2014,Until We Get There,['Lucius'],0.047,0.522,0.74,0.121,0.0483,0
+2014,Life Goes on (feat. GRiZ),"['Manic Focus', 'GRiZ']",0.0302,0.682,0.591,0.0939,0.0388,0
+2014,Para Qué Tantos Besos,['Noel Torres'],0.334,0.522,0.496,0.304,0.0342,0
+2014,Catalina Fight Song,['Joyce Manor'],0.00385,0.453,0.964,0.103,0.0968,0
+2014,Nuclear,['Mike Oldfield'],0.0345,0.402,0.525,0.134,0.0301,0
+2014,Georgia on My Mind,['Ray Charles'],0.752,0.304,0.289,0.756,0.0432,0
+2014,Rain: Evening Sleep,['Nature Sounds'],0.00312,0.0642,0.308,0.604,0.194,0
+2014,HER,['Block B'],0.0453,0.648,0.897,0.114,0.193,0
+2014,Iine!Pt.2 - Ano Bashode -,['BTS'],0.478,0.684,0.717,0.367,0.151,0
+2014,Waluigi Pinball & Wario Stadium,['The Greatest Bits'],0.0000058,0.444,0.965,0.0702,0.0327,0
+2014,Jesus I Come,['Elevation Worship'],0.113,0.436,0.636,0.647,0.0409,0
+2014,Say You're Just a Friend (feat. Flo Rida),"['Austin Mahone', 'Flo Rida']",0.00222,0.738,0.743,0.134,0.0574,0
+2014,Firelight,['Young the Giant'],0.92,0.3,0.284,0.1,0.0307,0
+2014,Miss That Girl,['Jason Aldean'],0.314,0.585,0.658,0.132,0.0248,0
+2014,You Have My Surrender (Live),['Lauren Daigle'],0.273,0.481,0.533,0.16,0.0344,0
+2014,From Nowhere,['Dan Croll'],0.0316,0.628,0.883,0.0622,0.14,0
+2014,Apple Bottom Jeans,['Kevin Turk'],0.253,0.921,0.693,0.0909,0.134,0
+2014,The Feast and The Famine,['Foo Fighters'],0.0000558,0.332,0.906,0.129,0.105,0
+2014,More Of You,['Colton Dixon'],0.00152,0.423,0.875,0.0879,0.0361,0
+2014,Best Day Of My Life - Gazzo Remix,['American Authors'],0.0117,0.632,0.964,0.225,0.0819,0
+2014,Recuérdame,['Pablo Alborán'],0.0998,0.512,0.455,0.151,0.0332,0
+2014,Seaweed,['Hockey Dad'],0.602,0.602,0.854,0.106,0.0416,0
+2014,Alan Turing's Legacy,"['Alexandre Desplat', 'London Symphony Orchestra']",0.803,0.242,0.371,0.0938,0.0333,0
+2014,Work Song,['Hozier'],0.74,0.484,0.381,0.111,0.0625,0
+2014,Alright,['Jordan Rakei'],0.671,0.509,0.288,0.157,0.0424,0
+2014,Winter,['Yabadum'],0.49,0.426,0.713,0.082,0.0937,0
+2014,"Suite in B-Flat Major, HWV 434: IV. Menuet","['George Frideric Handel', 'Khatia Buniatishvili']",0.994,0.406,0.00645,0.0895,0.0453,0
+2014,Everybody Do The Flop,['LilDeuceDeuce'],0.16,0.692,0.959,0.304,0.0601,0
+2014,Again,['Kevin Gates'],0.0371,0.768,0.66,0.102,0.251,0
+2014,10 Lovers,['The Black Keys'],0.0434,0.606,0.638,0.0887,0.0339,0
+2014,Una Mala Elección,['Calibre 50'],0.502,0.792,0.906,0.3,0.0798,0
+2014,The Infamous Bill,['Khruangbin'],0.0129,0.661,0.837,0.289,0.0369,0
+2014,Roller Coaster,['Luke Bryan'],0.027,0.601,0.793,0.163,0.0356,0
+2014,Goddess,['BANKS'],0.0577,0.526,0.371,0.112,0.0369,0
+2014,One in a Lifetime Girl,['Micky & The Motorcars'],0.0173,0.528,0.728,0.403,0.0264,0
+2014,Apartment,['Modern Baseball'],0.00193,0.508,0.875,0.0848,0.145,0
+2014,Rude (Acoustic),['MAGIC!'],0.358,0.736,0.847,0.101,0.0756,0
+2014,Shoot Me Down (feat. Anthony Stewart),"['G-Eazy', 'Anthony Stewart']",0.155,0.656,0.741,0.123,0.265,0
+2014,Skin Tight,['Niykee Heaton'],0.108,0.705,0.728,0.0959,0.05,0
+2014,Amnesia,['Gavin Mikhail'],0.88,0.396,0.398,0.203,0.0412,0
+2014,Dios Hablame,['Barak'],0.856,0.431,0.232,0.892,0.0371,0
+2014,Straight Up,['Me First and the Gimme Gimmes'],0.000665,0.511,0.899,0.0573,0.0686,0
+2014,Perdón,['Camila'],0.196,0.291,0.54,0.0732,0.0311,0
+2014,Ikaw,['Yeng Constantino'],0.575,0.654,0.336,0.0784,0.0307,0
+2015,Banned from TV,['Lil Uzi Vert'],0.109,0.69,0.565,0.274,0.0854,0
+2015,"Canon in D Major, P.37","['Johann Pachelbel', 'Music Lab Collective', 'Valentina Lisitsa']",0.988,0.407,0.122,0.113,0.0427,0
+2015,Swamp Thing,['Pegboard Nerds'],0.00215,0.558,0.99,0.645,0.196,0
+2015,The Vengeful One,['Disturbed'],0.000213,0.238,0.967,0.26,0.136,0
+2015,Sober,['Selena Gomez'],0.171,0.573,0.741,0.104,0.0788,0
+2015,Grey Cloud Lullaby,['Slow Meadow'],0.945,0.165,0.165,0.0969,0.036,0
+2015,Crushed,['Parkway Drive'],0.00228,0.404,0.964,0.0888,0.115,0
+2015,Of All Things (feat. Too $hort),"['G-Eazy', 'Too $hort']",0.213,0.74,0.483,0.197,0.331,0
+2015,Pistearé,['Banda Los Recoditos'],0.509,0.838,0.682,0.368,0.0682,0
+2015,Alive,['Wage War'],0.0000375,0.533,0.989,0.0618,0.0811,0
+2015,Alone (feat. Tru),"['Hollyn', 'TRU']",0.427,0.607,0.681,0.0546,0.056,0
+2015,Holdin' My Own,['Eric Church'],0.259,0.932,0.352,0.115,0.0606,0
+2015,Bass Ackwards,"['Tech N9ne', 'Lil Wayne', 'Yo Gotti', 'Big Scoob']",0.0105,0.627,0.582,0.42,0.188,0
+2015,Love Me Like You Do,['Brooklyn Duo'],0.966,0.304,0.275,0.119,0.0301,0
+2015,Run Run!,['Jorge Aguilar II'],0.0963,0.426,0.8,0.14,0.346,0
+2015,Undertale,['Toby Fox'],0.0385,0.554,0.409,0.152,0.0242,0
+2015,Personality (feat. T Pain),"['Lil Dicky', 'T-Pain']",0.227,0.768,0.709,0.504,0.196,0
+2015,Oulala,['Vundabar'],0.118,0.397,0.656,0.144,0.0429,0
+2015,No Chill (feat. Mr T Lexify),"['Josh A', 'Mr T Lexify']",0.048,0.56,0.695,0.088,0.0342,0
+2015,New Scream,['Turnover'],0.199,0.532,0.745,0.109,0.0251,0
+2015,No Make Up,['Zion.T'],0.411,0.758,0.402,0.217,0.0459,0
+2015,Kaancepts 2,['K.A.A.N.'],0.566,0.648,0.89,0.341,0.215,0
+2015,Twistin' & Groovin',['Leon Bridges'],0.374,0.684,0.524,0.122,0.0332,0
+2015,Delilah,['Florence + The Machine'],0.096,0.426,0.87,0.112,0.0621,0
+2015,Catch Me (feat. Naaz),"['Yellow Claw', 'Flux Pavilion', 'Naaz']",0.0362,0.56,0.916,0.102,0.0661,0
+2015,Sosa Chamberlain,['Chief Keef'],0.196,0.727,0.514,0.119,0.275,0
+2015,니가 하면 If You Do,['GOT7'],0.0557,0.692,0.886,0.217,0.0766,0
+2015,Never Come Back Again,['Austin Plaine'],0.19,0.594,0.695,0.119,0.0259,0
+2015,SUBURBIA,['Troye Sivan'],0.019,0.491,0.622,0.107,0.104,0
+2015,Long Way Down,['Robert DeLong'],0.0689,0.538,0.787,0.0805,0.0655,0
+2015,What You Need,['Bring Me The Horizon'],0.0000137,0.511,0.952,0.135,0.0754,0
+2015,Running Out,"['Matoma', 'Astrid S']",0.0856,0.601,0.682,0.132,0.0338,0
+2015,Pool Mashup: Just The Way You Are/Just A Dream,['The Barden Bellas'],0.916,0.552,0.301,0.0712,0.033,0
+2015,Judith,['Jacob David'],0.99,0.421,0.102,0.0868,0.0361,0
+2015,A Cappella,['Daniel Caesar'],0.862,0.191,0.314,0.171,0.0347,0
+2015,Dunes,['Alabama Shakes'],0.68,0.381,0.599,0.136,0.0417,0
+2015,Calm Piano Music for Sleeping Baby,['Baby Lullaby Academy'],0.944,0.292,0.00167,0.119,0.0448,0
+2015,Ferrari,['The Neighbourhood'],0.00235,0.442,0.652,0.5,0.0405,0
+2015,Favorite Record,['Fall Out Boy'],0.00607,0.66,0.944,0.823,0.0522,0
+2015,Take Me To Texas,['George Strait'],0.0955,0.447,0.722,0.338,0.0367,0
+2015,Caligula,['Ghostemane'],0.578,0.86,0.524,0.0993,0.0729,0
+2015,Shut Up and Dance - Live Acoustic - 2015,['WALK THE MOON'],0.151,0.82,0.615,0.204,0.0466,0
+2015,everything is going to hell,['Teen Suicide'],0.977,0.414,0.289,0.138,0.028,0
+2015,Lo Busqué,"['Leonardo Aguilar', 'Ángela Aguilar', 'Majo Aguilar']",0.794,0.631,0.393,0.358,0.0265,0
+2015,Push Off,['The Palms'],0.661,0.61,0.519,0.109,0.0387,0
+2015,All Your Fault,"['Big Sean', 'Kanye West']",0.308,0.815,0.738,0.275,0.214,0
+2015,Dime Store Cowgirl,['Kacey Musgraves'],0.141,0.644,0.643,0.101,0.0275,0
+2015,Take It All,['Pop Evil'],0.000909,0.624,0.897,0.0834,0.0453,0
+2015,"Constant White Noise: Relaxing Cascade, Distant Rivers for Infants and Toddlers",['Natural White Noise Relaxation'],0.927,0.197,0.995,0.817,0.0613,0
+2015,Take My Head,['Turnover'],0.221,0.316,0.859,0.102,0.0358,0
+2015,Canon in D,['Baby Lullaby Academy'],0.99,0.517,0.00382,0.0856,0.0454,0
+2015,Sun Go Down,['Fat Night'],0.404,0.792,0.657,0.31,0.0281,0
+2015,His Daughter,['Molly Kate Kestner'],0.874,0.465,0.153,0.117,0.0708,0
+2015,Leave a Trace,['CHVRCHES'],0.0181,0.417,0.697,0.141,0.116,0
+2015,Alone,['Petit Biscuit'],0.595,0.772,0.745,0.117,0.0405,0
+2015,Crazy Beautiful Sexy,['Old Dominion'],0.328,0.73,0.826,0.0725,0.0371,0
+2015,Safe House,['Lil Uzi Vert'],0.155,0.485,0.662,0.119,0.243,0
+2015,Circadian Rhythm (Last Dance),['Silversun Pickups'],0.0667,0.693,0.586,0.362,0.0324,0
+2015,I'm To Blame,['Kip Moore'],0.319,0.688,0.874,0.0792,0.042,0
+2015,Calm Music for Baby with Relaxing Sounds of Ocean Waves,['Baby Lullaby Academy'],0.976,0.394,0.038,0.0821,0.0561,0
+2015,Nekozilla,['Different Heaven'],0.000387,0.745,0.905,0.0699,0.0473,0
+2015,Bury Your Pain,['Like Moths To Flames'],0.00379,0.524,0.997,0.241,0.107,0
+2015,Open Your Eyes,['Disturbed'],0.000145,0.579,0.973,0.226,0.09,0
+2015,Goodbye Baby,['The Walters'],0.664,0.747,0.422,0.392,0.0294,0
+2015,Stitches,['Shawn Mendes'],0.0153,0.594,0.754,0.0486,0.11,0
+2015,Krusty Krab Spongebob Trap Remix Vine Theme,['William Jacobs'],0.818,0.707,0.272,0.362,0.494,0
+2015,Repentless,['Slayer'],0.0000365,0.4,0.994,0.145,0.0625,0
+2015,Rock a Bye Baby with Relaxing Ocean Waves for Baby Sleep,['Baby Lullaby Academy'],0.977,0.282,0.446,0.138,0.0827,0
+2015,Even So Come - Radio Version/Live,"['Passion', 'Kristian Stanfill']",0.0919,0.301,0.762,0.0822,0.0402,0
+2015,Tilted,['Christine and the Queens'],0.283,0.872,0.361,0.108,0.0609,0
+2015,You're On (feat. Kyan),"['Madeon', 'Kyan']",0.0227,0.49,0.914,0.793,0.167,0
+2015,Michael in the Bathroom,['George Salazar'],0.82,0.574,0.372,0.115,0.0616,0
+2015,90210,['blackbear'],0.16,0.82,0.43,0.11,0.0356,0
+2015,Ballin,['Lil Uzi Vert'],0.188,0.603,0.77,0.112,0.0605,0
+2015,Release,['Imagine Dragons'],0.86,0.379,0.396,0.118,0.0292,0
+2015,Memento Mori,['Crywank'],0.929,0.434,0.52,0.123,0.0586,0
+2015,Daisy Mae,['Leon Bridges'],0.64,0.478,0.403,0.0943,0.0302,0
+2015,The Humming,['Enya'],0.876,0.569,0.282,0.0997,0.0274,0
+2015,My Mistake (feat. Trippz Michaud),"['Witt Lowry', 'Trippz Michaud']",0.394,0.741,0.785,0.109,0.122,0
+2015,Little Rowboat,['Daniel Caesar'],0.774,0.596,0.191,0.0622,0.0326,0
+2015,Seasick Dream,['Jack Johnson'],0.955,0.662,0.402,0.257,0.0414,0
+2015,Nightmare Parade,['FAKE TYPE.'],0.435,0.801,0.931,0.248,0.056,0
+2015,"Dolly, Op.56: 1. Berceuse","['Gabriel Fauré', 'Katia Labèque', 'Marielle Labèque']",0.995,0.37,0.0076,0.0864,0.0384,0
+2015,Me & The Rhythm,['Selena Gomez'],0.00315,0.711,0.736,0.0731,0.104,0
+2015,Untouchable,"['Tritonal', 'Cash Cash']",0.0664,0.542,0.795,0.313,0.0379,0
+2015,4 Walls,['f(x)'],0.212,0.735,0.849,0.0608,0.129,0
+2015,Tomorrow Never Comes,['Zac Brown Band'],0.0268,0.628,0.791,0.268,0.031,0
+2015,In The Heat Of The Moment,"[""Noel Gallagher's High Flying Birds""]",0.0000109,0.547,0.827,0.409,0.0282,0
+2015,Good Good Father - Live,['Casting Crowns'],0.232,0.431,0.42,0.188,0.0361,0
+2015,Sister of Pearl,['Baio'],0.0705,0.731,0.646,0.194,0.0443,0
+2015,"I'm On Fire - From ""Fifty Shades Of Grey"" Soundtrack",['AWOLNATION'],0.775,0.435,0.384,0.119,0.0289,0
+2015,The Festival (feat. Little Dragon),"['Mac Miller', 'Little Dragon']",0.806,0.574,0.489,0.27,0.165,0
+2015,Zero,['Chris Brown'],0.0517,0.731,0.818,0.0743,0.0638,0
+2015,Battle Against A True Hero,['Toby Fox'],0.00364,0.456,0.955,0.149,0.0394,0
+2015,So What,['Three Days Grace'],0.00187,0.514,0.957,0.412,0.0477,0
+2015,Esta Noche,['Raulin Rodriguez'],0.422,0.835,0.779,0.091,0.033,0
+2015,Walkashame,['Meghan Trainor'],0.0793,0.657,0.721,0.0653,0.0537,0
+2015,Easy Rider,['Action Bronson'],0.0339,0.422,0.851,0.152,0.0398,0
+2015,"Fronteamos Porque Podemos (feat. Daddy Yankee, Yandel & Nengo Flow)","['De La Ghetto', 'Yandel', 'Ñengo Flow', 'Daddy Yankee']",0.26,0.714,0.626,0.284,0.423,0
+2015,Nightdrive,['VHS Dreams'],0.000119,0.604,0.708,0.0995,0.0388,0
+2015,No Quería Engañarte,['Víctor Manuelle'],0.365,0.524,0.782,0.111,0.209,0
+2015,Slow Hours,['weird inside'],0.189,0.487,0.398,0.114,0.0568,0
+2015,Emotionless,['Red Sun Rising'],0.000661,0.572,0.706,0.113,0.0326,0
+2015,Atlas: Touch,['Sleeping At Last'],0.958,0.398,0.0933,0.0893,0.0442,0
+2015,Religion,['Lana Del Rey'],0.813,0.416,0.459,0.102,0.0366,0
+2015,Three Year Old,['Eric Church'],0.735,0.725,0.321,0.0987,0.055,0
+2015,Julep,['Punch Brothers'],0.897,0.675,0.219,0.0979,0.0311,0
+2015,Playing With Fire - Pop Version,"['Thomas Rhett', 'Jordin Sparks']",0.0933,0.523,0.762,0.306,0.0328,0
+2015,Roman Holiday,['Halsey'],0.0322,0.431,0.836,0.105,0.0395,0
+2015,American Oxygen,['Rihanna'],0.0497,0.391,0.745,0.329,0.0884,0
+2015,The Hills - Remix,"['The Weeknd', 'Nicki Minaj']",0.118,0.399,0.598,0.121,0.133,0
+2015,Friday Night,"['SEGA SOUND TEAM', '稲毛 謙介(TEMPEST STUDIO)', '荒井 善博']",0.00181,0.588,0.978,0.363,0.0311,0
+2015,That's It,['Chief Keef'],0.0393,0.671,0.616,0.286,0.0349,0
+2015,Broken Home,['5 Seconds of Summer'],0.128,0.585,0.631,0.105,0.0264,0
+2015,Zionsville,['Khruangbin'],0.453,0.576,0.385,0.127,0.0306,0
+2015,Don't,['Bryson Tiller'],0.242,0.743,0.331,0.0938,0.262,0
+2015,Where Yo Money at? (feat. Pacman),"['Nipsey Hussle', 'Pac-Man']",0.158,0.787,0.588,0.112,0.343,0
+2015,Bad Habits,['FIDLAR'],0.376,0.224,0.958,0.0853,0.287,0
+2015,O God Forgive Us,"['for KING & COUNTRY', 'KB']",0.587,0.464,0.225,0.116,0.0403,0
+2015,Tulane,['$uicideBoy$'],0.0746,0.771,0.731,0.37,0.137,0
+2015,So I Could Find My Way,['Enya'],0.929,0.14,0.311,0.109,0.0417,0
+2015,"Whoa, I'm Woeful",['$uicideBoy$'],0.00843,0.621,0.578,0.351,0.162,0
+2015,The Way You'd Love Her,['Mac DeMarco'],0.589,0.641,0.501,0.335,0.0226,0
+2015,Clearest Blue,['CHVRCHES'],0.0155,0.649,0.802,0.0652,0.0328,0
+2015,Eres,"['José Maria Napoleón', 'María José']",0.0811,0.576,0.63,0.122,0.0792,0
+2015,Mi Universo,['Jesús Adrián Romero'],0.0717,0.646,0.647,0.216,0.0255,0
+2015,Honeymoon,['Lana Del Rey'],0.953,0.169,0.269,0.111,0.036,0
+2015,Cool,"['Alesso', 'Roy English']",0.0365,0.537,0.848,0.423,0.0313,0
+2015,Te Vas,"['Aaron Y Su Grupo Ilusion', 'Mariana Seoane']",0.14,0.72,0.763,0.312,0.034,0
+2015,Spirit Cold,['Tall Heights'],0.684,0.472,0.517,0.214,0.027,0
+2015,Anvil,['Lorn'],0.385,0.457,0.459,0.0712,0.0373,0
+2015,Sleeping Baby,['Baby Lullaby Academy'],0.931,0.219,0.000888,0.115,0.0394,0
+2015,679 (feat. Remy Boyz),"['Fetty Wap', 'Remy Boyz']",0.00411,0.577,0.833,0.0709,0.343,0
+2015,Ivory Black,['Oliver Riot'],0.889,0.406,0.257,0.117,0.0575,0
+2015,Motivated,['NF'],0.0543,0.508,0.819,0.11,0.381,0
+2015,Saint Cecilia,['Foo Fighters'],0.000457,0.235,0.869,0.459,0.0609,0
+2015,Pass Dat,['Jeremih'],0.531,0.886,0.511,0.112,0.0972,0
+2015,Clockwork,['Easton Corbin'],0.0423,0.593,0.629,0.143,0.0285,0
+2015,Clouds As Witnesses,['$uicideBoy$'],0.469,0,0.63,0.127,0,0
+2015,Divinity - ODESZA Remix,"['Porter Robinson', 'Amy Millan', 'ODESZA']",0.00688,0.374,0.803,0.0778,0.0465,0
+2015,Be Our Guest,"['Mitchell Hope', 'Spencer Lee', 'Kala Balch', 'Marco Marinangeli']",0.107,0.603,0.88,0.916,0.461,0
+2015,July,['HUNNY'],0.0419,0.593,0.779,0.312,0.0429,0
+2015,Opening,['Essie Jain'],0.95,0.144,0.0525,0.11,0.0415,0
+2015,Hello Euphoria,['Turnover'],0.00818,0.579,0.61,0.112,0.0294,0
+2015,Eat,['Zion.T'],0.49,0.662,0.293,0.122,0.122,0
+2015,THE BROWN STAINS OF DARKEESE LATIFAH PART 6-12 (REMIX) (feat. ScHoolboy Q),"['Tyler, The Creator', 'ScHoolboy Q']",0.000967,0.63,0.842,0.362,0.316,0
+2015,"Colors Of The Wind - From ""Pocahontas""",['Tori Kelly'],0.944,0.398,0.255,0.114,0.0373,0
+2015,Star Eater,['Daniel Deluxe'],0.618,0.577,0.555,0.116,0.0598,0
+2015,Stand by Me - Live at the Late Show with David Letterman,['Tracy Chapman'],0.797,0.816,0.144,0.485,0.0398,0
+2015,As Ballad,['Lambert'],0.981,0.397,0.0496,0.109,0.0344,0
+2015,Way down We Go - Stripped,['KALEO'],0.964,0.619,0.223,0.0883,0.03,0
+2015,I Could Fall In Love,['Selena'],0.0918,0.541,0.648,0.046,0.0321,0
+2015,Diamonds,['Hawk Nelson'],0.0358,0.641,0.919,0.253,0.0447,0
+2015,We Can't Stop,"['Boyce Avenue', 'Bea Miller']",0.674,0.705,0.347,0.12,0.0301,0
+2015,Fill Me Up - Live,['Tasha Cobbs Leonard'],0.0302,0.404,0.515,0.845,0.0328,0
+2015,All Cried Out (feat. Alex Newell) - Radio Edit,"['Blonde', 'Alex Newell']",0.428,0.657,0.757,0.0728,0.0584,0
+2015,Nothing Left (feat. Will Heard),"['Kygo', 'Will Heard']",0.261,0.679,0.576,0.366,0.0402,0
+2015,Cups - Movie Version,['Anna Kendrick'],0.565,0.947,0.312,0.0267,0.239,0
+2015,Ginza - Remix,"['J Balvin', 'Yandel', 'Farruko', 'Nicky Jam', 'De La Ghetto', 'Daddy Yankee', 'Zion', 'Arcangel', 'Sky Rompiendo', 'Alejandro ""Mosty"" Patiño']",0.129,0.71,0.88,0.0935,0.211,0
+2015,Warm,['Joey Pecoraro'],0.754,0.804,0.13,0.121,0.066,0
+2015,No Less,"['SG Lewis', 'Louis Mattrs']",0.215,0.529,0.283,0.641,0.106,0
+2015,Trebles Finals: Bright Lights Bigger City/Magic,['The Treblemakers'],0.214,0.577,0.525,0.103,0.225,0
+2015,Cold Beer Conversation,['George Strait'],0.493,0.46,0.59,0.268,0.0325,0
+2015,Did I,['Kehlani'],0.00677,0.443,0.627,0.0656,0.151,0
+2015,CONFUSED!,['Kid Cudi'],0.0109,0.62,0.848,0.213,0.0262,0
+2015,Ross Capicchioni,['Joyner Lucas'],0.213,0.48,0.842,0.184,0.431,0
+2015,Frere Jacques,['Baby Lullaby Academy'],0.955,0.576,0.00503,0.0967,0.033,0
+2015,Speed Trap Town,['Jason Isbell'],0.871,0.633,0.104,0.112,0.034,0
+2015,Heathers,['Surf Curse'],0.000285,0.364,0.88,0.106,0.049,0
+2015,Backseat Driver,"['TobyMac', 'Hollyn', 'Tru']",0.0432,0.805,0.827,0.0348,0.059,0
+2015,DSN,['Brent Faiyaz'],0.81,0.331,0.289,0.121,0.0917,0
+2015,bodyache,['Purity Ring'],0.145,0.646,0.657,0.459,0.0628,0
+2015,Niggas,['Kehlani'],0.041,0.455,0.688,0.354,0.113,0
+2015,Up Like Trump,['Rae Sremmurd'],0.0465,0.832,0.641,0.337,0.0458,0
+2015,Realiti,['Grimes'],0.000904,0.638,0.632,0.115,0.029,0
+2015,Psalm 46 (Lord of Hosts),['Shane & Shane'],0.05,0.435,0.458,0.0799,0.0332,0
+2015,We're Beautiful,"['ABSRDST', 'Diveo']",0.0383,0.651,0.793,0.178,0.0837,0
+2015,Die In a Fire (feat. EileMonty & Orko),"['The Living Tombstone', 'Eile Monty', 'Orko']",0.0275,0.535,0.672,0.327,0.0699,0
+2015,Young,['Frankie Cosmos'],0.439,0.495,0.362,0.127,0.0539,0
+2015,Dangerous,['Shinedown'],0.0000557,0.473,0.879,0.0978,0.0436,0
+2015,Picture This,['Marvin Dark'],0.445,0.659,0.483,0.15,0.0547,0
+2015,Dummy!,['Toby Fox'],0.345,0.838,0.53,0.088,0.0653,0
+2015,Spear of Justice,['Toby Fox'],0.58,0.328,0.594,0.146,0.0361,0
+2015,Back It Up (feat. Jennifer Lopez & Pitbull) - Video Version,"['Prince Royce', 'Jennifer Lopez', 'Pitbull']",0.139,0.724,0.78,0.0371,0.0803,0
+2015,Native Tongue,['Quinn XCII'],0.372,0.59,0.671,0.0795,0.0723,0
+2015,Converse High,['BTS'],0.0594,0.724,0.794,0.201,0.0885,0
+2015,Soggy Afternoon,['Outside Broadcast Recordings'],0.358,0.0661,1,0.898,0.0535,0
+2015,Warm,['SG Lewis'],0.522,0.429,0.457,0.105,0.0834,0
+2015,Drift,"['Galimatias', 'Alina Baraz']",0.55,0.479,0.348,0.104,0.029,0
+2015,Nothing Was the Same,['Hotel Books'],0.0171,0.46,0.782,0.214,0.0523,0
+2015,The Blackest Day,['Lana Del Rey'],0.363,0.445,0.522,0.0797,0.0331,0
+2015,Candyland,['Tobu'],0.0485,0.688,0.867,0.469,0.0393,0
+2015,Levitation,['Beach House'],0.536,0.166,0.45,0.0601,0.0305,0
+2015,"IT G MA REMIX (feat. A$AP Ferg, Father, Dumbfoundead, Waka Flocka Flame)","['Keith Ape', 'A$AP Ferg', 'Father', 'Dumbfoundead', 'Waka Flocka Flame']",0.061,0.787,0.743,0.294,0.0642,0
+2015,Down for You (feat. BJ The Chicago Kid),"['Kehlani', 'BJ The Chicago Kid']",0.456,0.479,0.711,0.215,0.236,0
+2015,"Uptown Funk - From ""Alvin And The Chipmunks: The Road Chip"" Soundtrack",['Alvin & The Chipmunks'],0.113,0.773,0.836,0.305,0.188,0
+2015,All Day,['Parker McCollum'],0.0124,0.518,0.595,0.0848,0.0275,0
+2015,Stung,['Quinn XCII'],0.331,0.795,0.638,0.106,0.0629,0
+2015,Te Busco,"['Cosculluela', 'Nicky Jam']",0.198,0.677,0.751,0.0875,0.145,0
+2015,Willy Wonka (feat. Paulina & Jafé),"['Russ', 'Paulina', 'Jafé']",0.556,0.799,0.496,0.111,0.0706,0
+2016,Dos Coronas a Mi Madre,['Los Cadetes De Linares'],0.329,0.774,0.782,0.197,0.0408,0
+2016,Pull Up,['G Herbo'],0.117,0.483,0.602,0.251,0.221,0
+2016,Conscious Jorney,['Benny Bernstein'],0.976,0.243,0.123,0.176,0.0421,0
+2016,Shiroyama,['Sabaton'],0.00132,0.483,0.938,0.0689,0.0551,0
+2016,Late Night Drive,['Yo Trane'],0.382,0.491,0.375,0.103,0.2,0
+2016,Going Through Some Thangs,['Yella Beezy'],0.0335,0.747,0.721,0.258,0.0997,0
+2016,Windows,['Sugar Candy Mountain'],0.147,0.525,0.635,0.122,0.0239,0
+2016,Revolution Radio,['Green Day'],0.0000463,0.419,0.971,0.171,0.0909,0
+2016,Necromancin Dancin,['Bear Ghost'],0.000469,0.56,0.885,0.119,0.0867,0
+2016,First Love,['BTS'],0.362,0.517,0.741,0.164,0.323,0
+2016,Patience,['The Lumineers'],0.973,0.477,0.236,0.108,0.0458,0
+2016,Casin,['glue70'],0.0734,0.964,0.658,0.0706,0.22,0
+2016,Know Love,['Rex Orange County'],0.541,0.424,0.235,0.136,0.0434,0
+2016,Sorry Bro,['SALES'],0.804,0.677,0.479,0.105,0.0344,0
+2016,Me Va A Pesar,['La Arrolladora Banda El Limón De Rene Camacho'],0.363,0.715,0.439,0.0749,0.0397,0
+2016,gray,['slenderbodies'],0.428,0.804,0.581,0.17,0.107,0
+2016,I'm Okay,['Night Lovell'],0.699,0.741,0.782,0.222,0.0282,0
+2016,I'm Sorry,['Ameer Vann'],0.426,0.84,0.525,0.102,0.0454,0
+2016,Friend of the Devil,['Mumford & Sons'],0.384,0.401,0.67,0.0837,0.0397,0
+2016,Keeping Me Under,['Two Another'],0.135,0.795,0.549,0.115,0.088,0
+2016,I Wanna Benz,"['YG', 'Nipsey Hussle', '50 Cent']",0.00644,0.824,0.623,0.304,0.303,0
+2016,He Is The Same,['Jon Bellion'],0.226,0.685,0.597,0.12,0.19,0
+2016,Drunk Enough to Say That I Love You,['PLVTINUM'],0.0615,0.77,0.751,0.073,0.0456,0
+2016,Piece Of Me,"['MK', 'Becky Hill']",0.00721,0.678,0.917,0.269,0.0796,0
+2016,OooWee,"['Rapsody', 'Anderson .Paak']",0.00211,0.432,0.652,0.158,0.32,0
+2016,You Matter to Me,"['Drew Gehling', 'Jessie Mueller']",0.841,0.43,0.231,0.116,0.0295,0
+2016,Go Ahead and Break My Heart (feat. Gwen Stefani),"['Blake Shelton', 'Gwen Stefani']",0.0714,0.618,0.731,0.421,0.0321,0
+2016,Down,['Marian Hill'],0.677,0.681,0.358,0.124,0.138,0
+2016,lit(var),['Kensuke Ushio'],0.943,0.329,0.258,0.105,0.0615,0
+2016,Cassidy,['Brett Dennen'],0.182,0.602,0.595,0.0812,0.0339,0
+2016,Money over Everything,['A Boogie Wit da Hoodie'],0.377,0.646,0.795,0.121,0.324,0
+2016,"Crazy Brazy (feat. A$AP Rocky, A$AP Twelvyy & Key!)","['A$AP Mob', 'A$AP Rocky', 'A$AP Twelvyy', 'KEY!']",0.32,0.755,0.629,0.126,0.312,0
+2016,Winged Hussars,['Sabaton'],0.00536,0.541,0.915,0.739,0.0312,0
+2016,Be Mine,['Ofenbach'],0.194,0.779,0.666,0.0576,0.0482,0
+2016,"Still Falling For You - From ""Bridget Jones's Baby""",['Ellie Goulding'],0.553,0.473,0.518,0.111,0.0405,0
+2016,Zombie (feat. Madchild & Insane Clown Posse),"['Jelly Roll', 'Lil Wyte', 'Madchild', 'Insane Clown Posse']",0.0015,0.773,0.604,0.321,0.0682,0
+2016,Clear - Shawn Wasabi Remix,"['Pusher', 'Mothica', 'Shawn Wasabi']",0.549,0.79,0.939,0.636,0.0571,0
+2016,Childs Play,['Drake'],0.017,0.745,0.473,0.197,0.0955,0
+2016,I Can't Fix You,"['The Living Tombstone', 'Crusher-P']",0.0000457,0.462,0.792,0.111,0.0456,0
+2016,Epilogue,['Justin Hurwitz'],0.661,0.408,0.27,0.516,0.0438,0
+2016,Reverend,['Kings of Leon'],0.0867,0.448,0.815,0.316,0.0361,0
+2016,Somewhere In Between,['August Wilhelmsson'],0.983,0.13,0.0454,0.0938,0.0365,0
+2016,Everytime,['CHEN'],0.491,0.422,0.737,0.183,0.0377,0
+2016,Dynasty,"['Elephante', 'MIIA']",0.00131,0.509,0.919,0.54,0.0792,0
+2016,Her Life,['Two Feet'],0.288,0.74,0.415,0.103,0.0594,0
+2016,Fall Away,['Lund'],0.487,0.704,0.241,0.14,0.032,0
+2016,Joanne,['Lady Gaga'],0.146,0.549,0.414,0.0998,0.0273,0
+2016,Dangerous,['Royal Deluxe'],0.0276,0.503,0.486,0.0904,0.0776,0
+2016,Hypnotic - Vanic Remix,['Zella Day'],0.00361,0.552,0.745,0.43,0.0807,0
+2016,Team,['Iggy Azalea'],0.0545,0.891,0.692,0.608,0.0673,0
+2016,By My Side,['Iamsu!'],0.102,0.664,0.553,0.301,0.12,0
+2016,"Thunderstorm for Relaxing Sleep, Pt. 47",['Sleepy Times'],0.00139,0.0627,0.427,0.594,0.0753,0
+2016,Raise Your Horns,['Amon Amarth'],0.0000605,0.458,0.873,0.0664,0.0439,0
+2016,Ignite - 2016 League Of Legends World Championship,['Zedd'],0.0714,0.723,0.741,0.0796,0.0344,0
+2016,Moolah,['Young Greatness'],0.0258,0.773,0.56,0.328,0.126,0
+2016,Echo (Recorded at Spotify Studios NYC),['Mandolin Orange'],0.958,0.512,0.368,0.0613,0.0425,0
+2016,MAMA,['BTS'],0.000226,0.544,0.739,0.0816,0.232,0
+2016,"Wildside - From ""Adventures in Babysitting""","['Sabrina Carpenter', 'Sofia Carson']",0.00404,0.766,0.576,0.0794,0.0426,0
+2016,Vengeance,['Killstation'],0.00362,0.628,0.573,0.0874,0.0673,0
+2016,Mañana Voy A Conquistarla,['Gerardo Ortiz'],0.269,0.54,0.748,0.117,0.0945,0
+2016,Write Your Name,['G Herbo'],0.126,0.771,0.824,0.106,0.185,0
+2016,I'll Be The Moon,"['Dierks Bentley', 'Maren Morris']",0.555,0.551,0.549,0.105,0.07,0
+2016,Bake Sale (feat. Travis Scott),"['Wiz Khalifa', 'Travis Scott']",0.196,0.855,0.522,0.1,0.226,0
+2016,"Rust, Dust & Guts",['Mick Gordon'],0.0925,0.507,0.612,0.223,0.0952,0
+2016,Pouring Rain,"['Rain Sounds', 'Rain Sounds & White Noise', 'Relaxing Rain Sounds', 'Meditation Rain Sounds', 'Sleep Sound Library', 'Sleep Sounds of Nature']",0.127,0,0.0000619,0.718,0,0
+2016,Petals,['Bibio'],0.908,0.359,0.286,0.109,0.0338,0
+2016,Fading Away,['Ollie'],0.93,0.688,0.536,0.12,0.232,0
+2016,...Familiar Place,['Lucy Dacus'],0.0128,0.214,0.148,0.113,0.037,0
+2016,QUESTION,['3年E組うた担(渚&茅野&業&磯貝&前原)'],0.00498,0.439,0.987,0.325,0.0717,0
+2016,This Feeling,['mike.'],0.411,0.715,0.672,0.152,0.127,0
+2016,Heart Afire,"['Defqwop', 'S-Trix']",0.0316,0.414,0.708,0.0623,0.0912,0
+2016,I Don't Care,['Ariana Grande'],0.728,0.591,0.403,0.153,0.0431,0
+2016,Mary's Boy Child,['Danny Silberman'],0.991,0.567,0.038,0.147,0.0486,0
+2016,Below the Surface,['Griffinilla'],0.328,0.713,0.398,0.057,0.0319,0
+2016,Yesterday,['J Dilla'],0.701,0.599,0.396,0.11,0.138,0
+2016,Back To Sleep REMIX (feat. Usher & ZAYN),"['Chris Brown', 'Usher', 'ZAYN']",0.119,0.653,0.675,0.483,0.213,0
+2016,Wildfire,['Seafret'],0.252,0.587,0.58,0.105,0.0329,0
+2016,This Is It,['Flatbush Zombies'],0.136,0.594,0.416,0.174,0.325,0
+2016,소방차 Fire Truck,['NCT 127'],0.116,0.724,0.976,0.352,0.0602,0
+2016,Me Gusta Lo Verde,['Omar Ruiz'],0.118,0.768,0.475,0.217,0.0605,0
+2016,What We Live For,['American Authors'],0.0503,0.686,0.885,0.147,0.0377,0
+2016,Kids,['Kyle Dixon & Michael Stein'],0.211,0.437,0.129,0.347,0.0381,0
+2016,Bonnie & Clyde,['DEAN'],0.426,0.642,0.642,0.672,0.0725,0
+2016,If It Ain't Love,['Jason Derulo'],0.0487,0.503,0.843,0.344,0.316,0
+2016,Like an Animal,['RÜFÜS DU SOL'],0.0341,0.71,0.748,0.0897,0.0305,0
+2016,Kill Our Way to Heaven,['Michl'],0.863,0.466,0.448,0.255,0.0921,0
+2016,I'm The Man - Remix,"['50 Cent', 'Chris Brown']",0.373,0.742,0.495,0.124,0.161,0
+2016,Estupido (feat. Janeth Guadalupe),"['Los Papis RA7', 'Janeth Guadalupe']",0.242,0.594,0.68,0.117,0.0341,0
+2016,Makeba,['Jain'],0.423,0.825,0.663,0.286,0.0687,0
+2016,Guilty,['Lady Wray'],0.209,0.618,0.714,0.0699,0.075,0
+2016,Got It Bad,['LEISURE'],0.00839,0.793,0.468,0.0689,0.0408,0
+2016,A 1000 Times,"['Hamilton Leithauser', 'Rostam']",0.695,0.486,0.811,0.227,0.0947,0
+2016,Greenlight (feat. Flo Rida & LunchMoney Lewis),"['Pitbull', 'Flo Rida', 'LunchMoney Lewis']",0.245,0.695,0.837,0.367,0.281,0
+2016,"Well, Everybody's Fucking In A U.F.O.",['Rob Zombie'],0.000111,0.73,0.907,0.266,0.0727,0
+2016,Dive In,['Pierce The Veil'],0.000516,0.345,0.957,0.352,0.113,0
+2016,7 Years,['Cryptic Wisdom'],0.524,0.869,0.498,0.0924,0.057,0
+2016,Hooplah,['Limes'],0.237,0.756,0.362,0.125,0.0656,0
+2016,Tony Montana,"['Agust D', 'Yankie']",0.000262,0.609,0.776,0.105,0.059,0
+2016,Getaway,['Saint Motel'],0.135,0.692,0.855,0.185,0.0344,0
+2016,El Corrido del Nano - En Vivo,['El Fantasma'],0.516,0.938,0.269,0.0902,0.211,0
+2016,THE DAY,['PornoGraffitti'],0.00228,0.477,0.952,0.321,0.0946,0
+2016,You and I,['PVRIS'],0.0412,0.52,0.827,0.0999,0.0514,0
+2016,Don't Hurt Me,"['Mustard', 'Nicki Minaj', 'Jeremih']",0.0872,0.704,0.46,0.0833,0.416,0
+2016,Feel It (feat. Tunji Ige),"['Good Times Ahead', 'What So Not', 'Tunji Ige']",0.0245,0.529,0.72,0.195,0.0462,0
+2016,Throwin' Elbows,"['Excision', 'Space Laces']",0.00314,0.58,0.94,0.113,0.567,0
+2016,Dean Town,['Vulfpeck'],0.499,0.796,0.608,0.0979,0.041,0
+2016,Tryin Me,['Money Man'],0.0422,0.645,0.565,0.102,0.434,0
+2016,Better Place,['Kane Brown'],0.188,0.648,0.585,0.117,0.0298,0
+2016,Chariot Of Fire,['$uicideBoy$'],0.423,0.469,0.717,0.128,0.187,0
+2016,Someone That Loves You,"['HONNE', 'Izzy Bizu']",0.0416,0.531,0.728,0.135,0.063,0
+2016,I Took A Pill In Ibiza,['Mike Posner'],0.622,0.637,0.318,0.125,0.0716,0
+2016,Somebody Else - Alt Edit,['The 1975'],0.125,0.658,0.834,0.138,0.0631,0
+2016,You're My Girl (Lost Recording #6),['Mark Diamond'],0.928,0.45,0.189,0.104,0.0519,0
+2016,Wrong,"['MAX', 'Lil Uzi Vert']",0.0156,0.605,0.56,0.111,0.0893,0
+2016,Stand Tall,['Childish Gambino'],0.692,0.308,0.234,0.125,0.0364,0
+2016,I Bet U Won't,['Mouse and Level'],0.00297,0.753,0.775,0.0488,0.16,0
+2016,And July,"['HEIZE', 'DEAN', 'DJ Friz']",0.0401,0.735,0.852,0.196,0.092,0
+2016,666 ʇ,['Bon Iver'],0.899,0.634,0.341,0.187,0.034,0
+2016,What More Can I Say,"['NxWorries', 'Anderson .Paak', 'Knxwledge']",0.147,0.455,0.524,0.161,0.147,0
+2016,Have Some Love,['Childish Gambino'],0.0171,0.783,0.782,0.682,0.0843,0
+2016,Heavy,['Birdtalker'],0.286,0.614,0.549,0.142,0.0516,0
+2016,Shake Ya Tailfeather (feat. P. Diddy & Murphy Lee) - 2016 Remaster,"['Nelly', 'Murphy Lee', 'Diddy']",0.176,0.662,0.808,0.169,0.271,0
+2016,El Taxista,['La Energia Nortena'],0.249,0.779,0.547,0.125,0.0363,0
+2016,Let It Snow! Let It Snow! Let It Snow!,['Jane Dupree'],0.995,0.81,0.0419,0.109,0.0645,0
+2016,Animals - Radio Edit,['Martin Garrix'],0.00137,0.593,0.914,0.0714,0.0363,0
+2016,GREAT NIGHT (feat. Shovels & Rope),"['NEEDTOBREATHE', 'Shovels & Rope']",0.0018,0.453,0.914,0.349,0.0825,0
+2016,Inside Out,"['The Chainsmokers', 'Charlee']",0.00308,0.545,0.65,0.122,0.0315,0
+2016,in my miNd,['Maty Noyes'],0.469,0.768,0.632,0.0391,0.0252,0
+2016,Pana,['Tekno'],0.305,0.553,0.553,0.0715,0.305,0
+2016,Butterfly,['BTS'],0.0107,0.441,0.747,0.101,0.0498,0
+2016,Deception,['Dance Gavin Dance'],0.0128,0.297,0.911,0.285,0.112,0
+2016,Sing Me to Sleep - Marshmello Remix,"['Alan Walker', 'Marshmello']",0.0383,0.62,0.893,0.159,0.0436,0
+2016,This Is My Version,['Conor Maynard'],0.852,0.632,0.38,0.0992,0.0301,0
+2016,Gale Song,['The Lumineers'],0.761,0.357,0.326,0.104,0.0302,0
+2016,See the World,['Caamp'],0.411,0.423,0.532,0.083,0.0296,0
+2016,I'll Be Around,['The Growlers'],0.000775,0.485,0.904,0.182,0.0465,0
+2016,Gangsta Love,['MO3'],0.526,0.574,0.476,0.0878,0.444,0
+2016,Make You Feel My Love,['Sleeping At Last'],0.979,0.451,0.0767,0.129,0.0402,0
+2016,Audition (The Fools Who Dream),['Emma Stone'],0.756,0.344,0.157,0.351,0.0457,0
+2016,679 & No Diggity,['Jackson Breit'],0.0917,0.671,0.772,0.118,0.186,0
+2016,Think About You,['LÉON'],0.249,0.662,0.744,0.116,0.0317,0
+2016,Oops (feat. Charlie Puth),"['Little Mix', 'Charlie Puth']",0.424,0.831,0.657,0.132,0.0482,0
+2016,Pretty Girls,['Michael Seyer'],0.813,0.578,0.402,0.113,0.0403,0
+2016,Drove U Crazy (feat. Bryson Tiller),"['Gucci Mane', 'Bryson Tiller']",0.141,0.885,0.664,0.336,0.0802,0
+2016,Sexual,"['NEIKED', 'Dyo']",0.0692,0.797,0.567,0.0705,0.0651,0
+2016,Running With Scissors,['I See Stars'],0.00182,0.548,0.94,0.126,0.0428,0
+2016,Deja Que Te Bese,"['Alejandro Sanz', 'Marc Anthony']",0.134,0.707,0.908,0.111,0.0582,0
+2016,New Blood,['Zayde Wølf'],0.0774,0.486,0.892,0.0532,0.0606,0
+2016,In the Morning,['ZHU'],0.0232,0.709,0.757,0.0791,0.0356,0
+2016,Ark,"['Star Party', 'Zookeepers']",0.0156,0.515,0.745,0.485,0.0394,0
+2016,Anyhow,['Tedeschi Trucks Band'],0.125,0.449,0.681,0.0957,0.0319,0
+2016,Preciosa Sangre,"['Marco Barrientos', 'Julio Melgar']",0.0909,0.429,0.699,0.891,0.0362,0
+2016,How to Love (feat. Sofia Reyes) - Boombox Cartel Remix,"['Cash Cash', 'Sofia Reyes', 'Boombox Cartel']",0.11,0.548,0.895,0.0816,0.102,0
+2016,HARD LOVE,['NEEDTOBREATHE'],0.0231,0.387,0.843,0.503,0.0539,0
+2016,Zombies,['Childish Gambino'],0.504,0.64,0.394,0.0671,0.152,0
+2016,Gibberish,"['MAX', 'Hoodie Allen']",0.0167,0.508,0.651,0.29,0.376,0
+2016,Bootleggin',['Quinn XCII'],0.12,0.826,0.504,0.148,0.052,0
+2016,The Flood,['Joshua Hyslop'],0.554,0.577,0.446,0.116,0.0313,0
+2016,Pepsi/Coke Suicide,['Elvis Depressedly'],0.742,0.39,0.419,0.143,0.0302,0
+2016,Now That We're Dead,['Metallica'],0.000101,0.566,0.951,0.266,0.0464,0
+2016,From Shores To Mountains,['The 2 Inversions'],0.988,0.131,0.233,0.0936,0.0364,0
+2016,Worst Luck,['6LACK'],0.856,0.327,0.518,0.116,0.16,0
+2016,Magnify,['We Are Messengers'],0.133,0.566,0.766,0.117,0.0552,0
+2016,Jason,"['The Midnight', 'Nikki Flores']",0.00634,0.527,0.768,0.153,0.0297,0
+2016,Daydream,"['Medasin', 'Joba']",0.415,0.466,0.686,0.144,0.0602,0
+2016,Into the Deep (Live),['Citipointe Worship'],0.00261,0.451,0.567,0.146,0.0322,0
+2016,Can't Rock My Dream Face,"[""Umphrey's McGee""]",0.0279,0.812,0.584,0.0463,0.0345,0
+2016,Rain for Sleep,['The Relaxing Sounds of Swedish Nature'],0.508,0.157,0.999,0.487,0.0634,0
+2016,Overtime,"['ScHoolboy Q', 'Miguel', 'Justine Skye']",0.772,0.825,0.477,0.105,0.301,0
+2016,Déjà vu,['TWENTY88'],0.164,0.568,0.617,0.0888,0.2,0
+2016,Nobody Love,['Tori Kelly'],0.00634,0.753,0.709,0.0967,0.0347,0
+2016,Worship,['Lizzo'],0.00411,0.808,0.888,0.0584,0.117,0
+2016,Drowning,"['Excision', 'Akylla']",0.000757,0.304,0.742,0.336,0.0357,0
+2016,War Paint,['FLETCHER'],0.0117,0.526,0.821,0.0887,0.0743,0
+2016,"Ella y Yo (Remix) [feat. Farruko, Ozuna, Arcangel, Anuel Aa, Bryant Myers, Kevin Roldan, Ñengo Flow, Alexis La Bestia & Ñejo]","['Pepe Quintana', 'Farruko', 'Ozuna', 'Arcangel', 'Anuel AA', 'Bryant Myers', 'Kevin Roldan', 'Ñengo Flow', 'Alexis La Bestia', 'Ñejo']",0.394,0.768,0.671,0.179,0.318,0
+2016,Nicotine Dream,['Breakup Shoes'],0.303,0.525,0.608,0.323,0.0289,0
+2016,Smoke Filled Room,['Mako'],0.0229,0.577,0.724,0.0927,0.0671,0
+2016,"Set It All Free - From ""Sing"" Original Motion Picture Soundtrack",['Scarlett Johansson'],0.00000736,0.484,0.853,0.111,0.124,0
+2016,The Calling,"['TheFatRat', 'Laura Brehm']",0.423,0.672,0.504,0.117,0.0322,0
+2016,The World is Turning,['Kylian Rebour'],0.995,0.321,0.00713,0.0995,0.062,0
+2016,Willow Tree,"['Spillage Village', 'JID', 'Jordxn Bryant', 'Hollywood JB', 'EARTHGANG']",0.612,0.76,0.328,0.108,0.375,0
+2016,Growing Up (feat. Ed Sheeran),"['Macklemore', 'Ryan Lewis', 'Ed Sheeran']",0.178,0.74,0.549,0.114,0.303,0
+2016,Celebrate,['Anderson .Paak'],0.0484,0.703,0.759,0.664,0.149,0
+2016,Amor Confuso,['Gerardo Ortiz'],0.611,0.472,0.673,0.0973,0.0288,0
+2016,Kiss Me,['Casey Donahew'],0.0104,0.583,0.916,0.101,0.0411,0
+2016,"Ravel: Miroirs, M. 43: III. Une barque sur l'océan","['Maurice Ravel', 'Bertrand Chamayou']",0.986,0.202,0.119,0.0831,0.0383,0
+2016,I've Got My Love To Keep Me Warm,['Beegie Adair'],0.586,0.616,0.275,0.0999,0.0339,0
+2016,De Pies A Cabeza,"['Maná', 'Nicky Jam']",0.0571,0.695,0.814,0.296,0.0461,0
+2016,A Different World (feat. Corey Taylor),"['Korn', 'Corey Taylor']",0.000389,0.576,0.785,0.103,0.0355,0
+2016,Real Nigga,"['21 Savage', 'Metro Boomin']",0.0915,0.87,0.225,0.197,0.362,0
+2016,Santa Barbara,['Rebelution'],0.0000745,0.749,0.734,0.0768,0.0339,0
+2016,I Believe in You,['Michael Bublé'],0.125,0.612,0.744,0.0978,0.033,0
+2016,You Don't Get Me High Anymore,['Three Days Grace'],0.00069,0.497,0.956,0.173,0.0445,0
+2016,Whole Lotta Lovin',"['Mustard', 'Travis Scott']",0.135,0.51,0.398,0.0634,0.0558,0
+2016,Por Que Al Conocerte,['Banda MS de Sergio Lizárraga'],0.36,0.734,0.442,0.0481,0.0504,0
+2016,Hellwalker,['Mick Gordon'],0.058,0.451,0.423,0.114,0.0428,0
+2016,My Eyes,['The Lumineers'],0.852,0.435,0.309,0.113,0.0309,0
+2016,Feel Good,['Syn Cole'],0.167,0.629,0.882,0.0693,0.0312,0
+2016,Victory Belongs To Jesus,['Todd Dulaney'],0.446,0.325,0.583,0.403,0.0371,0
+2016,Long Way From Home,['The Lumineers'],0.691,0.528,0.416,0.0953,0.0305,0
+2017,Nothing,"['Rex Orange County', 'Marco McKinnis']",0.346,0.725,0.418,0.0658,0.0309,0
+2017,MIC Drop,['BTS'],0.00912,0.667,0.889,0.0816,0.0918,0
+2017,I'm Not Her,['Clara Mae'],0.228,0.477,0.51,0.0755,0.275,0
+2017,Banded Clovis,['Tyler Childers'],0.81,0.432,0.552,0.066,0.0334,0
+2017,Best Of Me,['BTS'],0.0298,0.651,0.756,0.396,0.0762,0
+2017,Every Single Thing,['HOMESHAKE'],0.774,0.816,0.255,0.114,0.0416,0
+2017,Bam,"['JAY-Z', 'Damian Marley']",0.455,0.639,0.788,0.058,0.35,0
+2017,Lavender and Velvet,['Alina Baraz'],0.401,0.684,0.512,0.1,0.0401,0
+2017,Once Upon a December,['Christy Altomare'],0.917,0.166,0.288,0.0889,0.0389,0
+2017,Grown Man Sport,"['Pete Rock', 'InI']",0.478,0.801,0.757,0.163,0.316,0
+2017,Unforgettable,['Thomas Rhett'],0.0303,0.661,0.75,0.0846,0.0314,0
+2017,Peace of Mind,['PARTYNEXTDOOR'],0.284,0.782,0.367,0.0899,0.0548,0
+2017,Vicodin,['CVBZ'],0.0715,0.642,0.776,0.146,0.135,0
+2017,Empty,"[""Olivia O'Brien""]",0.0869,0.788,0.516,0.134,0.0743,0
+2017,Deadcrush,['alt-J'],0.0959,0.648,0.622,0.126,0.0578,0
+2017,Still Serving,"['21 Savage', 'Offset', 'Metro Boomin']",0.413,0.926,0.544,0.112,0.0727,0
+2017,The Way You Used to Do,['Queens of the Stone Age'],0.0102,0.474,0.843,0.362,0.272,0
+2017,Sticky,['Ravyn Lenae'],0.0339,0.712,0.846,0.106,0.0538,0
+2017,Empty Field Noise,['Mark Biem'],0.94,0.153,0.0443,0.133,0.0771,0
+2017,Run,['Foo Fighters'],0.000034,0.359,0.893,0.751,0.0665,0
+2017,Through the Night,['IU'],0.757,0.428,0.313,0.309,0.0391,0
+2017,Stalli (Freestyle),['Megan Thee Stallion'],0.0753,0.866,0.794,0.091,0.207,0
+2017,Dramaturgy,['Eve'],0.0188,0.589,0.901,0.159,0.0876,0
+2017,Aawake At Night,['half•alive'],0.351,0.592,0.728,0.459,0.205,0
+2017,Hey Ma (with Pitbull & J Balvin feat. Camila Cabello) - Spanish Version,"['Pitbull', 'J Balvin', 'Camila Cabello']",0.0277,0.489,0.962,0.128,0.215,0
+2017,Lane Changing,['SOB X RBE'],0.0281,0.925,0.869,0.214,0.338,0
+2017,Love Scars Pt. 2 / Rack City,"['Trippie Redd', 'Antionia', 'Chris King']",0.0653,0.665,0.588,0.0868,0.137,0
+2017,LOSING INTEREST,['Paycheck'],0.601,0.955,0.318,0.117,0.155,0
+2017,"Sechs Klavierstücke, Op. 118: II. Intermezzo in A Major","['Johannes Brahms', 'Arcadi Volodos']",0.994,0.299,0.00626,0.0823,0.0478,0
+2017,Know,['NF'],0.233,0.693,0.717,0.26,0.283,0
+2017,Can't Have Everything,['Drake'],0.0136,0.856,0.572,0.121,0.373,0
+2017,Mi Niña Mujer,"['Los Ángeles Azules', 'Ha*Ash']",0.395,0.49,0.631,0.0645,0.0335,0
+2017,All My Hope,"['Crowder', 'Tauren Wells']",0.676,0.375,0.469,0.106,0.0375,0
+2017,I Sip,['Tory Lanez'],0.198,0.645,0.546,0.111,0.36,0
+2017,Hefner,['Tana Mongeau'],0.0327,0.705,0.849,0.152,0.181,0
+2017,Suicide Letter 2,['Trick James'],0.623,0.709,0.604,0.547,0.405,0
+2017,Do You Wanna Do Nothing with Me?,['Lawrence'],0.17,0.548,0.611,0.0762,0.131,0
+2017,No One - Acoustic,['Alicia Keys'],0.712,0.379,0.325,0.0997,0.0331,0
+2017,Straight Jacket,['Bay Ledges'],0.117,0.616,0.657,0.11,0.0649,0
+2017,Somebody to Thank,['Logan Mize'],0.0205,0.615,0.675,0.111,0.0263,0
+2017,Te Voy A Olvidar,['Christian Nodal'],0.374,0.568,0.49,0.56,0.0267,0
+2017,When Someone Stops Loving You,['Little Big Town'],0.263,0.482,0.707,0.115,0.0347,0
+2017,Lay It All Down,"['Will Reagan', 'United Pursuit']",0.496,0.652,0.36,0.0968,0.0374,0
+2017,Sleeping Powder,['Gorillaz'],0.174,0.722,0.597,0.181,0.0264,0
+2017,Sacrifices,"['Big Sean', 'Migos']",0.258,0.779,0.56,0.241,0.253,0
+2017,Forget Me Thots,['Yung Gravy'],0.243,0.887,0.737,0.109,0.16,0
+2017,No Cap,"['Future', 'Young Thug']",0.00108,0.8,0.523,0.352,0.107,0
+2017,I Think I Like When It Rains,['Willis'],0.0448,0.622,0.471,0.0957,0.0277,0
+2017,Not My Baby,['Alvvays'],0.0291,0.342,0.644,0.0988,0.0346,0
+2017,Te Vas,['Ozuna'],0.836,0.799,0.293,0.121,0.0398,0
+2017,Bulletproof,['Brennan Savage'],0.0152,0.58,0.867,0.14,0.165,0
+2017,13 Beaches,['Lana Del Rey'],0.539,0.333,0.389,0.163,0.0364,0
+2017,Think & Drive,['Seth Ennis'],0.558,0.603,0.578,0.131,0.0306,0
+2017,Como Antes (feat. Wisin),"['Yandel', 'Wisin']",0.182,0.813,0.876,0.394,0.172,0
+2017,He's Fine,['The Secret Sisters'],0.559,0.557,0.616,0.0812,0.0387,0
+2017,Green Light,['Lorde'],0.0209,0.594,0.721,0.0879,0.0957,0
+2017,Probablemente,"['Christian Nodal', 'David Bisbal']",0.358,0.629,0.463,0.108,0.0295,0
+2017,Every Breath You Take,['The Police'],0.559,0.822,0.478,0.0813,0.0343,0
+2017,Seashore,['The Regrettes'],0.0546,0.532,0.585,0.0588,0.0556,0
+2017,Perfect Places,['Lorde'],0.00241,0.622,0.58,0.112,0.0504,0
+2017,Sad Nigga Hours,"['Lil Boom', '904TEZZO']",0.463,0.697,0.48,0.378,0.0493,0
+2017,Nobody's Lonely Tonight,['Chris Stapleton'],0.811,0.553,0.0791,0.112,0.0309,0
+2017,Killed Before,['Young Thug'],0.275,0.697,0.675,0.0767,0.317,0
+2017,Nights With You,['MØ'],0.401,0.763,0.671,0.375,0.1,0
+2017,crush on you,['Elijah Who'],0.883,0.578,0.172,0.401,0.35,0
+2017,Believe,['Eminem'],0.16,0.884,0.492,0.359,0.112,0
+2017,Waterfall Sounds,['Waterfall Sounds'],0.845,0.215,0.994,0.987,0.0649,0
+2017,Talking,['Elderbrook'],0.0944,0.897,0.569,0.108,0.0529,0
+2017,Born Again,['Tyler Childers'],0.624,0.506,0.669,0.165,0.0327,0
+2017,Stranger Things (feat. OneRepublic),"['Kygo', 'OneRepublic']",0.234,0.604,0.661,0.0951,0.0375,0
+2017,Stfu,['Pink Guy'],0.552,0.827,0.524,0.198,0.0536,0
+2017,Breeze Rain,['Decidic FX'],0.168,0.061,0.997,0.905,0.0747,0
+2017,Survivor,['Zach Williams'],0.0183,0.528,0.805,0.0839,0.0359,0
+2017,Blow Your Mind (Mwah),['Dua Lipa'],0.0188,0.654,0.796,0.0948,0.122,0
+2017,Waste of Time,['Snow Tha Product'],0.603,0.834,0.535,0.127,0.172,0
+2017,"Cigarette (Feat. Tablo, MISO)","['offonoff', 'Tablo', 'MISO']",0.271,0.776,0.392,0.14,0.207,0
+2017,Not Afraid Anymore,['Halsey'],0.00346,0.546,0.734,0.136,0.0653,0
+2017,New Rules,['Dua Lipa'],0.00261,0.762,0.7,0.153,0.0694,0
+2017,Hellfire,['Barns Courtney'],0.244,0.529,0.847,0.205,0.0482,0
+2017,Whole Lot,['21 Savage'],0.188,0.916,0.537,0.115,0.245,0
+2017,Coolin and Booted,['Kodak Black'],0.0264,0.808,0.526,0.151,0.0712,0
+2017,Whole Wide World - Unpeeled,['Cage The Elephant'],0.377,0.405,0.751,0.0958,0.0392,0
+2017,Pink Noise - BP 240 hz,['Granular'],0.42,0,0.00172,0.11,0,0
+2017,We Don't Talk Anymore,['Dean Stance'],0.992,0.377,0.027,0.125,0.0368,0
+2017,WINE (Feat.Changmo) (Prod. SUGA),['SURAN'],0.314,0.62,0.644,0.105,0.0447,0
+2017,El MZ,['Los Tucanes De Tijuana'],0.288,0.553,0.685,0.358,0.131,0
+2017,Me and My Friends Are Lonely,['Matt Maeson'],0.0558,0.668,0.491,0.15,0.111,0
+2017,I Think It's Time That I Emerge,['OmenXIII'],0.396,0.875,0.332,0.0884,0.459,0
+2017,Losing My Mind,['Mystery Skulls'],0.0207,0.474,0.759,0.157,0.0891,0
+2017,Down For Me (feat. 24hrs),"['G-Eazy', 'Carnage', '24hrs']",0.0454,0.545,0.601,0.164,0.298,0
+2017,Words Fail,['Ben Platt'],0.792,0.368,0.237,0.122,0.0389,0
+2017,Ocean For Sleep,['Waves Hard'],0.671,0.166,1,0.977,0.055,0
+2017,magnolia,['keshi'],0.936,0.62,0.501,0.0995,0.0446,0
+2017,ili,['TroyBoi'],0.0575,0.634,0.588,0.441,0.106,0
+2017,"El Diablo (Tema De La Película ""El Infierno"")",['Los Tucanes De Tijuana'],0.38,0.82,0.776,0.103,0.0843,0
+2017,Forever,['Danger Incorporated'],0.00584,0.558,0.493,0.11,0.0491,0
+2017,Change Me,['Danger Incorporated'],0.187,0.699,0.392,0.0999,0.272,0
+2017,Lotus Eater,['Foster The People'],0.00457,0.597,0.733,0.501,0.11,0
+2017,Eternally Yours,['Motionless In White'],0.00113,0.481,0.94,0.107,0.0564,0
+2017,First World Problemz / Nobody Carez,['Brent Faiyaz'],0.259,0.582,0.502,0.16,0.102,0
+2017,Tryin' To Untangle My Mind,['Chris Stapleton'],0.142,0.623,0.712,0.3,0.0303,0
+2017,When I Pray for You,['Dan + Shay'],0.054,0.382,0.781,0.23,0.0433,0
+2017,Pideme,['Grupo Legitimo'],0.283,0.823,0.728,0.177,0.0359,0
+2017,Early 20 Rager,['Lil Uzi Vert'],0.0209,0.651,0.68,0.381,0.0647,0
+2017,Lights On,['H.E.R.'],0.677,0.518,0.404,0.101,0.137,0
+2017,STAR,['BROCKHAMPTON'],0.147,0.776,0.388,0.394,0.282,0
+2017,Purgatory,['Tyler Childers'],0.301,0.489,0.773,0.241,0.0308,0
+2017,Man Of Oil,['Animal Collective'],0.856,0.633,0.565,0.381,0.0614,0
+2017,Feelins,['PnB Rock'],0.0464,0.63,0.782,0.0944,0.225,0
+2017,6 Feet,['Scarlxrd'],0.00498,0.646,0.963,0.309,0.288,0
+2017,Canopée,['Polo & Pan'],0.0942,0.704,0.692,0.0922,0.0304,0
+2017,Your Song - Remastered,['Elton John'],0.821,0.555,0.336,0.089,0.0296,0
+2017,i love being with you,['Elijah Who'],0.949,0.633,0.399,0.104,0.0489,0
+2017,Run For Cover,['The Killers'],0.0016,0.466,0.951,0.351,0.125,0
+2017,La Llorona,"['Alanna Ubach', 'Antonio Sol']",0.318,0.46,0.574,0.1,0.112,0
+2017,Brain Relaxation,['Fabricants'],0.962,0,0.00002,0.137,0,0
+2017,Peace Blossom Boogy,['Babe Rainbow'],0.041,0.661,0.821,0.105,0.0307,0
+2017,Wake Up,"['moow', 'Lotte Kestner']",0.882,0.822,0.107,0.084,0.0862,0
+2017,Stand Still,['Sabrina Claudio'],0.732,0.476,0.44,0.0773,0.0371,0
+2017,Sober,['Bazzi'],0.529,0.534,0.366,0.21,0.0488,0
+2017,Don't Kno,['Moneybagg Yo'],0.304,0.823,0.664,0.196,0.271,0
+2017,"All of Me (feat. Logic, ROZES)","['Big Gigantic', 'Logic', 'ROZES']",0.00189,0.628,0.877,0.228,0.041,0
+2017,Make You Fall In Love,"['DeJ Loaf', 'Jacquees']",0.213,0.636,0.481,0.123,0.113,0
+2017,Hope You Do,['Chris Brown'],0.0366,0.67,0.531,0.132,0.0629,0
+2017,LUV U NEED U,['Slushii'],0.186,0.774,0.81,0.0261,0.0734,0
+2017,How Far I'll Go,['Thomas Loof'],0.994,0.354,0.0284,0.129,0.0438,0
+2017,Rubble To Rubble,['Wilderado'],0.376,0.558,0.454,0.258,0.0378,0
+2017,Enemy,"['Oliver Tree', 'Whethan']",0.306,0.721,0.504,0.116,0.0474,0
+2017,Younger Now,['Miley Cyrus'],0.00129,0.548,0.873,0.138,0.0618,0
+2017,Wow,['Beck'],0.0135,0.627,0.643,0.111,0.0336,0
+2017,Rock You Like a Hurricane,['Scorpions'],0.000265,0.584,0.833,0.32,0.0358,0
+2017,Deeply Scared,"['Trippie Redd', 'UnoTheActivist']",0.0271,0.694,0.417,0.178,0.167,0
+2017,I Say a Little Prayer,['Aretha Franklin'],0.48,0.59,0.355,0.0585,0.0352,0
+2017,Mars (feat. Lil Uzi Vert),"['Maxo Kream', 'Lil Uzi Vert']",0.447,0.818,0.673,0.111,0.235,0
+2017,En Definitiva,['Alfredo Olivas'],0.304,0.682,0.669,0.0953,0.0399,0
+2017,Neon Guts (feat. Pharrell Williams),"['Lil Uzi Vert', 'Pharrell Williams']",0.0541,0.859,0.563,0.0685,0.112,0
+2017,One I Want (feat. PARTYNEXTDOOR),"['Majid Jordan', 'PARTYNEXTDOOR']",0.257,0.913,0.223,0.0786,0.321,0
+2017,Need You Now - Acoustic,['Dean Lewis'],0.911,0.601,0.317,0.181,0.0497,0
+2017,Sleep Talking,['Charlotte Lawrence'],0.453,0.669,0.762,0.162,0.0398,0
+2017,Made Love First,"['Marc E. Bassy', 'Kehlani']",0.221,0.692,0.512,0.336,0.0451,0
+2017,Better Give U Up,['FKJ'],0.176,0.525,0.72,0.0769,0.169,0
+2017,Baby Shark,['Pinkfong'],0.31,0.821,0.865,0.344,0.192,0
+2017,Moonlight,['Grace VanderWaal'],0.399,0.737,0.734,0.323,0.156,0
+2017,Ghost,['Upchurch'],0.699,0.786,0.569,0.124,0.063,0
+2017,FaceTime,['21 Savage'],0.219,0.701,0.624,0.107,0.306,0
+2017,Some Girl (feat. Steve Lacy),"['GoldLink', 'Steve Lacy']",0.106,0.424,0.606,0.144,0.159,0
+2017,HEROES,['Brian the Sun'],0.00742,0.526,0.94,0.268,0.066,0
+2017,Broken Things,['Matthew West'],0.0498,0.533,0.536,0.191,0.0322,0
+2017,Helpless,['John Mayer'],0.151,0.761,0.598,0.0314,0.0268,0
+2017,Vacaciones,['Wisin'],0.246,0.777,0.911,0.257,0.173,0
+2017,Chronic Sunshine,['Cosmo Pyke'],0.0264,0.431,0.773,0.348,0.0636,0
+2017,Iron Man,['Black Sabbath'],0.00367,0.332,0.769,0.0372,0.0765,0
+2017,Feather in Her Halo,['Matt Mason'],0.0254,0.562,0.691,0.31,0.0373,0
+2017,Find You,['Nick Jonas'],0.00114,0.644,0.743,0.0831,0.0331,0
+2017,Balance Rain,['Sleep Makers Samples'],0.202,0.0741,0.00024,0.389,0.103,0
+2017,Ending Scene,['IU'],0.851,0.388,0.323,0.143,0.0348,0
+2017,My Type,"['The Chainsmokers', 'Emily Warren']",0.0357,0.604,0.603,0.126,0.0389,0
+2017,Vacation,['Still Woozy'],0.344,0.609,0.431,0.181,0.0675,0
+2017,Quit Lyin,['Upchurch'],0.256,0.812,0.702,0.271,0.244,0
+2017,Proud Corazón,['Anthony Gonzalez'],0.789,0.389,0.408,0.121,0.0323,0
+2017,Echo,['Crusher-P'],0.082,0.637,0.906,0.125,0.0522,0
+2017,Bon appétit,"['Katy Perry', 'Migos']",0.131,0.8,0.795,0.221,0.0626,0
+2017,Lights Out,['Royal Blood'],0.000127,0.501,0.824,0.0922,0.0413,0
+2017,Pleading The Fifth (feat. Quavo),"['Moneybagg Yo', 'YoungBoy Never Broke Again', 'Quavo']",0.359,0.609,0.596,0.094,0.267,0
+2017,Signs of Jealousy,['Lil Skies'],0.39,0.743,0.76,0.176,0.106,0
+2017,When We Love,['Jhené Aiko'],0.552,0.467,0.517,0.111,0.104,0
+2017,"Gucci On My (feat. 21 Savage, YG & Migos)","['Mike WiLL Made-It', '21 Savage', 'YG', 'Migos']",0.173,0.934,0.359,0.152,0.23,0
+2017,Brain X 1000,['Noise Makers'],0.908,0.383,0.138,0.105,0.0469,0
+2017,Hey! Baby - Remastered,['Bruce Channel'],0.359,0.515,0.623,0.274,0.036,0
+2017,Transform (feat. Charlotte Day Wilson),"['Daniel Caesar', 'Charlotte Day Wilson']",0.511,0.498,0.292,0.256,0.031,0
+2017,Lonely,"['Demi Lovato', 'Lil Wayne']",0.496,0.549,0.348,0.087,0.201,0
+2017,Runnin' Home to You,['Grant Gustin'],0.895,0.328,0.242,0.146,0.0455,0
+2017,Good Goodbye (feat. Pusha T and Stormzy),"['Linkin Park', 'Pusha T', 'Stormzy']",0.106,0.697,0.84,0.748,0.054,0
+2017,Dirty Diana - 2012 Remaster,['Michael Jackson'],0.178,0.735,0.801,0.324,0.0437,0
+2017,Incredible,['Future'],0.0634,0.79,0.438,0.1,0.133,0
+2017,Honky Tonk Flame,['Tyler Childers'],0.252,0.334,0.692,0.19,0.0352,0
+2017,Lame Niggaz,['Playboi Carti'],0.0315,0.9,0.488,0.101,0.274,0
+2017,Come Closer (feat. Drake),"['WizKid', 'Drake']",0.127,0.825,0.453,0.0838,0.227,0
+2017,Wildflowers,"[""The Wailin' Jennys""]",0.853,0.474,0.213,0.241,0.028,0
+2017,The Louvre,['Lorde'],0.239,0.664,0.382,0.0943,0.047,0
+2017,Droptop in the Rain (feat. Tory Lanez),"['Ty Dolla $ign', 'Tory Lanez']",0.0295,0.73,0.581,0.106,0.0828,0
+2017,Sleigh Ride,['Miley Cyrus'],0.193,0.583,0.749,0.151,0.0453,0
+2017,2 Hold U,['Clairo'],0.451,0.843,0.28,0.0984,0.0957,0
+2017,"Enjoy Right Now, Today","['Tyler, The Creator']",0.037,0.729,0.675,0.0891,0.187,0
+2017,Mi Vida Eres Tú,['Virlan Garcia'],0.582,0.581,0.52,0.0843,0.0305,0
+2017,"Fragments - From The Film ""The Smog Of The Sea""",['Jack Johnson'],0.727,0.73,0.146,0.104,0.0351,0
+2017,INTROVERSION 2.0,['$uicideBoy$'],0.0275,0.68,0.75,0.0745,0.0421,0
+2017,happy hour,['Nohidea'],0.767,0.894,0.203,0.115,0.124,0
+2017,New Balance,['Jhené Aiko'],0.721,0.452,0.552,0.257,0.142,0
+2017,Conscience (feat. Future),"['Kodak Black', 'Future']",0.047,0.666,0.693,0.115,0.199,0
+2017,Waking up Slow - Piano Version,['Gabrielle Aplin'],0.923,0.641,0.264,0.0983,0.0364,0
+2017,"Dream, Ivory","['Dream, Ivory']",0.0796,0.537,0.568,0.0701,0.0285,0
+2017,Phone Jumpin,"['Dave East', 'Wiz Khalifa']",0.0216,0.632,0.767,0.378,0.232,0
+2017,A Different Way (with Lauv),"['DJ Snake', 'Lauv']",0.495,0.784,0.757,0.142,0.0384,0
+2017,LAND OF THE FREE,['Joey Bada$$'],0.466,0.734,0.649,0.116,0.313,0
+2017,Different,['Hippie Sabotage'],0.895,0.775,0.294,0.0637,0.0749,0
+2017,Signal,['TWICE'],0.22,0.621,0.761,0.143,0.334,0
+2017,You and Me,"['Dove Cameron', 'Sofia Carson', 'Cameron Boyce', 'Booboo Stewart', 'Mitchell Hope', 'Jeff Lewis']",0.00436,0.526,0.834,0.0636,0.115,0
+2017,Lonely,"['Yung Bans', 'Lil Skies']",0.248,0.764,0.362,0.0974,0.317,0
+2017,Fairplay,['Kiana Ledé'],0.585,0.726,0.668,0.165,0.158,0
+2018,Be Your Girl (Kaytranada Edition),"['Teedra Moses', 'KAYTRANADA']",0.208,0.864,0.682,0.1,0.386,0
+2018,Lovely,"['$NOT', 'SUS Valentino']",0.872,0.566,0.541,0.174,0.29,0
+2018,Fred Astaire,['Jukebox The Ghost'],0.0244,0.605,0.71,0.309,0.0753,0
+2018,Womb Sound With Mother's Heartbeat and Sleep Pulse,['Womb Sound'],0.944,0.284,0.501,0.108,0.439,0
+2018,Pickle Rick,['Ekoh'],0.144,0.725,0.727,0.465,0.219,0
+2018,Dame Algo,"['Wisin & Yandel', 'Bad Bunny']",0.176,0.829,0.723,0.0877,0.105,0
+2018,Siren,['Kailee Morgue'],0.454,0.603,0.512,0.154,0.0402,0
+2018,Hey Mama,['Nathaniel Rateliff & The Night Sweats'],0.189,0.5,0.55,0.0999,0.0286,0
+2018,Leglock,['Shakewell'],0.528,0.767,0.956,0.208,0.261,0
+2018,Airplane pt.2,['BTS'],0.0268,0.769,0.817,0.084,0.0339,0
+2018,Walking on Broken Glass - Recorded at Spotify Studios NYC,['Lake Street Dive'],0.309,0.756,0.537,0.0423,0.0525,0
+2018,Money Long,['Kevin Gates'],0.222,0.784,0.711,0.377,0.245,0
+2018,Lesbian (feat. Gunna & Young Thug),"['Metro Boomin', 'Gunna', 'Young Thug']",0.636,0.8,0.406,0.109,0.268,0
+2018,Bad Company (feat. BlocBoy JB),"['A$AP Rocky', 'BlocBoy JB']",0.0679,0.901,0.529,0.536,0.413,0
+2018,What's Free (feat. Rick Ross & Jay Z),"['Meek Mill', 'JAY-Z', 'Rick Ross']",0.000322,0.511,0.718,0.111,0.404,0
+2018,Bonesaw,['Ghostemane'],0.0555,0.694,0.625,0.547,0.482,0
+2018,What I Need (feat. Kehlani),"['Hayley Kiyoko', 'Kehlani']",0.0537,0.633,0.793,0.16,0.055,0
+2018,Descuide,['Grupo Firme'],0.295,0.639,0.581,0.183,0.0286,0
+2018,Fly Me to the Moon,['The Macarons Project'],0.915,0.456,0.113,0.0959,0.0334,0
+2018,I Don't Wanna Love You Anymore,['LANY'],0.322,0.702,0.623,0.0858,0.0417,0
+2018,Birds,['Imagine Dragons'],0.0146,0.649,0.517,0.145,0.0297,0
+2018,Anxiety,['Bmike'],0.271,0.49,0.726,0.17,0.26,0
+2018,Young Nigga (feat. Puff Daddy),"['Nipsey Hussle', 'Diddy']",0.261,0.502,0.64,0.118,0.357,0
+2018,Souvenir,"['Julien Baker', 'Phoebe Bridgers', 'Lucy Dacus']",0.732,0.598,0.3,0.0946,0.0264,0
+2018,Dance with Me (feat. Kelsea Ballerini),"['Morgan Evans', 'Kelsea Ballerini']",0.481,0.611,0.519,0.107,0.035,0
+2018,Pink Skies (Demo),['Wiley from Atlanta'],0.485,0.565,0.566,0.104,0.141,0
+2018,Entre Beso Y Beso,['La Arrolladora Banda El Limón De Rene Camacho'],0.197,0.863,0.641,0.0793,0.0379,0
+2018,Somebody Ain't You,['Mitchell Tenpenny'],0.0203,0.592,0.749,0.122,0.0483,0
+2018,Losing My Love,['Verzache'],0.709,0.832,0.657,0.258,0.161,0
+2018,Like I Used To,['Tinashe'],0.571,0.717,0.599,0.102,0.115,0
+2018,Like To Be You (feat. Julia Michaels),"['Shawn Mendes', 'Julia Michaels']",0.812,0.737,0.451,0.108,0.229,0
+2018,Saturdays (feat. HAIM),"['Twin Shadow', 'HAIM']",0.0659,0.47,0.696,0.0962,0.104,0
+2018,Pristine,['Snail Mail'],0.00461,0.483,0.695,0.102,0.0313,0
+2018,Testimony,['Kodak Black'],0.0369,0.814,0.667,0.11,0.36,0
+2018,Paradise,['George Ezra'],0.209,0.642,0.881,0.21,0.0393,0
+2018,Reasons For Being,['Deep Watch'],0.98,0.141,0.0282,0.104,0.0454,0
+2018,I Will Fear No More,['The Afters'],0.222,0.495,0.591,0.0882,0.028,0
+2018,Waves (feat. 6LACK),"['Normani', '6LACK']",0.415,0.578,0.588,0.114,0.255,0
+2018,4 Min Convo (Favorite Song),['A Boogie Wit da Hoodie'],0.359,0.705,0.65,0.169,0.212,0
+2018,Album of the Year - Freestyle,['J. Cole'],0.0805,0.705,0.816,0.476,0.32,0
+2018,When It Rains It Pours,['Luke Combs'],0.013,0.551,0.801,0.265,0.0303,0
+2018,Devuelveme,['Ozuna'],0.554,0.744,0.769,0.102,0.156,0
+2018,Fairy Fountain,"['Mikel', 'GameChops']",0.404,0.671,0.525,0.0917,0.0506,0
+2018,Turn up the Night,"['Upchurch', 'Bottleneck']",0.0482,0.739,0.781,0.156,0.0449,0
+2018,Meet Me in Amsterdam,['RINI'],0.281,0.62,0.265,0.114,0.0345,0
+2018,Hammer - Travis Barker Remix,"['nothing,nowhere.', 'Travis Barker']",0.023,0.703,0.825,0.0786,0.0463,0
+2018,Freeee (Ghost Town Pt. 2),"['KIDS SEE GHOSTS', 'Ty Dolla $ign']",0.00457,0.334,0.81,0.158,0.0632,0
+2018,El De Los Lentes Gucci,['Natanael Cano'],0.37,0.765,0.539,0.039,0.0437,0
+2018,Something's Gotta Give,['Camila Cabello'],0.367,0.545,0.458,0.118,0.0279,0
+2018,Old Money,['Playboi Carti'],0.0271,0.716,0.619,0.342,0.339,0
+2018,Stuck in My Ways (feat. 6LACK),"['Phora', '6LACK']",0.0503,0.6,0.484,0.0995,0.145,0
+2018,Understood,['Mick Jenkins'],0.213,0.677,0.843,0.554,0.324,0
+2018,Today - Intro,['DaBaby'],0.00331,0.915,0.511,0.0752,0.323,0
+2018,Starlight Brigade,"['TWRP', 'Dan Avidan']",0.0241,0.521,0.663,0.0395,0.0508,0
+2018,"POP, LOCK & DROPDEAD",['ITSOKTOCRY'],0.212,0.985,0.438,0.116,0.0712,0
+2018,Time Travel,['Antologie'],0.696,0.12,0.0585,0.11,0.0383,0
+2018,DIFFERENT,['WOODZ'],0.0223,0.628,0.811,0.0797,0.0338,0
+2018,Without Me - ILLENIUM Remix,"['Halsey', 'ILLENIUM']",0.483,0.639,0.71,0.219,0.0479,0
+2018,Throwing Shade,"['Lil Baby', 'Gunna']",0.0117,0.793,0.447,0.109,0.151,0
+2018,Hey DJ,"['CNCO', 'Yandel']",0.0317,0.798,0.809,0.214,0.0839,0
+2018,BBoom BBoom,['MOMOLAND'],0.0149,0.785,0.744,0.0661,0.0369,0
+2018,What About Me (feat. Sosamann),"['Lil Wayne', 'Sosamann']",0.0263,0.785,0.44,0.122,0.0401,0
+2018,Ya No Tiene Novio,"['Sebastian Yatra', 'Mau y Ricky']",0.048,0.632,0.832,0.0705,0.154,0
+2018,Chill Calling,"['Fatboibari', 'dhan']",0.171,0.645,0.272,0.337,0.343,0
+2018,No Me Acuerdo,"['Thalia', 'Natti Natasha']",0.175,0.837,0.784,0.0897,0.101,0
+2018,Call Me Back,['Young the Giant'],0.202,0.75,0.365,0.122,0.0372,0
+2018,I Will Always Be Yours,['Ben Rector'],0.133,0.445,0.771,0.273,0.0501,0
+2018,Tear,['BTS'],0.327,0.711,0.903,0.0887,0.247,0
+2018,Money Bag,['Cardi B'],0.107,0.947,0.788,0.108,0.124,0
+2018,Together,['Trippie Redd'],0.893,0.615,0.444,0.127,0.0282,0
+2018,Wicked Games,['Kiana Ledé'],0.447,0.789,0.435,0.135,0.0599,0
+2018,Genie,['YoungBoy Never Broke Again'],0.286,0.598,0.605,0.0875,0.452,0
+2018,Be Legendary,['Pop Evil'],0.000054,0.548,0.945,0.199,0.0519,0
+2018,Rivers Deep,['Gabby Barrett'],0.189,0.716,0.684,0.104,0.0339,0
+2018,She's In The Rain,['The Rose'],0.375,0.36,0.533,0.0768,0.0302,0
+2018,sand castles,['Fujitsu'],0.576,0.784,0.312,0.128,0.0513,0
+2018,A Little Honey,['Nathaniel Rateliff & The Night Sweats'],0.0195,0.486,0.721,0.117,0.0303,0
+2018,Little Poor Me,['Layto'],0.000541,0.676,0.787,0.431,0.0308,0
+2018,Bottles and Bibles (Live),['Tyler Childers'],0.892,0.444,0.21,0.839,0.0352,0
+2018,No Es Justo,"['J Balvin', 'Zion & Lennox']",0.161,0.684,0.811,0.0871,0.0714,0
+2018,when the leaves come falling down,"[""j'san""]",0.903,0.656,0.295,0.123,0.0477,0
+2018,Talk Up (feat. Jay-Z),"['Drake', 'JAY-Z']",0.00354,0.758,0.491,0.292,0.138,0
+2018,Mess,['Lil Wayne'],0.479,0.641,0.579,0.214,0.0896,0
+2018,Cutting Ties,['6LACK'],0.00881,0.792,0.605,0.104,0.0393,0
+2018,I Am Defiant,['The Seige'],0.0932,0.477,0.859,0.71,0.264,0
+2018,Shattered Dreams,['Earl Sweatshirt'],0.00889,0.377,0.506,0.482,0.157,0
+2018,18 Libras,['Los Hijos De Garcia'],0.0918,0.805,0.812,0.104,0.0839,0
+2018,Every Time I Hear That Song,['Brandi Carlile'],0.544,0.577,0.53,0.103,0.0312,0
+2018,Your Teeth In My Neck,['Kali Uchis'],0.0696,0.853,0.604,0.135,0.0511,0
+2018,Gotta Be A Reason,['Alec Benjamin'],0.806,0.771,0.518,0.104,0.0404,0
+2018,Overdose,['grandson'],0.00251,0.529,0.686,0.22,0.0579,0
+2018,forever rain,['RM'],0.0307,0.389,0.591,0.392,0.0622,0
+2018,スモーク,['SwuM'],0.826,0.493,0.441,0.122,0.0572,0
+2018,Survival,['Drake'],0.133,0.555,0.596,0.123,0.375,0
+2018,Comfortable,['Lauv'],0.763,0.433,0.554,0.0903,0.165,0
+2018,I Have Love for Everyone Besides Myself.,['Barnes Blvd.'],0.97,0.352,0.238,0.0664,0.1,0
+2018,Opps Want Me Dead,['Lil Skies'],0.0508,0.779,0.591,0.1,0.344,0
+2018,One Number Away,['Luke Combs'],0.00585,0.544,0.781,0.191,0.0311,0
+2018,Moon Love,"['Boombox Cartel', 'Nessly']",0.0168,0.706,0.935,0.106,0.0565,0
+2018,Oye Mujer,"['Raymix', 'Juanes']",0.0534,0.826,0.642,0.121,0.0619,0
+2018,Hesitate,"['Golden Vessel', 'Emerson Leif']",0.739,0.406,0.53,0.108,0.045,0
+2018,Another Lifetime,['Nao'],0.415,0.452,0.317,0.184,0.0478,0
+2018,Monophobia,"['deadmau5', 'Rob Swire']",0.00153,0.545,0.747,0.135,0.0429,0
+2018,LATELY,['Machine Gun Kelly'],0.0706,0.856,0.418,0.0991,0.195,0
+2018,SMASH! - feat. PnB Rock,"['XXXTENTACION', 'PnB Rock']",0.153,0.819,0.513,0.138,0.433,0
+2018,Fake ID,"['Riton', 'Kah-Lo']",0.21,0.746,0.862,0.225,0.0776,0
+2018,BLACKJACK,['Aminé'],0.184,0.962,0.563,0.059,0.246,0
+2018,You and Me,['Shallou'],0.26,0.642,0.551,0.115,0.13,0
+2018,Candy Cane Lane,['Sia'],0.00366,0.589,0.91,0.0843,0.0623,0
+2018,Are You Ready,['Disturbed'],0.000107,0.392,0.976,0.271,0.107,0
+2018,Trace McSorley,['Matty Fresh'],0.325,0.831,0.574,0.0639,0.335,0
+2018,Thru These Tears,['LANY'],0.154,0.711,0.517,0.149,0.0391,0
+2018,Surrounded (Fight My Battles),['Michael W. Smith'],0.0514,0.483,0.556,0.0981,0.0323,0
+2018,The Man Who Has Everything,['Chance the Rapper'],0.612,0.686,0.469,0.121,0.291,0
+2018,lift me from the ground,"['San Holo', 'Sofie Winterson']",0.523,0.571,0.688,0.148,0.0401,0
+2018,Dirty South,['Upchurch'],0.239,0.583,0.459,0.111,0.0304,0
+2018,Beautiful Boy (Darling Boy) - 2010 Remastered,['John Lennon'],0.739,0.569,0.5,0.94,0.0389,0
+2018,33rd Blakk Glass,"['City Morgue', 'ZillaKami', 'SosMula']",0.162,0.373,0.862,0.48,0.0612,0
+2018,everythingoes,"['RM', 'NELL']",0.143,0.467,0.722,0.128,0.0303,0
+2018,Mileage (feat. Chief Keef),"['Playboi Carti', 'Chief Keef']",0.0635,0.743,0.616,0.111,0.181,0
+2018,The Breakup Song,['Francesca Battistelli'],0.366,0.529,0.521,0.296,0.0378,0
+2018,Hope World,['j-hope'],0.0138,0.706,0.896,0.595,0.16,0
+2018,Upper West Side,['King Princess'],0.277,0.635,0.496,0.081,0.0338,0
+2018,Rockabye (feat. Sean Paul & Anne-Marie),"['Clean Bandit', 'Sean Paul', 'Anne-Marie']",0.383,0.717,0.73,0.398,0.0568,0
+2018,Porsches In The Rain,"['YBN Nahmir', 'YBN Almighty Jay']",0.135,0.727,0.632,0.182,0.259,0
+2018,Purge,['JayDaYoungan'],0.208,0.829,0.577,0.0733,0.364,0
+2018,Peak,['Drake'],0.85,0.687,0.218,0.106,0.0388,0
+2018,Original,"['Arcangel', 'Bad Bunny']",0.0682,0.798,0.487,0.0925,0.206,0
+2018,For Now,['Kina Grannis'],0.926,0.397,0.249,0.115,0.0394,0
+2018,Good as Gold,['Greyson Chance'],0.301,0.473,0.587,0.104,0.0383,0
+2018,Grateful,['NEFFEX'],0.107,0.782,0.757,0.0779,0.0898,0
+2018,Notice,"['Moe Shop', 'TORIENA']",0.0101,0.788,0.485,0.0288,0.256,0
+2018,East Atlanta Love Letter (feat. Future),"['6LACK', 'Future']",0.389,0.581,0.315,0.0766,0.0781,0
+2018,All I Got,"['Said the Sky', 'Kwesi']",0.158,0.325,0.578,0.575,0.0455,0
+2018,Pink Noise Sleep Loop (Looped Sleep Pink Noise),"['Noise for Healing', 'Noise Sleep Loops']",0.00212,0,0.0000201,0.429,0,0
+2018,Outskirts of Heaven,['Craig Campbell'],0.333,0.497,0.434,0.108,0.0296,0
+2018,Caterpillar (feat. Eminem & King Green),"['Royce Da 5\'9""', 'Eminem', 'King Green']",0.136,0.706,0.745,0.268,0.441,0
+2018,Pink in the Night,['Mitski'],0.184,0.262,0.398,0.294,0.0303,0
+2018,White Flag,['Bishop Briggs'],0.062,0.524,0.805,0.209,0.065,0
+2018,Squidrific,['SahBabii'],0.355,0.746,0.358,0.0813,0.134,0
+2018,Nervous,['Shawn Mendes'],0.0404,0.841,0.623,0.126,0.0776,0
+2018,More than Close,['Oneke'],0.995,0.413,0.0433,0.108,0.0538,0
+2018,The Few Things,['JP Saxe'],0.601,0.536,0.322,0.113,0.0621,0
+2018,No Face No Case,['Vinny West'],0.728,0.953,0.374,0.27,0.39,0
+2018,Frio,['mike.'],0.295,0.738,0.541,0.126,0.214,0
+2018,Adan y Eva,['Paulo Londra'],0.323,0.767,0.709,0.0676,0.336,0
+2018,Lift Yourself,['Kanye West'],0.0108,0.877,0.435,0.115,0.136,0
+2018,Undo - AWAY Remix,"['RL Grime', 'Jeremih', 'Tory Lanez', 'AWAY']",0.137,0.72,0.633,0.122,0.0633,0
+2018,By Mistake,['Young Dolph'],0.0388,0.855,0.653,0.1,0.118,0
+2018,Queen Tings,"['Masego', 'Tiffany Gouché']",0.598,0.818,0.461,0.108,0.292,0
+2018,in your arms,['Saib'],0.697,0.739,0.28,0.362,0.0929,0
+2018,In This Place,['Julia Michaels'],0.0419,0.405,0.62,0.108,0.142,0
+2018,Hunger,['Florence + The Machine'],0.53,0.729,0.675,0.0985,0.0415,0
+2018,DR. WHOEVER,['Aminé'],0.64,0.639,0.332,0.0518,0.378,0
+2018,Only One King,"['Tommee Profitt', 'Jung Youth']",0.0599,0.683,0.933,0.365,0.131,0
+2018,Erase The Pain,['Palisades'],0.0000545,0.466,0.864,0.234,0.0976,0
+2018,Who You Say I Am - Live,['Hillsong Worship'],0.000278,0.269,0.666,0.609,0.0362,0
+2018,Neighborhood Hero,['Lil Durk'],0.26,0.678,0.691,0.126,0.287,0
+2018,Drawing Symbols,['YoungBoy Never Broke Again'],0.159,0.615,0.723,0.191,0.0883,0
+2018,Apollo,['St. Paul & The Broken Bones'],0.0747,0.712,0.8,0.0938,0.0377,0
+2018,sunny,"[""j'san"", 'Pandrezz']",0.468,0.811,0.429,0.109,0.0789,0
+2018,Te Vas a Acordar de Mi,['La Fiera de Ojinaga'],0.236,0.756,0.848,0.386,0.0365,0
+2018,Desperate Man,['Eric Church'],0.0716,0.711,0.796,0.262,0.0341,0
+2018,Where Angels Fear To Tread,['Disclosure'],0.23,0.679,0.735,0.148,0.136,0
+2018,Kings & Queens,['Mat Kearney'],0.336,0.621,0.61,0.157,0.0454,0
+2018,Take Me Away,['Scotty Sire'],0.0814,0.8,0.743,0.108,0.104,0
+2018,Champion,['Elina'],0.921,0.65,0.171,0.127,0.0519,0
+2018,Wait,['NoMBe'],0.219,0.762,0.459,0.168,0.0672,0
+2018,UWU,['Chevy'],0.985,0.859,0.0434,0.138,0.0886,0
+2018,Darte,"['Alex Rose', 'Myke Towers']",0.248,0.75,0.607,0.114,0.112,0
+2018,No Matter What,['Calum Scott'],0.901,0.5,0.295,0.104,0.0307,0
+2018,Stand by Me - Acoustic Live,['NEEDTOBREATHE'],0.605,0.316,0.482,0.142,0.0476,0
+2018,Ponle,"['Rvssian', 'Farruko', 'J Balvin']",0.187,0.857,0.772,0.0851,0.194,0
+2018,West Coast,['Imagine Dragons'],0.581,0.672,0.715,0.101,0.0268,0
+2018,90's Country,['Walker Hayes'],0.163,0.738,0.718,0.207,0.0414,0
+2018,Juro por Dios - En Vivo,"['Grupo Firme', 'Banda Coloso']",0.12,0.554,0.532,0.29,0.0338,0
+2018,Nice Guy (with Jessie Reyez),"['Eminem', 'Jessie Reyez']",0.0942,0.65,0.639,0.135,0.458,0
+2018,"Ashes - from ""Deadpool 2"" Motion Picture Soundtrack",['Céline Dion'],0.459,0.342,0.425,0.122,0.0425,0
+2018,Roaches,['Maxo Kream'],0.593,0.795,0.582,0.142,0.336,0
+2018,Soñador Eterno,['Carin Leon'],0.469,0.639,0.466,0.192,0.0344,0
+2018,This Could Change Everything,['Francesca Battistelli'],0.0138,0.598,0.8,0.0579,0.0382,0
+2018,Color Blind,"['Diplo', 'Lil Xan']",0.0126,0.469,0.786,0.503,0.186,0
+2018,High (& Dua Lipa),"['Whethan', 'Dua Lipa']",0.0922,0.708,0.552,0.0541,0.21,0
+2018,Love You Anymore,['Michael Bublé'],0.869,0.693,0.257,0.11,0.0356,0
+2018,Spaceship Vibes,"['NoCap', 'Quando Rondo']",0.477,0.434,0.424,0.101,0.322,0
+2018,Stuck with Me,['The Neighbourhood'],0.018,0.538,0.742,0.152,0.0521,0
+2018,Rubbin off the Paint,['YBN Nahmir'],0.00582,0.596,0.699,0.174,0.348,0
+2018,The City (with Quinn XCII),"['Louis The Child', 'Quinn XCII']",0.121,0.531,0.675,0.327,0.33,0
+2018,Find My Way,"['khai dreams', 'Atwood']",0.348,0.866,0.67,0.1,0.242,0
+2018,Real Friends,"['Camila Cabello', 'Swae Lee']",0.235,0.701,0.512,0.135,0.0969,0
+2018,Nephew (feat. Lil Pump),"['Smokepurpp', 'Lil Pump']",0.00422,0.792,0.454,0.285,0.458,0
+2018,Love Is Poison,['YoungBoy Never Broke Again'],0.0533,0.781,0.593,0.381,0.281,0
+2018,"Hello, World",['Louie Zong'],0.974,0.637,0.164,0.359,0.0319,0
+2018,La Ocasión,"['DJ Luian', 'Mambo Kingz', 'De La Ghetto', 'Arcangel', 'Ozuna', 'Anuel AA']",0.293,0.739,0.627,0.477,0.128,0
+2018,I Don't Wanna Go,['Chris Renzema'],0.427,0.518,0.404,0.117,0.0264,0
+2018,Musta Been Something,['Lake Street Dive'],0.644,0.661,0.16,0.114,0.0315,0
+2018,Chewing Gum,"['Blood Orange', 'A$AP Rocky', 'Project Pat']",0.144,0.622,0.515,0.194,0.145,0
+2018,Savage,['Bahari'],0.869,0.728,0.428,0.1,0.0469,0
+2018,WORKIN ME,['Quavo'],0.182,0.79,0.629,0.338,0.142,0
+2018,Rockefeller Street (New Nightcore) [#Rockefellerstreet Remix],['Getter Jaani'],0.283,0.659,0.936,0.192,0.0606,0
+2019,2 AM,['Swavay'],0.434,0.783,0.341,0.362,0.0727,0
+2019,Rebel's Kick It,['YoungBoy Never Broke Again'],0.233,0.453,0.72,0.156,0.255,0
+2019,Perfect Time,['Roddy Ricch'],0.171,0.577,0.734,0.12,0.432,0
+2019,Keep My Coo,['Lil Peep'],0.00618,0.816,0.723,0.263,0.0411,0
+2019,Free Time,['Ruel'],0.101,0.637,0.478,0.103,0.03,0
+2019,Alkaline,['Kota the Friend'],0.469,0.768,0.527,0.162,0.229,0
+2019,Goat,['Lil Tjay'],0.12,0.835,0.681,0.358,0.239,0
+2019,Alley Oop,"['Yung Gravy', 'Lil Baby']",0.266,0.857,0.503,0.0852,0.265,0
+2019,Runaway,"['Sebastian Yatra', 'Daddy Yankee', 'Natti Natasha', 'Jonas Brothers']",0.0336,0.756,0.851,0.126,0.0674,0
+2019,Puppy Dog,['Dreamer Boy'],0.173,0.689,0.545,0.347,0.0377,0
+2019,Crush,['Duckwrth'],0.656,0.873,0.479,0.19,0.222,0
+2019,Lost Files,['Polo G'],0.335,0.809,0.723,0.144,0.352,0
+2019,Young Blood,['Noah Kahan'],0.391,0.671,0.463,0.162,0.0439,0
+2019,I Kill People,"['Ombre2Choc Nation', 'Trippie Redd', 'Tadoe', 'Chief Keef']",0.0134,0.888,0.457,0.0872,0.315,0
+2019,pictures feat. Kacey Musgraves,"['Judah & the Lion', 'Kacey Musgraves']",0.309,0.567,0.542,0.0734,0.0309,0
+2019,Man's First Inhibition,"['NGHTMRE', 'ZHU', 'Kidd Keem']",0.0338,0.689,0.924,0.0943,0.0489,0
+2019,Missed Connection,['The Head and the Heart'],0.0117,0.669,0.789,0.387,0.052,0
+2019,Symbols,['Rosa Cania'],0.948,0.224,0.0832,0.0922,0.0618,0
+2019,El Ranchero - En Vivo,['Los Dos Carnales'],0.458,0.777,0.688,0.0441,0.242,0
+2019,Bones (feat. OneRepublic),"['Galantis', 'OneRepublic']",0.00463,0.658,0.804,0.178,0.0377,0
+2019,Soaked,['BENEE'],0.464,0.793,0.588,0.105,0.0353,0
+2019,TRIALS,['STARSET'],0.000358,0.478,0.667,0.121,0.0537,0
+2019,God Only Knows (with Dolly Parton),"['for KING & COUNTRY', 'Dolly Parton']",0.276,0.656,0.561,0.143,0.0495,0
+2019,Birthday Party,['AJR'],0.0732,0.707,0.462,0.199,0.117,0
+2019,Freaky,['Tory Lanez'],0.00202,0.966,0.563,0.105,0.0618,0
+2019,Roots,"['Valerie Broussard', 'Galantis']",0.0643,0.683,0.785,0.177,0.037,0
+2019,Way Up,"['YG Rob', '7 FN']",0.14,0.897,0.413,0.0708,0.122,0
+2019,Holler,"['Granger Smith', 'Earl Dibbles Jr.']",0.000908,0.605,0.703,0.0979,0.0429,0
+2019,Darling,['Christian Leave'],0.18,0.659,0.55,0.209,0.0505,0
+2019,You Know Wassup,['Kehlani'],0.65,0.475,0.404,0.1,0.0946,0
+2019,I Hate Hip-Hop,['Tom MacDonald'],0.0168,0.755,0.774,0.0719,0.299,0
+2019,She's Mine,['Kip Moore'],0.0000409,0.608,0.871,0.111,0.0348,0
+2019,Lost in the Middle of Nowhere (feat. Becky G),"['Kane Brown', 'Becky G']",0.00184,0.559,0.754,0.0366,0.0481,0
+2019,Life In The City,['The Lumineers'],0.506,0.743,0.57,0.0994,0.0335,0
+2019,ocean eyes - Recorded Live at Jungle City Studios,['Alicia Keys'],0.934,0.353,0.148,0.112,0.0421,0
+2019,Tidal Flow,['Yonder Dale'],0.963,0.142,0.0412,0.129,0.0466,0
+2019,Blame Leads to Shame,['Eleanor Arroway'],0.896,0.226,0.16,0.109,0.0368,0
+2019,Trip On It,"['ALLBLACK', 'Offset Jim', 'DaBoii', '$tupid Young', 'Fenix Flexin']",0.271,0.922,0.703,0.227,0.259,0
+2019,No Soy Lo Que Piensas,['Porte Diferente'],0.0333,0.615,0.551,0.106,0.0545,0
+2019,AWKWARD CAR DRIVE,"['Germ', '$uicideBoy$']",0.0133,0.811,0.441,0.0865,0.616,0
+2019,Talk,['Hozier'],0.179,0.397,0.538,0.113,0.0339,0
+2019,Fly You to the Moon,['mike.'],0.815,0.478,0.336,0.093,0.0538,0
+2019,Una Cheyenne 90,"['Jasiel Ayon', 'Junior H']",0.465,0.732,0.813,0.0975,0.0305,0
+2019,Gods Eyes,['Roddy Ricch'],0.145,0.865,0.649,0.104,0.349,0
+2019,Maybe You're the Reason,['The Japanese House'],0.106,0.621,0.762,0.302,0.0328,0
+2019,Joro,['WizKid'],0.253,0.686,0.694,0.109,0.257,0
+2019,Moist,"['Eric Bellinger', 'K CAMP']",0.0756,0.677,0.691,0.693,0.353,0
+2019,For Emmabelle,['Donato Manna'],0.931,0.194,0.0355,0.082,0.0446,0
+2019,Cuerpo en Venta,"['Noriel', 'Myke Towers', 'Rauw Alejandro', 'Almighty']",0.161,0.696,0.601,0.0974,0.302,0
+2019,BOOM,['NCT DREAM'],0.131,0.914,0.516,0.0441,0.0918,0
+2019,Mango,['Peach Tree Rascals'],0.0209,0.87,0.587,0.0888,0.0406,0
+2019,gogobebe,['MAMAMOO'],0.114,0.704,0.787,0.228,0.082,0
+2019,528 Hz DNA Repair,"['Miracle Tones', 'Solfeggio Healing Frequencies']",0.956,0.163,0.0828,0.0992,0.0442,0
+2019,Dancing,['bLAck pARty'],0.596,0.902,0.468,0.238,0.0535,0
+2019,Juliet,['Cavetown'],0.00346,0.546,0.586,0.0562,0.0313,0
+2019,Morning,"['Teyana Taylor', 'Kehlani']",0.677,0.579,0.632,0.0892,0.0918,0
+2019,The Violence,['Asking Alexandria'],0.00618,0.646,0.851,0.629,0.0662,0
+2019,Omae Wa Mou,['Shayne Orok'],0.747,0.691,0.615,0.116,0.0402,0
+2019,I Miss Myself (with HRVY),"['NOTD', 'HRVY']",0.0856,0.72,0.864,0.16,0.208,0
+2019,Realer,['Megan Thee Stallion'],0.127,0.934,0.631,0.0955,0.317,0
+2019,Us vs. The World (feat. Chris Brown & Teyana Taylor),"['Fabolous', 'Chris Brown', 'Teyana Taylor']",0.132,0.614,0.451,0.128,0.114,0
+2019,Distance (feat. Issa Gold & Erick The Architect),"['Beast Coast', 'Joey Bada$$', 'Flatbush Zombies', 'Issa Gold', 'Erick the Architect', 'Powers Pleasant']",0.003,0.784,0.606,0.101,0.125,0
+2019,Supply & Demand,['Wilder Woods'],0.0273,0.492,0.804,0.071,0.078,0
+2019,DOLLAR,"['Becky G', 'Myke Towers']",0.232,0.862,0.5,0.657,0.276,0
+2019,Moonlight,['Gaullin'],0.0648,0.811,0.721,0.263,0.099,0
+2019,417 Hz Clear Negative Energy,"['Miracle Tones', 'Solfeggio Healing Frequencies']",0.948,0.142,0.074,0.0944,0.0448,0
+2019,Career Day (with Lil Durk feat. Polo G),"['Only The Family', 'Lil Durk', 'Polo G']",0.0159,0.837,0.493,0.108,0.277,0
+2019,Catfish Billy 2,['Yelawolf'],0.0877,0.847,0.807,0.156,0.0862,0
+2019,Orbital,['Matter and Energy'],0.991,0.202,0.112,0.0769,0.0422,0
+2019,Free (with Drew Love),"['Louis The Child', 'Drew Love']",0.00561,0.653,0.565,0.145,0.0354,0
+2019,Markitos Toys,['Grupo Delta Norteño'],0.2,0.715,0.809,0.0668,0.182,0
+2019,I Just Can't Wait to Be King,"['JD McCrary', 'Shahadi Wright Joseph', 'John Oliver']",0.143,0.683,0.701,0.618,0.131,0
+2019,Not Ok,"['Kygo', 'Chelsea Cutler']",0.0292,0.618,0.66,0.325,0.0372,0
+2019,Dream about me,['Tuva Meyer'],0.976,0.169,0.0735,0.103,0.0441,0
+2019,Good Vibes,['Chris Janson'],0.022,0.582,0.846,0.133,0.0451,0
+2019,As I Am,['H.E.R.'],0.0818,0.444,0.567,0.225,0.247,0
+2019,Ain't Together,['King Princess'],0.267,0.714,0.658,0.176,0.0315,0
+2019,Éjszakai,['Vas Bela'],0.987,0.201,0.00272,0.116,0.041,0
+2019,Vibe (If I Back It Up),['Cookiee Kawaii'],0.0635,0.754,0.568,0.118,0.344,0
+2019,Feels,['Kehlani'],0.259,0.369,0.609,0.133,0.184,0
+2019,Good Grace - Live,['Hillsong UNITED'],0.00438,0.425,0.695,0.691,0.0477,0
+2019,go with u - Louis La Roche Remix,"['BAYNK', 'Louis La Roche']",0.122,0.751,0.501,0.111,0.0588,0
+2019,God Is,['Kanye West'],0.34,0.656,0.637,0.187,0.0256,0
+2019,Dead Mom,"['Sophia Anne Caruso', 'Beetlejuice Original Broadway Cast Recording Ensemble']",0.291,0.528,0.477,0.0965,0.0319,0
+2019,Crayola,['9lokknine'],0.0218,0.729,0.538,0.339,0.152,0
+2019,Maryjane y Blancanieves,['Esteban Gabriel'],0.234,0.592,0.842,0.0904,0.0679,0
+2019,Good Thing Go,['Quinn XCII'],0.476,0.876,0.376,0.106,0.257,0
+2019,Skylines,['Primer Dia'],0.964,0.198,0.125,0.112,0.041,0
+2019,DROPPED OUTTA COLLEGE,['24kGoldn'],0.0116,0.911,0.378,0.15,0.411,0
+2019,In Case You Don't Live Forever,['Ben Platt'],0.851,0.529,0.307,0.104,0.0335,0
+2019,Burbujas de Cristal,"['Cartel De Santa', 'Millonario']",0.221,0.783,0.751,0.546,0.104,0
+2019,Shiesty Summer,['Pooh Shiesty'],0.279,0.827,0.582,0.0906,0.229,0
+2019,Shallow,"['Danielle Bradbery', 'Parker McCollum']",0.232,0.561,0.673,0.0829,0.0278,0
+2019,Petrol Bliss,['Choker'],0.84,0.778,0.291,0.66,0.106,0
+2019,Mi Profesión,['Los Dos Carnales'],0.503,0.592,0.634,0.0904,0.177,0
+2019,Time (feat. Roddy Ricch),"['Fabolous', 'Roddy Ricch']",0.51,0.449,0.612,0.234,0.298,0
+2019,El Corrido de el Fantasma - En Vivo,['Los Dos Carnales'],0.501,0.494,0.72,0.329,0.203,0
+2019,Milkshake,['BBY KODIE'],0.00577,0.872,0.521,0.198,0.273,0
+2019,Hug All Ur Friends,['Cavetown'],0.821,0.621,0.177,0.0709,0.0433,0
+2019,Cross Me (feat. Chance the Rapper & PnB Rock),"['Ed Sheeran', 'Chance the Rapper', 'PnB Rock']",0.212,0.746,0.787,0.0669,0.12,0
+2019,That's Why I Love You (feat. Sabrina Claudio),"['SiR', 'Sabrina Claudio']",0.333,0.634,0.496,0.13,0.292,0
+2019,Dreamin (with blackbear),"['The Score', 'blackbear']",0.00252,0.609,0.726,0.0745,0.108,0
+2019,A Kiss,['THE DRIVER ERA'],0.207,0.696,0.923,0.158,0.272,0
+2019,365,"['Zedd', 'Katy Perry']",0.339,0.745,0.693,0.123,0.034,0
+2019,Can You Feel the Love Tonight,"['Beyoncé', 'Childish Gambino', 'Billy Eichner', 'Seth Rogen']",0.657,0.337,0.331,0.085,0.0385,0
+2019,Picasso,['Hopsin'],0.31,0.606,0.795,0.272,0.426,0
+2019,Little Miss Perfect,"['Taylor Louderman', 'Write Out Loud']",0.828,0.598,0.192,0.0949,0.124,0
+2019,Angry Too,['Lola Blanc'],0.0624,0.551,0.742,0.0673,0.0724,0
+2019,On A Roll,['Ashley O'],0.077,0.737,0.81,0.0523,0.0896,0
+2019,We don’t talk together,"['HEIZE', 'GIRIBOY']",0.039,0.64,0.734,0.333,0.0381,0
+2019,Closer To You,['Clairo'],0.164,0.76,0.376,0.107,0.0426,0
+2019,Never Let You Go,['SNBRN'],0.0188,0.752,0.662,0.212,0.0361,0
+2019,Dead Man Walking,['Jeremy Camp'],0.0337,0.518,0.799,0.12,0.0455,0
+2019,Escaping Time,['Benjamin Martins'],0.64,0.32,0.256,0.112,0.0445,0
+2019,"RACECAR (feat. Clairo, Coco & Clair Clair)","['Deaton Chris Anthony', 'Clairo', 'Coco & Clair Clair']",0.0294,0.632,0.579,0.115,0.102,0
+2019,Abandoned,['Rod Wave'],0.471,0.713,0.517,0.0756,0.12,0
+2019,All Alone,['Freddie Dredd'],0.0384,0.69,0.88,0.126,0.284,0
+2019,Fallen,"['Upchurch', 'Mama Church']",0.722,0.703,0.689,0.324,0.0472,0
+2019,Wild Side -Anime Ver.- - Anime Version,['ALI'],0.0989,0.578,0.875,0.351,0.0642,0
+2019,Sleeptalk,['Dayseeker'],0.0563,0.49,0.946,0.749,0.118,0
+2019,Samadhi (Alpha 10 hz),['Syntropy'],0.968,0.158,0.053,0.147,0.0385,0
+2019,Velitas,"['Darell', 'Brytiago']",0.225,0.819,0.596,0.138,0.318,0
+2019,Estos Tragos Van Por Ti,['Carin Leon'],0.704,0.688,0.515,0.0968,0.0284,0
+2019,In The Dark,['YG'],0.0045,0.943,0.261,0.104,0.16,0
+2019,Thy Mission,"['The Garden', 'Mac DeMarco']",0.203,0.419,0.94,0.303,0.116,0
+2019,Cheating on You,['Charlie Puth'],0.0131,0.749,0.535,0.0982,0.0336,0
+2019,Quite Miss Home,['James Arthur'],0.608,0.578,0.43,0.117,0.0282,0
+2019,Adios,['EVERGLOW'],0.000587,0.633,0.706,0.245,0.0627,0
+2019,Still Ballin (feat. Wiz Khalifa),"['Logic', 'Wiz Khalifa']",0.0151,0.79,0.677,0.169,0.104,0
+2019,Find U Again (feat. Camila Cabello),"['Mark Ronson', 'Camila Cabello']",0.00548,0.605,0.664,0.204,0.0316,0
+2019,Trampoline (with ZAYN),"['SHAED', 'ZAYN']",0.56,0.619,0.459,0.137,0.0334,0
+2019,Rule The World (feat. Ariana Grande),"['2 Chainz', 'Ariana Grande']",0.158,0.592,0.584,0.132,0.0893,0
+2019,BLOW (with Chris Stapleton & Bruno Mars),"['Ed Sheeran', 'Chris Stapleton', 'Bruno Mars']",0.000245,0.631,0.796,0.38,0.0401,0
+2019,Insomnia,['Daya'],0.0944,0.754,0.653,0.383,0.0611,0
+2019,Maak me niet wakker,['Dardan Leistra'],0.965,0.134,0.0789,0.115,0.0531,0
+2019,Summer Fade (feat. Anna of the North),"['Snakehips', 'Anna of the North']",0.00378,0.618,0.657,0.223,0.0594,0
+2019,Low,['Wage War'],0.0000125,0.5,0.967,0.12,0.0534,0
+2019,Van Horn,['Saint Motel'],0.00285,0.642,0.807,0.186,0.0421,0
+2019,Golden Embers,['Mandolin Orange'],0.869,0.652,0.168,0.113,0.0316,0
+2019,Te Soñé,['Jay Wheeler'],0.808,0.742,0.294,0.661,0.0443,0
+2019,Keep On,['Sasha Sloan'],0.485,0.762,0.582,0.113,0.104,0
+2019,Take Me Back to London (feat. Stormzy),"['Ed Sheeran', 'Stormzy']",0.219,0.885,0.762,0.162,0.216,0
+2019,Falling Stars,['Delle Alpi'],0.956,0.261,0.0257,0.111,0.0406,0
+2019,Like It (with 6LACK),"['Summer Walker', '6LACK']",0.201,0.707,0.608,0.121,0.213,0
+2019,Own It (feat. Ed Sheeran & Burna Boy),"['Stormzy', 'Burna Boy', 'Ed Sheeran']",0.00838,0.817,0.781,0.123,0.112,0
+2019,Truth Is,['Sabrina Claudio'],0.585,0.645,0.726,0.112,0.0691,0
+2019,No Te Vayas,['Camilo'],0.0527,0.766,0.721,0.128,0.0738,0
+2019,Bon Bon Chocolat,['EVERGLOW'],0.0343,0.719,0.828,0.0747,0.0613,0
+2019,Song to You,"['Curlybamm', 'Jayygoinup']",0.787,0.507,0.426,0.0895,0.0607,0
+2019,California,['Lana Del Rey'],0.793,0.439,0.412,0.0469,0.0327,0
+2019,El Chivo (feat. T3r Elemento),"['Berner', 'T3R Elemento']",0.215,0.53,0.828,0.135,0.134,0
+2019,Saturn,['RIZ LA VIE'],0.553,0.785,0.44,0.103,0.178,0
+2019,Sleeping Beauty,['Everlight'],0.962,0.164,0.0457,0.101,0.044,0
+2019,Bigger Than,"['Justin Jesso', 'Seeb']",0.151,0.421,0.669,0.635,0.127,0
+2019,Cozy Submarine Cockpit,['Sonic Observations'],0.126,0.08,0.138,0.112,0.0525,0
+2019,Schwebend,['Phillipp Vogler'],0.993,0.143,0.00679,0.115,0.039,0
+2019,Let Me See (feat. Kevin Gates & Lil Skies),"['Juicy J', 'Kevin Gates', 'Lil Skies']",0.00229,0.871,0.798,0.234,0.203,0
+2019,Dime tú,['Danny Ocean'],0.581,0.831,0.648,0.114,0.0438,0
+2019,WISH FEAT. KIDDO MARV,"['Denzel Curry', 'Kiddo Marv']",0.234,0.655,0.766,0.425,0.0736,0
+2019,Seventeen,['Sharon Van Etten'],0.0158,0.538,0.77,0.0686,0.0487,0
+2019,Atrévete,"['Nicky Jam', 'Sech']",0.311,0.552,0.675,0.119,0.297,0
+2019,Boulevard of Broken Dreams,['Codfish'],0.45,0.619,0.468,0.127,0.245,0
+2019,Mad Love,['Mabel'],0.659,0.623,0.796,0.115,0.199,0
+2019,i luv him.,['Catie Turner'],0.854,0.647,0.176,0.199,0.0751,0
+2019,Season Of The Witch,['Lana Del Rey'],0.896,0.674,0.205,0.114,0.0399,0
+2019,Gamma Freq Pads,['Masters of Binaurality'],0.713,0.205,0.121,0.11,0.0489,0
+2019,My Year,"['GASHI', 'G-Eazy']",0.213,0.84,0.811,0.258,0.0498,0
+2019,Someday - triple j Like A Version,['Julia Jacklin'],0.454,0.567,0.235,0.0938,0.0322,0
+2019,W (feat. Gunna),"['Koffee', 'Gunna']",0.178,0.856,0.721,0.0913,0.0779,0
+2019,Cocaine Country Dancing,['Paul Cauthen'],0.331,0.776,0.582,0.0926,0.0684,0
+2019,Nate Growing Up,['Labrinth'],0.0879,0.507,0.441,0.0898,0.0504,0
+2019,Hasta Abajo,"['Kevin Roldan', 'Bryant Myers', 'Lyanno']",0.289,0.714,0.671,0.325,0.362,0
+2019,Taking It Out,['DaBaby'],0.00366,0.802,0.738,0.223,0.167,0
+2019,Videos y Fotos,['Esteban Gabriel'],0.292,0.623,0.35,0.09,0.0285,0
+2019,"she likes spring, I prefer winter",['slchld'],0.552,0.326,0.66,0.264,0.0674,0
+2019,Hydrocodone,['Cuco'],0.813,0.761,0.624,0.106,0.0258,0
+2019,Bury My Bones,['Whiskey Myers'],0.00119,0.542,0.659,0.128,0.0308,0
+2019,Killing Butterflies,['Lewis Blissett'],0.34,0.592,0.783,0.0575,0.251,0
+2019,"Porque Te Quiero (Feat. Luis Alfonso Partida ""El Yaki"")","['Grupo Firme', 'Luis Alfonso Partida El Yaki']",0.733,0.428,0.483,0.145,0.0468,0
+2019,Overnight,['Maggie Rogers'],0.0323,0.479,0.667,0.306,0.177,0
+2019,It All Comes Out in the Wash,['Miranda Lambert'],0.00106,0.602,0.73,0.095,0.0313,0
+2019,это ли счастье?,['Rauf & Faik'],0.577,0.684,0.76,0.14,0.0463,0
+2019,asphyxia,['Cö Shu Nie'],0.05,0.192,0.913,0.283,0.15,0
+2019,Make Out With Me,['Maren Morris'],0.715,0.351,0.65,0.351,0.0795,0
+2019,Wells Fargo (with JID & EARTHGANG feat. Buddy & Guapdad 4000) - Interlude,"['Dreamville', 'JID', 'EARTHGANG', 'Buddy', 'Guapdad 4000']",0.0706,0.8,0.826,0.181,0.107,0
+2019,Metamodernity,['Vansire'],0.389,0.822,0.544,0.108,0.0358,0
+2019,please,"['Chelsea Cutler', 'Jeremy Zucker']",0.887,0.718,0.166,0.131,0.0344,0
+2019,Un Año,"['Sebastian Yatra', 'Reik']",0.148,0.771,0.382,0.104,0.0514,0
+2019,notice me (feat. BENEE),"['ROLE MODEL', 'BENEE']",0.136,0.72,0.481,0.301,0.0432,0
+2019,Us vs the World,['ilyTOMMY'],0.538,0.826,0.26,0.0898,0.168,0
+2019,No Plan,['Hozier'],0.115,0.456,0.75,0.114,0.0444,0
+2019,Show Me Love,"['Alicia Keys', 'Miguel']",0.447,0.531,0.491,0.0703,0.042,0
+2019,Bellaquita - Remix,"['Dalex', 'Lenny Tavárez', 'Anitta', 'Natti Natasha', 'Farruko', 'Justin Quiles']",0.141,0.795,0.715,0.179,0.0838,0
+2019,Tra Tra Tra Remix - Remix,"['Ghetto Kids', 'Guaynaa', 'Mad Fuentes']",0.0532,0.847,0.736,0.0302,0.266,0
+2019,Body On My,"['Loud Luxury', 'Pitbull', 'Nicky Jam', 'Brando']",0.0399,0.744,0.726,0.374,0.0463,0
+2019,Tequila,"['Juanes', 'Christian Nodal']",0.226,0.757,0.688,0.237,0.112,0
+2019,Just Like A Movie,['Wallows'],0.00121,0.449,0.825,0.208,0.037,0
+2019,7UP,['Boy In Space'],0.0167,0.616,0.469,0.111,0.027,0
+2019,The Train,['Paul Amp'],0.000755,0.766,0.649,0.137,0.0958,0
+2019,4 The Betta,['LUCKI'],0.233,0.78,0.453,0.114,0.337,0
+2020,2020 Freestyle,['Big Homie Prez'],0.915,0.714,0.388,0.0722,0.535,0
+2020,driveway,['Lil Peep'],0.0166,0.392,0.499,0.234,0.0425,0
+2020,Broken Glass,"['Kygo', 'Kim Petras']",0.372,0.526,0.633,0.129,0.134,0
+2020,Moonwalking in Calabasas,['DDG'],0.0395,0.915,0.37,0.171,0.0762,0
+2020,Pumpkins Scream In the Dead of Night (feat. shinigami),"['Savage Ga$p', '93FEETOFSMOKE', 'shinigami']",0.139,0.816,0.577,0.0827,0.41,0
+2020,no eres tu(soy yo),['Kali Uchis'],0.0181,0.831,0.474,0.0989,0.0792,0
+2020,Resilient (ft. Aitana) [Tiësto Remix],"['Katy Perry', 'Tiësto', 'Aitana']",0.0435,0.639,0.784,0.111,0.0562,0
+2020,"Life Is Good (feat. Drake, DaBaby & Lil Baby) - Remix","['Future', 'DaBaby', 'Drake', 'Lil Baby']",0.107,0.81,0.566,0.122,0.433,0
+2020,No Sucker (feat. Moneybagg Yo),"['Lil Baby', 'Moneybagg Yo']",0.025,0.9,0.846,0.204,0.224,0
+2020,Line Em Up (feat. Busta Rhymes),"['Russ', 'Busta Rhymes']",0.273,0.745,0.77,0.11,0.32,0
+2020,One Margarita,['Luke Bryan'],0.0969,0.641,0.842,0.169,0.0464,0
+2020,kiss kiss,['Machine Gun Kelly'],0.000279,0.569,0.85,0.337,0.055,0
+2020,Painless 2 (with NAV feat. Lil Durk),"['J.I the Prince of N.Y', 'NAV', 'Lil Durk']",0.439,0.714,0.436,0.121,0.322,0
+2020,Old Me,['5 Seconds of Summer'],0.313,0.722,0.62,0.26,0.0483,0
+2020,Who You Are To Me (feat. Lady A),"['Chris Tomlin', 'Lady A']",0.255,0.586,0.791,0.112,0.0346,0
+2020,For The Night (feat. Lil Baby & DaBaby),"['Pop Smoke', 'Lil Baby', 'DaBaby']",0.114,0.823,0.586,0.193,0.2,0
+2020,Untitled (How Does It Feel),['Giveon'],0.378,0.347,0.331,0.304,0.031,0
+2020,Gucci Bucket Hat,"['Pap Chanel', 'Future', 'Herion Young']",0.0256,0.929,0.679,0.0965,0.318,0
+2020,Stay,"['Cheat Codes', 'Bryce Vine']",0.0385,0.63,0.784,0.231,0.042,0
+2020,P FKN R,"['Bad Bunny', 'Kendo Kaponi', 'Arcangel']",0.409,0.82,0.635,0.244,0.0772,0
+2020,Down,"['G-Eazy', 'Mulatto']",0.000699,0.797,0.853,0.118,0.105,0
+2020,Freak (feat. Quavo),"['Ty Dolla $ign', 'Quavo']",0.0265,0.794,0.683,0.47,0.262,0
+2020,Morado,['J Balvin'],0.137,0.881,0.696,0.0927,0.0797,0
+2020,Only You Freestyle,"['Headie One', 'Drake']",0.562,0.68,0.826,0.254,0.27,0
+2020,DDLG,['ppcocaine'],0.267,0.906,0.388,0.301,0.252,0
+2020,Kick You When You're Down,['AC/DC'],0.0000832,0.675,0.93,0.315,0.0319,0
+2020,Free (with Drew Love),"['Louis The Child', 'Drew Love']",0.00575,0.651,0.564,0.143,0.0353,0
+2020,Inside Friend (feat. John Mayer),"['Leon Bridges', 'John Mayer']",0.448,0.693,0.259,0.0995,0.0372,0
+2020,BOOTY CALL (skit),['The Kid LAROI'],0.978,0.773,0.398,0.413,0.871,0
+2020,la luz(Fín),"['Kali Uchis', 'Jhay Cortez']",0.0851,0.732,0.457,0.0805,0.0969,0
+2020,Heavy Rain & Gentle Thunder,['Epic Soundscapes'],0.0111,0.123,0.766,0.46,0.0682,0
+2020,Speak (feat. The Kid Laroi),"['Internet Money', 'The Kid LAROI']",0.042,0.71,0.713,0.181,0.22,0
+2020,Dirty Stick,['YoungBoy Never Broke Again'],0.178,0.614,0.789,0.396,0.541,0
+2020,Se Me Olvidó,['Christian Nodal'],0.368,0.65,0.558,0.303,0.0309,0
+2020,Tentacion,['Eslabon Armado'],0.313,0.613,0.537,0.0741,0.0513,0
+2020,King Of The Fall,['The Weeknd'],0.101,0.585,0.757,0.273,0.0599,0
+2020,Don't Say Goodbye (feat. Tove Lo),"['Alok', 'Ilkay Sencan', 'Tove Lo']",0.00829,0.698,0.719,0.326,0.0455,0
+2020,Animals,['Architects'],0.000123,0.532,0.759,0.073,0.0319,0
+2020,Stay Ur Distance,['Yo Gotti'],0.0091,0.832,0.611,0.216,0.193,0
+2020,Tooka,"['GirlzLuhDev', 'DACHINC']",0.348,0.82,0.555,0.121,0.152,0
+2020,Alone,['Night Lovell'],0.0108,0.829,0.609,0.11,0.059,0
+2020,Boyfriend,['Selena Gomez'],0.218,0.811,0.512,0.0768,0.17,0
+2020,MORE,"['K/DA', 'Madison Beer', '(G)I-DLE', 'Lexie Liu', 'Jaira Burns', 'Seraphine', 'League of Legends']",0.00257,0.66,0.787,0.323,0.032,0
+2020,El Tóxico,"['Grupo Firme', 'Carin Leon']",0.407,0.626,0.503,0.234,0.141,0
+2020,The Blessing,"['Kari Jobe', 'Cody Carnes']",0.121,0.367,0.463,0.0983,0.0335,0
+2020,homecoming queen?,['Kelsea Ballerini'],0.478,0.462,0.512,0.0993,0.0334,0
+2020,Shotta Flow 5,['NLE Choppa'],0.0838,0.806,0.749,0.0621,0.328,0
+2020,Un Sueño (feat. Trippie Redd),"['Rauw Alejandro', 'Trippie Redd']",0.328,0.68,0.68,0.107,0.185,0
+2020,title track,['Machine Gun Kelly'],0.00107,0.268,0.829,0.157,0.101,0
+2020,Amor Tóxico,['Christian Nodal'],0.471,0.607,0.548,0.195,0.0258,0
+2020,if we never met (feat. Kelsea Ballerini),"['John K', 'Kelsea Ballerini']",0.207,0.957,0.365,0.132,0.0512,0
+2020,Smile,['Katy Perry'],0.0238,0.783,0.912,0.339,0.243,0
+2020,Relentless,['Polo G'],0.372,0.763,0.558,0.12,0.285,0
+2020,Ride,['King Von'],0.0239,0.596,0.594,0.125,0.191,0
+2020,Unaccommodating (feat. Young M.A),"['Eminem', 'Young M.A']",0.0169,0.852,0.752,0.394,0.0597,0
+2020,Big Drip,['Fivio Foreign'],0.186,0.814,0.659,0.163,0.357,0
+2020,Perreo Pesau',['Rauw Alejandro'],0.195,0.732,0.679,0.651,0.135,0
+2020,Pray,['jxdn'],0.0868,0.552,0.333,0.557,0.027,0
+2020,Aye Dekhe Jaa,['Arijit Singh'],0.233,0.472,0.637,0.458,0.0364,0
+2020,Good Morning,['Trippie Redd'],0.553,0.768,0.646,0.218,0.102,0
+2020,Tomar Dyakha Naai,['Arijit Singh'],0.163,0.637,0.892,0.0699,0.0379,0
+2020,Egiye De Reprise,['Arijit Singh'],0.368,0.571,0.534,0.13,0.0281,0
+2020,Shudhu Tomari Jonyo Theme,"['Arijit Singh', 'Shreya Ghoshal']",0.34,0.457,0.595,0.0509,0.0337,0
+2020,Hoye Jetey Paari,['Arijit Singh'],0.245,0.693,0.725,0.102,0.0878,0
+2020,Jodi Bolo,['Arijit Singh'],0.696,0.42,0.682,0.162,0.041,0
+2020,"Nacchite Ye Panaina (From ""Dohchay"")",['Arijit Singh'],0.222,0.654,0.713,0.312,0.0533,0
+2020,Trillionaire (feat. Youngboy Never Broke Again),"['Future', 'YoungBoy Never Broke Again']",0.237,0.768,0.526,0.139,0.209,0
+2020,Mannequin (feat. Lil Tjay),"['Pop Smoke', 'Lil Tjay']",0.456,0.683,0.799,0.264,0.3,0
+2020,Reply (feat. Lil Uzi Vert),"['A Boogie Wit da Hoodie', 'Lil Uzi Vert']",0.0187,0.512,0.623,0.13,0.0808,0
+2020,So Serious,['Sam Smith'],0.312,0.568,0.519,0.0858,0.041,0
+2020,Kitzbuhel Mild Rain And Thunder 2 Redux - Redux,['The Alpinist'],0.0426,0.0788,0.71,0.375,0.0921,0
+2020,SAD - Imanbek xxx Remix,"['Rasster', 'Erin Bloomer', 'Imanbek']",0.491,0.746,0.757,0.0863,0.054,0
+2020,Celebration Station,['Lil Uzi Vert'],0.101,0.748,0.771,0.135,0.15,0
+2020,All Bad (feat. Lil Uzi Vert),"['Future', 'Lil Uzi Vert']",0.0144,0.931,0.667,0.15,0.318,0
+2020,Young,['Sam Smith'],0.651,0.657,0.19,0.328,0.367,0
+2020,CUT EM IN (feat. Rick Ross),"['Anderson .Paak', 'Rick Ross']",0.461,0.744,0.777,0.767,0.353,0
+2020,No Te Creo,"['Rauw Alejandro', 'Wisin & Yandel', 'Mr. Naisgai']",0.129,0.762,0.892,0.107,0.189,0
+2020,F&MU,['Kehlani'],0.383,0.717,0.597,0.14,0.0838,0
+2020,Can't Relate,['King Von'],0.00294,0.87,0.764,0.259,0.267,0
+2020,One Day The Only Butterflies Left Will Be In Your Chest As You March Towards Your Death (feat. Amy Lee),"['Bring Me The Horizon', 'Amy Lee']",0.687,0.309,0.467,0.0886,0.0466,0
+2020,Reaper's Child,['YoungBoy Never Broke Again'],0.394,0.759,0.701,0.0976,0.182,0
+2020,Kobe En LA 2.0,['Jhay Cortez'],0.0941,0.45,0.637,0.092,0.0629,0
+2020,Ojos De Maniaco,"['LEGADO 7', 'Junior H']",0.21,0.795,0.585,0.112,0.0374,0
+2020,Sea Change,['Stephan Moccio'],0.993,0.458,0.00701,0.102,0.0438,0
+2020,556,['Comethazine'],0.274,0.868,0.512,0.0706,0.477,0
+2020,Lemonade - Remix,"['Internet Money', 'Don Toliver', 'Roddy Ricch']",0.168,0.832,0.549,0.11,0.0602,0
+2020,lonely,['Machine Gun Kelly'],0.015,0.455,0.728,0.111,0.0749,0
+2020,RUNNING,['The Kid LAROI'],0.377,0.438,0.585,0.13,0.0908,0
+2020,Mindreader,['A Day To Remember'],0.00065,0.471,0.947,0.305,0.112,0
+2020,Modest,['NAV'],0.0234,0.929,0.658,0.102,0.1,0
+2020,6locc 6a6y (feat. NLE Choppa) - Remix,"['Lil Loaded', 'NLE Choppa']",0.277,0.862,0.673,0.101,0.3,0
+2020,Power,"['Kevin Gates', 'Dermot Kennedy']",0.133,0.591,0.616,0.144,0.0789,0
+2020,No Pressure Intro,['Logic'],0.372,0.794,0.845,0.124,0.387,0
+2020,What They'll Say About Us,['FINNEAS'],0.895,0.535,0.314,0.0874,0.0408,0
+2020,if i were u (with Lauv),"['blackbear', 'Lauv']",0.144,0.666,0.628,0.189,0.0623,0
+2020,Off Season,['YoungBoy Never Broke Again'],0.355,0.677,0.717,0.151,0.239,0
+2020,"The Man, The Myth, The Legend - Interlude",['Juice WRLD'],0.916,0.667,0.447,0.612,0.761,0
+2020,Hell and High Water (feat. Alessia Cara),"['Major Lazer', 'Alessia Cara', 'Diplo']",0.368,0.474,0.771,0.183,0.262,0
+2020,Weight On Me,"['Sheff G', 'Sleepy Hallow']",0.707,0.801,0.533,0.125,0.222,0
+2020,nothing inside (feat. iann dior),"['Machine Gun Kelly', 'iann dior']",0.00047,0.561,0.81,0.157,0.0461,0
+2020,Any song,['ZICO'],0.118,0.874,0.787,0.11,0.129,0
+2020,COOCHIE,"['YN Jay', 'Louie Ray']",0.553,0.793,0.471,0.149,0.312,0
+2020,Commander In Chief,['Demi Lovato'],0.251,0.496,0.502,0.0935,0.052,0
+2020,FREAK,"['Tyga', 'Megan Thee Stallion']",0.00438,0.933,0.556,0.114,0.216,0
+2020,Wild Reputation,['AC/DC'],0.00012,0.737,0.709,0.199,0.0337,0
+2020,Keii,['Anuel AA'],0.4,0.708,0.797,0.096,0.0391,0
+2020,Leaders (feat. NAV),"['Lil Uzi Vert', 'NAV']",0.0744,0.95,0.654,0.138,0.307,0
+2020,Tattoo,['Rauw Alejandro'],0.0217,0.755,0.617,0.0625,0.182,0
+2020,For Me,"['CHASE B', 'OMB Bloodbath', 'KenTheMan']",0.00919,0.904,0.498,0.0791,0.324,0
+2020,Surf,['Mac Miller'],0.754,0.828,0.182,0.15,0.166,0
+2020,Good Day,['iann dior'],0.632,0.715,0.64,0.0905,0.106,0
+2020,Reality Check,['Swae Lee'],0.176,0.542,0.434,0.178,0.0645,0
+2020,ángel sin cielo,['Kali Uchis'],0.924,0.443,0.178,0.078,0.0358,0
+2020,Weeks,['Kevin Gates'],0.142,0.638,0.561,0.0665,0.353,0
+2020,Broken Love,"['MO3', 'Kevin Gates']",0.373,0.768,0.5,0.145,0.62,0
+2020,WUNNA,['Gunna'],0.0217,0.89,0.455,0.11,0.255,0
+2020,Thinking 'Bout You (feat. Lauren Alaina),"['Dustin Lynch', 'Lauren Alaina']",0.13,0.394,0.747,0.0747,0.0627,0
+2020,HIT EM WHERE IT HURTS,['PawPaw Rod'],0.126,0.78,0.721,0.078,0.214,0
+2020,Not Friendly,['Flo Milli'],0.0539,0.878,0.793,0.0934,0.188,0
+2020,B.I.T.C.H.,['Megan Thee Stallion'],0.0851,0.742,0.731,0.131,0.306,0
+2020,SKYBOX,['Gunna'],0.0991,0.779,0.707,0.0934,0.16,0
+2020,Ayer Me Llamó Mi Ex (feat. Lenny Santos),"['KHEA', 'Lenny Santos']",0.254,0.752,0.716,0.243,0.0325,0
+2020,Another One,['Sam Smith'],0.206,0.497,0.618,0.403,0.0932,0
+2020,I'm Ready For You,['Bryson Tiller'],0.228,0.741,0.64,0.138,0.405,0
+2020,1 2 3 (feat. Blac Youngsta),"['Moneybagg Yo', 'Blac Youngsta']",0.027,0.947,0.58,0.0616,0.46,0
+2020,One Too Many,"['Keith Urban', 'P!nk']",0.247,0.697,0.535,0.569,0.068,0
+2020,Internet Ruined Me,['Wilbur Soot'],0.724,0.726,0.371,0.132,0.0623,0
+2020,No Man's Land,['AC/DC'],0.000459,0.49,0.905,0.202,0.03,0
+2020,Mi Nena,['Nueva Conducta'],0.0937,0.687,0.847,0.0288,0.0543,0
+2020,Ganas Que Te Tengo,['Eslabon Armado'],0.608,0.527,0.58,0.109,0.04,0
+2020,Train Wreck - Acoustic,['James Arthur'],0.748,0.529,0.364,0.0913,0.0381,0
+2020,Dreamer,['Trippie Redd'],0.0975,0.534,0.668,0.191,0.0351,0
+2020,Enchule,['Rauw Alejandro'],0.153,0.761,0.668,0.301,0.211,0
+2020,The Difference,['Tyler Rich'],0.113,0.535,0.749,0.108,0.0525,0
+2020,Next To You,['Little Big Town'],0.756,0.53,0.394,0.099,0.0276,0
+2020,Sunshine,['Young Dolph'],0.00618,0.823,0.51,0.103,0.126,0
+2020,Lie To Me,"['Queen Naija', 'Lil Durk']",0.31,0.52,0.719,0.0882,0.383,0
+2020,Rambo (Last Blood) (feat. The Weeknd),"['Bryson Tiller', 'The Weeknd']",0.228,0.508,0.686,0.102,0.136,0
+2020,Nepenthe,['Clyde Boudreaux'],0.993,0.133,0.00512,0.0954,0.038,0
+2020,Code Red,['AC/DC'],0.000123,0.549,0.731,0.0655,0.035,0
+2020,I Found You,"['Cash Cash', 'Andy Grammer']",0.0714,0.646,0.761,0.222,0.0385,0
+2020,Almighty Black Dollar (feat. Rick Ross),"['Jeezy', 'Rick Ross']",0.0647,0.721,0.797,0.286,0.0926,0
+2020,"I miss you, I’m sorry",['Gracie Abrams'],0.731,0.445,0.455,0.124,0.0575,0
+2020,MET GALA,['Gunna'],0.353,0.873,0.577,0.111,0.271,0
+2020,Spicy (feat. Fivio Foreign & A$AP Ferg),"['Nas', 'Fivio Foreign', 'A$AP Ferg']",0.0187,0.724,0.603,0.169,0.406,0
+2020,Systems Down,['AC/DC'],0.000019,0.649,0.849,0.0949,0.0326,0
+2020,Trying My Best,['Anson Seabra'],0.951,0.691,0.0682,0.0916,0.0645,0
+2020,bloody valentine - Acoustic,"['Machine Gun Kelly', 'Travis Barker']",0.634,0.658,0.425,0.129,0.0401,0
+2020,Que Fue Lo Que Paso,['Marca MP'],0.711,0.623,0.287,0.0663,0.0385,0
+2020,Outro : Ego,['BTS'],0.0121,0.808,0.903,0.0993,0.0958,0
+2020,Gimme Love,['Joji'],0.695,0.484,0.632,0.209,0.0976,0
+2020,Feed The Fire (feat. Lucky Daye),"['SG Lewis', 'Lucky Daye']",0.0197,0.849,0.682,0.0996,0.123,0
+2020,24,['Arizona Zervas'],0.156,0.735,0.794,0.11,0.193,0
+2020,Money Shot,['AC/DC'],0.00038,0.628,0.83,0.0982,0.0626,0
+2020,Mean,"['$NOT', 'Flo Milli']",0.169,0.844,0.72,0.0797,0.3,0
+2020,Down Me,"['King Von', 'Lil Durk']",0.0473,0.775,0.657,0.0915,0.659,0
+2020,Last Time (feat. Snoh Aalegra),"['Giveon', 'Snoh Aalegra']",0.39,0.634,0.416,0.445,0.0446,0
+2020,IMPORTED (with 6LACK),"['Jessie Reyez', '6LACK']",0.246,0.712,0.606,0.109,0.0518,0
+2020,Second Guessing - From Songland,['Florida Georgia Line'],0.381,0.547,0.511,0.15,0.0275,0
+2020,When We Shoot,['Lil Durk'],0.0259,0.908,0.331,0.0718,0.722,0
+2020,WOW (feat. Sabrina Carpenter) - Remix,"['Zara Larsson', 'Sabrina Carpenter']",0.469,0.702,0.744,0.0915,0.0861,0
+2020,worlds away,['Lil Peep'],0.0000579,0.646,0.647,0.0417,0.0837,0
+2020,Trap This Way (This Way),['Lil Uzi Vert'],0.248,0.71,0.586,0.193,0.381,0
+2020,Cool,['Dua Lipa'],0.133,0.47,0.785,0.0931,0.0664,0
+2020,Make It Rain (feat. Rowdy Rebel),"['Pop Smoke', 'Rowdy Rebel']",0.162,0.5,0.767,0.385,0.403,0
+2020,What It Is,['KYLE'],0.0732,0.84,0.304,0.115,0.101,0
+2020,Pretty Please,"['Jackson Wang', 'Galantis']",0.0397,0.686,0.867,0.396,0.0449,0
+2020,I Know The End,['Phoebe Bridgers'],0.324,0.328,0.32,0.234,0.035,0
+2020,Christmas Isn't Christmas,['Dan + Shay'],0.719,0.42,0.466,0.163,0.0293,0
+2020,THE END,"['Alesso', 'Charlotte Lawrence']",0.0242,0.639,0.711,0.142,0.0315,0
+2020,Let Me Know,['Brent Faiyaz'],0.175,0.743,0.548,0.088,0.0947,0
+2020,Caramelo,['Ozuna'],0.0529,0.735,0.791,0.145,0.0679,0
+2020,A Letter To My Younger Self (feat. Logic),"['Quinn XCII', 'Logic']",0.0358,0.822,0.834,0.0461,0.0663,0
+2020,Vibe (If I Back It Up),['Cookiee Kawaii'],0.0627,0.778,0.576,0.116,0.301,0
+2020,Ponte Pa' Mi,"['Rauw Alejandro', 'Myke Towers', 'Sky Rompiendo']",0.41,0.809,0.624,0.108,0.155,0
+2020,Zombie (Live from the NIVA Save Our Stages Festival),['Miley Cyrus'],0.000206,0.407,0.872,0.127,0.0354,0
+2020,Tattoo - Remix with Camilo,"['Rauw Alejandro', 'Camilo']",0.0406,0.721,0.637,0.0525,0.286,0
+2020,West Coast (feat. Quinn XCII),"['DVBBS', 'Quinn XCII']",0.00248,0.714,0.798,0.103,0.0612,0
+2020,Red Eye,['YoungBoy Never Broke Again'],0.217,0.485,0.814,0.112,0.138,0
+2020,"Elegí (feat. Farruko, Anuel AA, Sech, Dímelo Flow & Justin Quiles) - Remix","['Rauw Alejandro', 'Dalex', 'Lenny Tavárez', 'Farruko', 'Anuel AA', 'Sech', 'Dímelo Flow', 'Justin Quiles']",0.16,0.788,0.629,0.0598,0.0883,0
+2020,Heather - Spotify Singles,['Tate McRae'],0.886,0.569,0.271,0.103,0.0271,0
+2020,Trials & Tribulations,['Polo G'],0.0829,0.796,0.612,0.0607,0.433,0
+2020,Springtime,['Chris Renzema'],0.541,0.292,0.355,0.0931,0.0294,0
+2020,La Playa - Remix,"['Myke Towers', 'Maluma', 'Farruko']",0.201,0.775,0.633,0.219,0.133,0
+2020,Address It,['LPB Poody'],0.109,0.903,0.611,0.0904,0.268,0
+2020,Summertime The Gershwin Version,['Lana Del Rey'],0.968,0.234,0.114,0.103,0.0366,0
+2020,7.62 God,['Pooh Shiesty'],0.00861,0.819,0.651,0.378,0.291,0
+2020,Like Gold,"['Loud Luxury', 'Frank Walker', 'Stephen Puth']",0.0699,0.759,0.845,0.215,0.0421,0
+2020,I Don't Think I'm Okay,['Bazzi'],0.574,0.445,0.33,0.102,0.0429,0
+2020,Timeless Interlude,['Bryson Tiller'],0.815,0.467,0.429,0.177,0.0964,0
+2020,Soda (feat. Take A Daytrip),"['DJ Scheme', 'Cordae', 'Ski Mask The Slump God', 'Take A Daytrip']",0.00952,0.917,0.569,0.0774,0.279,0
+2020,Sunblind,['Fleet Foxes'],0.31,0.562,0.686,0.125,0.0249,0
+2020,We Contain Multitudes (from home),['Ólafur Arnalds'],0.994,0.281,0.0333,0.0995,0.0348,0
+2020,NASTY GIRL / ON CAMERA,['Gunna'],0.204,0.598,0.472,0.108,0.258,0
+2020,Med slutna ögon,['Najma Wallin'],0.974,0.175,0.00759,0.113,0.0454,0
+2020,China,"['Anuel AA', 'Daddy Yankee', 'KAROL G', 'Ozuna', 'J Balvin']",0.0846,0.786,0.808,0.0822,0.0881,0
+2020,Halloweenie III: Seven Days,['Ashnikko'],0.206,0.717,0.753,0.101,0.0605,0
+2020,AYA,['MAMAMOO'],0.101,0.634,0.858,0.258,0.0809,0
+2020,Darkness,['Eminem'],0.00998,0.671,0.623,0.643,0.308,0
+2020,Billetes Azules (with J Balvin),"['KEVVO', 'J Balvin']",0.132,0.856,0.721,0.182,0.108,0
